@@ -1,0 +1,256 @@
+- [Voiceover] We spent some time talking about hydrocarbons
+and hydrocarbons are interesting
+especially if you want to combust things,
+if you want some fuel, but now we're going to
+make things a little bit more interesting
+by adding things to the hydrocarbons
+and the things we're gonna add we call functional groups.
+Functional groups.
+And my goal in my video is to give you
+an overview of the major functional groups
+that you might see attached to carbon backbones
+that make the molecules interesting biologically.
+Now, the first one I will focus on
+is an OH group.
+So, we have an OH attached to a carbon backbone over here.
+It doesn't have to be attached to a carbon backbone
+but the OH right over here, this is called a hydroxyl group.
+Hy, hydroxyl group,
+and when it is attached to a
+carbon backbone like this one is
+then it turns the entire molecule into an alcohol.
+Alcohol. This an alcohol.
+And this one in particular if you want the name
+we have two carbons on the longest, longest chain
+and it is an alcohol so we use the
+prefix Eth for the two carbons.
+So, let me write that down.
+We're going to use the prefix Eth
+because we have two carbons here.
+And we're gonna say Ethanol.
+Now, what are the properties here?
+Well, you have oxygen which is very electronegative
+bonded to a hydrogen and to a carbon
+but the oxygen is a lot more
+electronegative than the hydrogen
+so you're going to have a partially negative charge
+at this end away from the hydrogen.
+A partial positive charge at the hydrogen
+and to a lesser degree the carbon end too
+but hydrogen is even less,
+is a less electronegative than even carbon.
+And this one, so, a hydroxyl group
+they are polar, they are polar,
+and because they are polar you can dissolve them into water.
+They are hydrophilic.
+They can form hydrogen bonds so that you can dissolve this.
+Now, similar, a similar functional group
+or one that has somewhat similar properties
+is right over here.
+And you might say, "Wait, why is this one similar?
+"I have sulfur here instead of oxygen."
+But if you look at the periodic table
+you will see that sulfur and oxygen
+both have six valence electrons.
+They both would love nothing more than to grab
+or pretend to grab two other electrons
+and this is why they form,
+they tend to form two covalent bonds.
+And so, this group right over here,
+which is called a sulfhydryl group.
+This is a sulf....
+Sulfhydryl.
+Sulfhydryl group.
+It's kind of similar to a hydroxyl group
+with the one difference,
+with the one difference that sulfur is electronegative
+but it is less electronegative than oxygen.
+So, you're still gonna have a partially negative charge
+and a partially positive charge,
+but it's going to be less polar.
+So, it's not quite as polar as if you had a hydroxyl group.
+Now, when you have this sulfhydryl group
+it's attached to, say, a carbon chain
+and when I use this R right over here, when I have this R.
+This is just shorthand for carbon
+and a bunch of other stuff.
+I could've, if I wanted to generalize
+an alcohol right over here
+I could've written R and then
+I could've written the hydroxyl group.
+O and then bond that, bond that to an H.
+So, over here the shorthand R would have been the shorthand
+for all of...
+The R would've been the shorthand
+for all of this business.
+All of this business right over here.
+And so that's what we're doing over there.
+I'm not saying that this R is exactly this.
+It means that some carbon backbone
+and some carbons, hydrogens, and maybe other stuff,
+maybe even some other functional groups,
+but we're just focused on the sulfhydryl right over here.
+And so if you see something like this, you'd say
+"Okay, yeah, this is still going to be polar,
+"but not quite as polar as if I were dealing
+"with a hydroxyl group."
+Now over here we have a more complex molecule,
+but this is a molecule that you run into
+probably on a daily basis.
+This is the sugar fructose.
+This is the sugar fructose.
+And this is when it is not in a ring.
+If you were to throw this into--
+If you were to throw this into water,
+it'll readily form a ring, but when it is not in a ring form
+you can recognize already the hydroxyl groups.
+You have a hydroxyl group on this carbon.
+You have a hydroxyl group on this carbon.
+Hydroxyl group on this carbon.
+You have a hydroxyl group on that carbon.
+You have a hydroxyl group on this carbon.
+And then, on this carbon, it's double bonded to an oxygen.
+We call this a carbonyl group.
+So this is a carbonyl.
+Carbonyl.
+Carbonyl group.
+Now this is actually how you would tell a sugar,
+it's like, look, especially when it's in a straight chain,
+all my carbons have one hydroxyl on them
+except for this one, it has a carbonyl group.
+And one of the take aways for a carbonyl group,
+we've already talked about
+oxygen being very electronegative,
+even more electronegative than carbon, it's double bonds,
+it's going to hog the electrons on the oxygen end,
+so you're going to have a partially negative charge.
+Partially negative charge over here,
+partially positive charge over here,
+and so this, this one is also going to be polar.
+And then, in fact, the entire molecule is very polar
+because it has all these hydroxyl groups on it as well,
+but this is also going to give it polarity here
+and, because this carbon has a slightly positive charge,
+it is susceptible to nucleophilic attack,
+and when you take organic chemistry,
+you'll see that things that want to share--
+That have a predisposition to share their electrons
+in a bond might want to come and form a bond
+with this carbon and maybe one of these electron pairs
+go back to this oxygen and maybe bond with something else,
+but we'll talk about it in the future
+when we study some organic chemistry mechanisms.
+The important thing here is just recognize,
+"Okay, I've got some hydroxyl groups?
+"Okay, I've got a carbonyl group right over here as well."
+Now this molecule, this is an amino acid,
+and you will see amino acids a lot when you study biology.
+And this has actually a couple of interesting groups on it.
+The first group of note is this stuff
+that I am circling in orange because you have a carbon that,
+you could say it's part of a carbonyl group,
+but it is also bound to a hydroxyl group.
+It is also bound to a hydroxyl group right over there.
+And when you have this configuration where you have
+a carbon bond double-bonded to an oxygen
+and then single-bonded to a hydroxyl group,
+we call this a carboxyl group.
+This is a carboxyl.
+Carboxyl, carboxyl group.
+And one of the take aways from this is that it is acidic
+because this can readily give up the hydrogen proton.
+This oxygen, we already know oxygen likes to hog electrons,
+it can take up both of these electrons and become negative,
+and actually, there's actually resonance here
+because those electrons get shared throughout the group
+and actually even potentially even beyond the group
+but especially inside of the group,
+then leaving the hydrogen proton.
+So this can readily donate a hydrogen proton...
+This can readily donate a hydrogen proton,
+so this is generally viewed as acidic.
+Acidic.
+Now, this amino acid over here,
+it also, and this is where this name comes from,
+actually the acid comes from this carboxyl group,
+this is the acidic part, and then you have an animo group.
+You have an amino group right,
+right over here.
+And because it's involving a nitrogen,
+this is the amino group.
+This is what gives the amino part of the name amino acid.
+Amino acid.
+And this actually is generally basic.
+Because nitogen could--
+It has a lone pair.
+It has a lone pair of electrons right over here.
+And so it could use that lone pair to pick up,
+to form a bond with a hydrogen ion,
+to pick up a hydrogen ion.
+So, under the right circumstances, it can form a bond
+with a hydrogen ion, which, we know, a positive ion,
+which would just be a proton,
+and so it would have a positive charge.
+And so since it can sop up hydrogen ions,
+we can view this, the amino group, as being basic.
+But this right over here is leucine,
+it's an amino acid super important for muscle growth,
+but there you can appreciate.
+You have essentially a hydrocarbon chain,
+but it has a carboxyl group at this end
+and an animo group right over here.
+And another thing that you'll sometimes people talk about
+is even hydrocarbon groups.
+For example, if you consider the main chain of this,
+and we could consider to
+either using this carbon or this carbon,
+but if we consider this to be the main chain of carbons,
+if we consider that to be the main chain of carbons,
+then we would consider this right over here
+to be a methyl group.
+Remember, the prefix "meth" refers to one carbon,
+so it's one carbon bonded to a bunch of hydrogens,
+to three hydrogens here,
+and so we would call this a methyl group.
+And in general, if you have a hydrocarbon
+bonded to other hydrocarbon groups,
+these things are hydrophobic.
+So these things, there's nothing polar about them,
+and so they're not going to want to,
+at least these parts of the molecule
+are not going to naturally dissolve inside of water.
+Now the last group we're going to focus on,
+and you're going to see a lot of these, and especially
+in biology, you're going to see this as a part of ATP,
+you're going to see it's the backbone of DNA,
+and that's phosphate groups.
+And this right over here,
+this right over here is the phosphate group.
+I've drawn it bonded to a bunch of,
+kind of a group over here, who knows what it is,
+bunch of carbons, a bunch of other things,
+and then I've bonded it to two hydrogens,
+but it doesn't always have to be bound to hydrogens.
+But when it is bound to hydrogens like this,
+it's considered to be protonated,
+and so it can actually take up, it can actually
+hog these electrons and dump these hydrogens,
+and dump these hydrogens into a solution.
+So a phosphate group is considered to be acidic.
+It is considered as well, especially when it is protonated
+like this, it is considered to be acidic
+because it can donate protons.
+So this is just an overview
+of a lot of the functional groups you will see throughout
+biology and a lot of big, hairy complex molecules,
+when you actually break it down, you say,
+"Okay, there's a hydrocarbon chain there.
+"Oh, I see a sugar there!
+"I see a bunch of hydroxyls, and I have a carbonyl group.
+"Oh, I see an amine group, I see--
+"Or, amino group.
+"I see a carboxyl group."
+You can think about this going to be acidic?
+Is it going to be polar?
+Or do different parts of the molecule
+have different functions?

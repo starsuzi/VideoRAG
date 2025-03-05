@@ -1,0 +1,194 @@
+Hydrogen bonding can be so confusing, so I
+want to talk about some common mistakes people
+make so you won't ever make them.
+Okay, so hydrogen bonds are a type of intermolecular
+bond.
+Intermolecular bonds form between molecules,
+that's why we call them intermolecular.
+Now this "between" part is super important.
+Between two different molecules, I'm underlining
+it twice in red.
+Okay, let's look at hydrogen bonds in some
+ethanol molecules.
+So, ethanol's an alcohol and if we could take
+a drop of ethanol and zoom in zillions and
+zillions of times in it this is what we'd
+see.
+We'd see a bunch of different molecules all
+twisting around to different orientations
+and here they are.
+So, where are the hydrogen bonds in these
+molecules?
+Well as I said earlier, intermolecular bonds,
+hydrogen bonds, form between molecules, okay?
+So this can't be a hydrogen bond because it's
+not between molecules, okay?
+The CH, that can't be a hydrogen bond either
+because it's in the same molecule.
+It's not between molecules.
+In the CC, it can't be a hydrogen bond either
+because it's in the same molecule, not between
+different molecules.
+So that's the first important thing to keep
+in mind; if a bond is in just one molecule
+it's not an intermolecular bond and it's certainly
+not a hydrogen bond.
+Okay, so that means that the hydrogen bond
+has to be between different molecules.
+Here's how it works.
+In hydrogen bonding, in this case, an H connected
+to an O is bonded to an O on another molecule.
+Okay, so this H is attached to an O and so
+it will form a hydrogen bond with this O over
+here.
+I'll indicate this hydrogen bond with a couple
+red dots so there is a hydrogen bond here.
+This H connected to the O here can form a
+hydrogen bond with this O over here on this
+molecule.
+So again, a hydrogen bond I'll indicate with
+a couple of these red dots here.
+So there's a hydrogen bond here.
+Okay now, a common mistake that some people
+make is they think anytime there is an H,
+it can form a hydrogen bond between molecules.
+They say there's an H here connected to the
+C, there's an H here connected to the C, so
+this can form a hydrogen bond.
+Right?
+No.
+It can't.
+It has to be an H connected to an O bonding
+with another O in this case.
+So it can't be this H with the C and this
+H with the C, that's not a hydrogen bond.
+Another mistake is taking a H that's connected
+with the C and connecting it with an O. That's
+kind of half right because in this case O's
+are forming hydrogen bonds but if the H is
+connected with a C it cannot form a hydrogen
+bond either.
+It has to be an H connected with an O making
+a bond with an O on another molecule.
+This is wrong, this is wrong, but these two
+hydrogen bonds between the molecules is the
+way to go.
+Okay, so now that you know how to find and
+draw hydrogen bonds,
+let's talk about how hydrogen bonds form in
+the first place.
+Here I have two ethanol molecules; they're
+going to form a hydrogen bond between them.
+In this case, it's all about the O and the
+H. So the O and the H in this molecule are
+connected to each other with this line which
+indicates that it's a covalent bond that's
+holding them together.
+They're sharing electrons to form this covalent
+bond so they're stuck together because they're
+sharing electrons.
+Here's the thing though with the sharing,
+they are not sharing those electrons equally,
+okay?
+The oxygen has what we call a higher electronegativity.
+All that means is that when it shares with
+hydrogen, it hogs the electrons.
+So it's maybe supposed to be sharing equally
+but instead it's hogging the electrons.
+Because it has all these extra electrons that
+it's hogging, it has a little bit of a minus
+charge because of those electrons that are
+spending more time with it.
+So we can write this minus sign here in this
+squiggle that's actual a lower case Greek
+Delta letter D.
+We have this lower case Greek Delta with a
+negative sign meaning the O is a little bit
+negative because it's hogging those electrons.
+On the other hand, hydrogen here is getting
+the electrons hogged away from it.
+So it's missing those electrons so it has
+lower case Delta plus, it's a little bit positive.
+Now the same thing is happening over on this
+molecule.
+The oxygen is hogging an electron so it has
+a Delta minus sign because it has a little
+bit of a negative charge; those extra electrons
+that it's hogging away.
+An H that is getting thieved away from here,
+it has a little bit of a positive charge.
+So now you can see what's going on here.
+The positive hydrogen here is going to be
+attracted to the negative oxygen here.
+So this attraction, it's sort of like magnets.
+You know how magnets attract together?
+It's like this attractive force between the
+positive hydrogen and the negative oxygen.
+So we can say that the hydrogen bonds formed
+because O is hogging electrons from H. It's
+making O a little bit negative, it makes H
+a little positive so this positive H is going
+to be attracted to a negative O on another
+molecule.
+Now here's the thing, earlier I said that
+if an H is bonded to a C it will not form
+a hydrogen bond.
+Here's why.
+It's because C and H share their electrons
+evenly in this spot.
+Because they're sharing them evenly, it's
+not possible for the C to become negative
+and the H to become positive because the electrons
+spend equal time with both of them.
+So you don't get these negative and positive
+charges when H is bonded to a C since there
+are no charges.
+H's bonded to C's can't form hydrogen bonds.
+So it turns out that O and H aren't the only
+atoms that can form hydrogen bonds.
+We saw just a minute ago that O when it's
+bonded to H, O hogs those electrons away from
+H. It's not the only atom that can do that.
+Fluorine also has a high electron negativity
+which means it likes to hog so fluorine when
+it's bonded to an H also has a little bit
+of a negative charge making the hydrogen get
+a little bit of a positive charge.
+Nitrogen(II) is able to hog electrons away
+from hydrogen so it gets a negative charge
+getting hydrogen a positive charge.
+So there are three atoms that can participate
+in hydrogen bonding besides hydrogen and they
+are F, O, and N. If a hydrogen is bonded to
+a F, O, or an N that hydrogen can form a hydrogen
+bond.
+You can think about it because it spells FON,
+not correctly, but F-O-N.
+So here's the thing, these guys all have to
+attach, they have to be attracted to an atom
+on another molecule, okay?
+So for example, this positive H here can be
+attracted to an O on another molecule because
+that O will be a little bit negative.
+But this O could also bind with an H attached
+to an F. Or an O because it's a little bit
+negative could bond to an H if it's attached
+to an N. Okay?
+So that's possible.
+Or you can have an F, a fluorine, bonding
+with any of these H's if H is attached to
+it.
+F or an O or an N this slightly negative fluorine
+will be able to hydrogen bond with a positive
+hydrogen.
+Similarly, nitrogen(II) when it's on another
+molecule can form a hydrogen bond with any
+of these three combinations; the H to the
+N, the H connected to the O, or the H connected
+to the F. So whenever you see a hydrogen connected
+to a fluorine, oxygen, or nitrogen that means
+that it can form a hydrogen bond.
+Any of the hydrogens can form a hydrogen bond
+with a nitrogen, fluorine, or oxygen on another
+molecule.
+So that is hydrogen bonding.

@@ -1,0 +1,243 @@
+This is the Rainbow Aviation Video
+Channel, and I'm your host Brian
+Carpenter. In today's episode we're going
+to be looking at bending aluminum sheet
+metal for aircraft, in particular we will
+take an in-depth look at the theory for
+making a flat lay out, calculating Bend
+allowance, and determining setback. This
+is a companion video for the "Technically
+Speaking" article published in the May
+2017 Sport Aiation Magazine. In this
+video we're going to back up a bit and
+provide some of the theory necessary to
+understanding how we go about the
+process of converting a flat piece of
+sheet metal into a complex sheet metal
+component. Learning to accurately layout
+and Bend sheet metal is a very useful
+exercise. Once you've mastered the
+process, you will find that it not only
+saves you a great deal, of time but can
+also save you a great deal of wasted
+material. To start with, let's examine
+some of the properties of aluminum sheet
+metal used in aircraft. The two most
+common alloys used are 6061-t6 and 20 20
+43. 6061-t6 is one of the least expensive
+and most versatile of the heat treatable
+aluminum alloys. 6061-t6 has a tensile
+strength of approximately 40,000 psi it
+has good corrosion resistance in
+comparison to 2024 T3. And the current
+cost per square foot for a piece of
+.040" thick material is about $2.53
+on the other hand
+2024 is one of the best known of the
+high-strength aluminum alloys with its
+high strength about 50,000 psi tensile
+strength in the t3 condition. It is used
+on structures and parts where a good
+strength to weight ratio is desired.
+Since corrosion resistance is relatively
+low 2024 is commonly used in the clad
+or alclad form. This provides a thin
+surface layer of high purity aluminum on
+the surface of the alloy aluminum.
+The cost of 2020 T3 is about 50% more
+than that of 6061-T6 aluminum, costing
+about $3.94 cents per square foot
+for .040" thick aluminum
+sheet. Understanding the properties of
+each of the aluminum alloys becomes very
+important during the sheet metal layout
+and bending process. In particular the
+malleability and ductility. By definition,
+ductility is the solid materials ability
+to deform under tensile stress. And
+malleability is the ability of the
+material to deform under compressive
+stress. The ductility of 2020 T3 is
+about 18%. When bending the
+aluminum around a radius, we can see that
+we are both stretching one side of the
+aluminum, this is ductility. And
+compressing the other side of the
+aluminum, this is called malleability.
+Extensive testing has shown that the
+neutral axis during the bending process
+is about .445 times the
+thickness of the material.
+Now the neutral axis is the section of
+aluminum that is neither under
+compression,
+nor is it under tension. During the
+bending process the smaller the radius
+that the metal is bent around the
+greater the differential between the
+neutral axis and the outside arc of the
+skin.
+Additionally, the greater the thickness
+of material, the greater the differential
+between the neutral axis and the outside
+arc of the skin. Stretching the outer
+skin beyond its limits will normally
+result in cracking of the aluminum. Of
+course there isn't a necessity for
+calculating minimum Bend radius because
+most sheet metal manuals, including FAA
+advisory circular AC 43.13 - 1b have a
+minimum bend radius chart available for
+quick reference. The tool which we use
+for bending sheet metal is called a
+brake. A sheet metal brake use for
+aircraft aluminum has either a fixed or
+interchangeable jaws with a very
+specific radius built into the jaws. In
+our shop we use a 1/8 inch radius.
+This allows us to bend up to 0.063" thick
+6061 aluminum in the T6 condition. Tt
+also allows us the ability to bend the
+majority of sheet metal sizes used in
+small experimental aircraft.
+Understanding the necessity for
+utilizing a radius during the bending
+process, will now help us to understand
+how to calculate Bend allowance. Bend
+allowance is nothing more than the
+amount of material that is used for the
+bent portion of sheet metal. The radius
+of the bend at the neutral axis is the
+tooling radius + 0.445) x the
+thickness of the sheet metal. Multiplying
+the radius X 2 will give us the
+diameter, and multiplying that times pi
+3.1415
+Taking a circumference and dividing by
+360 degrees will leave us with a
+dimension per one degree of bend.
+Multiplying that times 90 will give us
+the Bend allowance for a 90 degree bend.
+Although the process of calculating bent
+allowance is relatively simple,  it's made
+even easier by the use of a bend
+allowance table. A bend allowance table
+has a matrix of the most common sheet
+metal sizes and the standard bending
+radius already used and calculated for
+both a 1 degree Bend, as well as the most
+common, 90 degree bend.
+When we prepare a piece of sheet metal
+for bending we are doing what we call a
+flat layout. All of the sheet metal
+components are simply a series of flat
+sections, and bends. Prior to bending up a
+sheet metal part, we will simply get out
+a piece of scratch paper and formulate
+the layout similar to the part that
+we're going to manufacture. We will lay
+out each flat section with the bend
+allowance required for each of the bends.
+And in this case, because the bends are
+90 degrees, the material thickness is the
+same and the radius for each of the
+bends is also the same. We will only need
+to calculate or look up the bend
+allowance one time. The amount of
+material or Bend allowance used for each
+of the bends is identical. Next we simply
+need to calculate the length of each one
+of the flat section. The normal formula
+for calculating the flat section is the
+given dimension - setback. Setback by
+definition, is the radius + the
+thickness used during the bend. If all of
+the dimensions were given from the
+outside of the material to the end of
+the flat section, this formula would work
+great. However, there are many cases where
+you're going to have to extrapolate on
+this formula in order to calculate the
+flat section. For example, in order to
+calculate the length of flat "A",  the given
+dimension is from the inside of the bend.
+In this case flat "A"  = the given
+dimension of 0.375 - Bend radius of
+0.125 and that = 0.25. In our
+classes, in order to keep comprehension
+to a higher level, we normally start by
+teaching Bend allowance as we've shown
+here with all of the bends conducted at
+90 degrees. Once we've mastered the
+process of calculating for 90 degrees, we
+can now venture into the calculations
+necessary for bends that are more acute
+or obtuse. We still use setback which is
+radius + thickness, however, this time
+we multiply X a "K" factor. A "K" factor
+chart is available in FAA advisory
+circular  AC 43:13 - 1b. This is simply
+another complex mathematical calculation
+distilled into a matrix which correlates
+the correction factor to the angle of
+the bend to calculate the length of each
+flat. Using the same procedures we used in
+calculating for a 90 degree bend, simply
+take the given dimension and subtract
+the setback. When calculating the bend
+allowance for bends that are other than
+90 degrees simply multiply the bend
+allowance for one degree times the
+number of degrees that the metal is bent.
+This is the same number of degrees used
+when calculating setback utilizing K
+factor. You may have become very
+proficient at bending aluminum using the
+old standby method where you start with
+an extra large sheet bend it to the
+appropriate angle then cut off excess
+material to come up with your final
+dimension. Well, there's nothing
+particularly wrong with utilizing this
+method. However, if you have more than one
+bend, you're gonna be in big trouble. This
+is where I see individuals getting
+fairly creative by guessing at the
+dimension, bending the metal, and re
+measuring to see how far they are off
+and then changing their original
+dimension by the amount of error in the
+original part and rebending a new piece.
+After about three or four tries, they can
+get typically pretty close to what you
+might want, but as you can imagine this
+can be quite time-consuming expensive
+and frustrating. If you find yourself
+working on aluminum aircraft on a
+regular basis the amount of effort
+required to learn to do the sheet metal
+layout is really quite minimal. Once you
+practice a bit, you can develop
+confidence and accuracy worthy of a
+professional. It's very rewarding to go
+through the process of laying out a
+fairly complex part with multiple bends
+and have it fit into the aircraft on the
+first shot. In part 2 of this video we
+will address some of the more practical
+aspects of bending aluminum such as how
+to place the metal into
+and setup the sheetmetal brake.
+Establishing a sight line, and some other
+tricks and tips that will help you get
+well on your way to becoming a
+sheetmetal Wiz. Well we've come to the
+end of this episode on bending
+sheetmetal part 1. We put a lot of effort
+into bringing you only high quality
+useful videos for the sport aviation
+market. If  you enjoy what we're doing ,please
+remember to like the videos. And if you
+want to stay up to date on all of the
+new videos that we create, subscribe to
+our YouTube channel.

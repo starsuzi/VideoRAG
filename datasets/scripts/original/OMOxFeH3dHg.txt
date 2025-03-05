@@ -1,0 +1,177 @@
+[Music]
+[Music]
+I want to explain a little bit about tuning wind 
+chime because it's actually set the most important  
+part whether they look good at the end or not is 
+one thing but if they don't sound good it won't  
+matter how good they look they'll just sound 
+horrible I have this setup now in a horizontal  
+configuration because you want to tune before 
+you drill the mounting hole for the pin where  
+it's hung from the string you you hang the tube 
+at what's called node points node points are  
+locations where there's no vibration whenever you 
+hit the tube there's a lot of vibrations in the  
+tube but they won't occur at the node points 
+which they occur it well you take the overall  
+length times 0.2 to 4 then that number is what 
+you measured in in from the end on each end and  
+market that's the node point it's 22.4% for any 
+length time - it doesn't matter if it's shorter or  
+long when you are tuning these you have to keep 
+in mind that you need to tune for the proceed  
+frequency and not the fundamental frequency 
+that's especially true with these long tubes  
+like this that the shorter higher pitch win times 
+a lot of times it's the same note but for example  
+this tube here is the fundamental frequency is 
+the C note a low C and the perceived note is f  
+now that gets into a lot of technical stuff that 
+I'm not going to get into right now but what I  
+will say is the fundamental the reason with these 
+long tubes is you don't tune for the fundamental  
+is the fundamental no a lot of times it's so low 
+that the human ear has a hard time picking it up  
+where as we perceive notes are the ones the 
+loudest one so that's easiest for a person to  
+hear so that's what you have to tune for I know 
+that sounds tricky and it actually is a very  
+involved subject but fortunately there's a lot of 
+information on the internet now by people who have  
+studied deaths over the years and they published 
+this on the internet so you can find a lot of  
+information on tubing lengths thicknesses you 
+know wall thicknesses things of that nature and  
+material also so you can get that Meishan and cut 
+these tubes to a close or general length and then  
+start tuning from there once you have your tube 
+suspended what you want to do is once you cut it  
+a little bit oversized and suspend it you want to 
+start trimming off the end until you bring it into  
+tune now you can use a lot of different things 
+for tuning a tube you can use guitar or well  
+what I mean is you can use a musical instrument or 
+tuning forks oscilloscope is probably the best but  
+not a lot of people have access to that expose 
+there is an app for a for an Android now called  
+sound analyzer and I downloaded that to check the 
+tubes out there I was done I didn't have it I use  
+the guitar for the this set here but the sound 
+analyzer is great if you want to simplify stuff  
+they'll tell you what the fundamental is and all 
+the overtones so you can know exactly you can fine  
+tune it to the exact frequency it's supposed to 
+be ok let's take a look at the sound analyzer
+[Music] [Applause]
+okay as you can see here I got 129 would 
+be the fundamental frequency that's one  
+on the left then you have 350 which is one 
+of the perceived frequencies the perceived  
+note would be f-350 that's pretty much 
+right on the other perceived one is 681  
+it's saying the max hertz the max frequencies 
+687 though which is still a little bit lower  
+than the f note should be which is 697 i 
+believe in the other two off the top of  
+my head I can't remember what notes they 
+are but that just demonstrates what the  
+the fundamental or resonating frequency 
+of the tube is and the perceived note
+[Music]
+[Music]
+[Music]
+[Music]
+I'm testing the aerator good on it then right and 
+a little bit on the other end so as you can see  
+we have a problem I hooked up another fitting for 
+an air tube at the opposite end of the anodizing  
+cell and as you can see now I have pretty even 
+aeration throughout the entire length sometimes  
+I'll get a dead a dead aerator in the middle but 
+I just turn up the PSI just a little bit I'm going  
+running a couple psi in this then running the T 
+connection to tube do that of course over there  
+is my my dye heater and ceiling so let's up 
+to 195 degrees right now so I'm going to keep  
+checking out and this is just a test I'm going 
+to do a test run see how well this is working  
+and hopefully it works out good the energizer 
+uses low concentration sulfuric acid for the  
+electrolyte I am running an edge air agitator 
+which bubbles air up around the part and that's  
+used to dislodge hydrogen bubbles so you get 
+a better formation of your anodized layer a  
+problem with that is is when you bubble something 
+to sulfuric acid it releases it mean vibrates into  
+the air and then you get sulfuric acid zooms 
+into your workshop airspace you need to get  
+rid of that because it's back to your lungs first 
+of all and second of all I trust everything about  
+instantly in your shop so I come up with this 
+very simple fume extractor I had a boat build  
+blower laying around for another project you know 
+from a few years ago it's just a 12-volt axial fan  
+setup that is used to take fumes out of the hall 
+vote now I hooked up an adapter duct taped it on  
+onto an inch and a quarter barbed fitting that's 
+just your standard shop vac hose and then my fume  
+extraction hood that goes on top of the anodizing 
+cell this has a inch and quarter fitting on it  
+to what I'm going to do it and put this outside 
+hook this up and this will suck the air outside
+here's my anodizing spell and operation you 
+really can't see much because of the fume  
+shrouds but inside there is aluminum tube and it 
+is the cathode the curiously anode the cathode is  
+the black lead hooked to that silver plate on the 
+side it is building up a nanotech film okay here's  
+the power supply it set the constant current right 
+now if it sets a 3.9 amps and the voltage started  
+out at 8.5 and working its way up to the peak 
+anodic resistance I'll take about an hour and  
+a half once that happens I shut it off and take 
+the tube out rinse it then run it in the dye bath
+[Music]
+[Applause]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+to show you a close-up to these chimes it turned 
+out pretty decent in the top the other thing I  
+wish is the top of this turned out really nice but 
+these things are so long you really can't see the  
+top the top backs were turned out exceptionally 
+nice unfortunately no one will ever see it but  
+these are anodized and sealed and waxed here's 
+the black walnuts striker you can see there I  
+put three wraps of black electrical tape around 
+that it sounded nice just with the hardwood but  
+it was very accentuated very sharp striking sound 
+and the electrical tape helping to give it a more  
+of a rich mellow sound so I went with that in the 
+sale sale here turned out nice this is also black  
+walnut you can see this course this wind chimes 
+for my mother and she likes hummingbirds so I had  
+a local wood shop that makes a custom woodworking 
+I had down laser engrave these designs on here  
+and he turned out exceptionally well so I will 
+put a link in the description of where you can  
+get this stuff done he can contact her we'll 
+just kind of work she does a very nice work
+one other thing I did too is I put rubber o-rings 
+around the bottom of the tubes because when it  
+gets windy tubes these tubes tend to smack 
+together in the bottom and do not enough  
+we'll start chipping each other start chipping 
+the coating off after a while and the o-rings  
+don't affect the sound at all right notice so 
+this whole thing comes together very nicely
+[Music] you [Music]
+[Music]
+[Music]
+[Applause] [Music]
+[Music] [Applause]
+[Music]
+you [Music]

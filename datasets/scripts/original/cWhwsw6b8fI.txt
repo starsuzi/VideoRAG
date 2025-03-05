@@ -1,0 +1,150 @@
+the sheet metal sketch Bend provides a
+way to create basic and more complex
+bending operations on sheet metal for
+example we'll select our top face here
+to use as our sketching plane if there's
+no sketches created or selected you can
+actually select a face and draw your own
+sketch line for example we'll just draw
+a straight line in this
+case across our
+part and we'll hit finish shape and
+you'll now be presented with all the
+sketch bin operation
+options for example first you need to
+fix pick the fixed geometry to be where
+you will bend from for example we'll
+select on this side of this to bend this
+flap up you can select to bend all Bend
+lines if you have multiple sketch lines
+it'll Bend all those with these default
+setting properties if you uncheck this
+you can manually select them one by one
+if you want some lines to bend some
+lines you don't want to bend you can
+uncheck that option manually select and
+even if you have all bin lines selected
+you can also select individ ual wants to
+change individual properties down here
+I'll give an example of that in a minute
+but when you're in your settings you can
+change things like where to bend from
+whether it's Center smooth inside
+outside Bender uh Bend type or bend line
+types the angle and the B minimum Bend
+radius or you can choose your own radius
+as well in our case we'll just choose a
+90° and since we're on our top face here
+a positive will bend up if we put a flip
+Direction it will bend down from that
+face in our case we'll just go ahead
+Bend up and go ahead and hit okay in
+this case and you'll see our flap Bend
+up again if you select your sketch bin
+and actually pick a
+sketch out here you can actually notice
+notice that it already knew there was a
+sketch on that face so it didn't
+actually draw a sketch plane Force you
+can also choose to draw create a new
+sketch if you like but if there's a
+sketch on the face that you pick it
+knows that it's there and you can start
+picking the sketch directly in this case
+we want to sketch our fixed geometry
+again we're going to use this as our our
+fixed face and in this case we can do
+all the bend lines Bend and we want to
+bend one of them up and one of them down
+in this case we'll Bend one of these on
+our left hand side we'll bend that one
+up and so we'll keep that one as as non-
+selected sorry we'll just deselect that
+so we don't have to select that one
+it'll Bend automatically up at 90 this
+one we want to bend down so we'll select
+that and notice it'll be in our selected
+Bend line properties in this case we can
+tell it to go ahead and flip its Bend
+Direction so this one will bend down and
+this one will bend up if we go ahead and
+hit okay and we'll see that operation go
+and this is a nice way to get a corner
+Bend on your sheet metal which is kind
+of quite a bit difficult to do manually
+this is one usage of the sketch Bend
+another usage that you can use is to
+rebuild uh sheet metal from uh dxf for
+example for example we have a sheet
+metal part here that has some Bend lines
+on it this is our final part where you
+can see things are bending up and down
+and up in a lot of these cases we have
+some Moder conditions but this may be
+something that was created in a 2d
+application or some other program that
+you want to recreate in Iron CAD you can
+basically just start with a stock you
+can go to its sheet metal feature and
+edit its crosssection and we're not
+going to use the block so we can just
+select that and delete it and we can go
+ahead and import our sketch in our case
+this is a sheet metal DWG file we're
+going to go ahead and import that in
+this case we want to just go ahead and
+import everything but our bin lines will
+just do the outer boundary for our base
+and go ahead and hit okay and this one
+will be our model units and until it's
+imported for us let's just go ahead and
+move this down to our origin let say we
+use this as our Center Point and we'll
+move that down to our origin there and
+hit okay and hit finish so that will
+give us our base now we need to import a
+sketch again for our bin lines we can
+just basically draw a sketch on this
+face and we'll just use a plane and put
+the origin Point down here so we'll have
+a a consistent location to use hit okay
+again import that same sketch inside of
+here because this time we need to use
+the actual bin lines so we'll import
+everything but the uh center lines in
+this we don't need that we'll just take
+the outer boundary for reference to
+position it and then we just want the
+bend lines we'll hit okay again it's our
+model units in this case we'll select
+everything again move it
+down our Center to our
+center now that we have that we can just
+go ahead and select we don't want these
+holes and we don't want this outer
+boundary so we'll just delete all that
+and we just have our bin lines and we'll
+finish our sketch again we just now
+enter our sketch Bend and we'll select
+our face and our sketch is going to be
+this sketch and our location to bend is
+our middle face of our
+sketch in our case we want all the bend
+lines to bend up 90 degrees for majority
+of these except for some of these these
+outer cases in this middle case need to
+bend down so in this case we're going to
+say flip it we're going to go down 90°
+and then we can just simply just pick
+all the ones that we want to
+go in that direction and hit okay and we
+should get our sheet met apart now we
+have a full sheet metart that just has
+our stock and our sketch pin which you
+can always edit these the sketch to make
+modifications to that and you can also
+edit the operations as well in our case
+this is now fully sheet metal part it of
+course will unfold and you can take that
+into the drawing inside of iron
+k

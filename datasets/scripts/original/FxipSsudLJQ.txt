@@ -1,0 +1,253 @@
+hey guys Chris here today I want to show
+you the right way to use calipers it's
+super important to be able to take
+accurate and repeatable measurements
+wherever you are so that you can make
+the best and most well informed
+decisions on your designs the majority
+of the time I use calipers is to measure
+existing parts that I need to design
+around sometimes it's to measure a part
+that I ordered to make sure it's in
+tolerance but it's usually when I need
+to go from a physical item indicat okay
+let's go through the basics first
+you have the LCD screen here that shows
+you the measurements out to 4 decimal
+places but that does not mean it's
+accurate to 110 thousandths of an inch
+the resolution of these calipers is 5/10
+but the accuracy is plus or minus 1000
+that means that the smallest increment
+the LCD will show you is 5/10 but you
+should never trust it to be more
+accurate than plus or minus 1 tau when
+you're looking at different calipers to
+by always check the accuracy and if
+they're the cheapos that don't even list
+it just stay away MIDI Toyo's are
+accurate and durable so you can't go
+wrong with them they're by far the ones
+I see most in engineers hands the zero
+button makes wherever the calipers are
+at the moment zero then smaller
+measurements are negative and bigger are
+positive which is super useful when
+you're trying to compare two parts or
+make a relative measurement there are a
+few specific times where that comes in
+really handy and I'll talk about those
+later but just always keep this button
+in mind when you can't figure out how to
+measure something it will definitely
+come in handy the origin button is used
+to recalibrate the calipers should read
+0 them every time you pick them up
+always clean the jaws first fingers work
+pretty well but a cloth is better and
+then close them and see what they're
+reading if it isn't zero hold down the
+origin button until it's reading zero
+and then if you can it's not a bad idea
+to check them on a part of known size
+like a gauge pin to make sure they're
+good the inches millimeter button
+obviously switches units between inches
+and millimeters the thumbwheel here
+gives you some fine control over the
+jaws some people roll their thumb on the
+wheel like this until it slips so they
+can apply the same squeeze every time
+you just have to be sure to push up like
+this and not down into the wheel
+otherwise it won't really slip you want
+to do a nice gentle roll that way you'll
+get a relatively consistent if you
+to it and the locking knob on top let's
+say you lock the jaws in place you can
+use this if you can't read the screen
+while you take the measurement or if I'm
+honest I'll use it sometimes so I don't
+forget a measurement crossing that room
+now that you know what the buttons do
+how do you actually use calipers first
+definitely don't be too rough with them
+they are variable but you don't want to
+bend them or mess up the jaws especially
+the little tips when taking a
+measurement gently squeeze the jaws
+together by pushing here or rolling the
+wheel like I said before the key is to
+be consistent with how hard you squeeze
+if you can't get a measurement the same
+measurement two or three times in a row
+then you're doing something wrong if you
+squeeze too hard you can bend the jaws
+damage the part or mess up a sliding
+elements inside the calipers some people
+will push the jaws together here when
+possible to make sure there's no bending
+going on to see how hard to squeeze you
+can use a gauge pin since I know this
+gauge pin is half an inch in diameter
+plus nothing minus two tenths of an inch
+I know it should read 0.5 zero zero zero
+on these calipers so there we're good
+but if I squeeze harder I can make the
+value change especially the further out
+on the jaws I do it that is too hard you
+want to be able to repeatedly measure
+half an inch second you need to know all
+the places on the calipers that you can
+use to measure if the screen shows one
+inch then it's one inch between these
+jaws it's one inch around these jaws
+it's one inch between the step here and
+the end of calipers and it's one inch
+between the end here and the scent of
+the calipers which reference you use is
+up to you depending on what you think
+will get you the most accurate
+measurement but in general here's where
+you'll measure outer diameters inner
+diameters step Heights and hole dips
+personally I use the jaws most the time
+these second than the depth measurement
+and I hardly ever use the step but
+depending on what you measure the most
+that could be totally different the
+third thing to know when using calipers
+is it just because the screen shows a
+measurement does not mean it's right
+it's the same as any other tool garbage
+in equals garbage out if you aren't
+careful to make sure your calipers are
+clean and oriented correctly you might
+as well not even bother taking the
+measurement for example
+when measuring a shaft Bandler used this
+part of the jaws not the tips the flat
+section at least gives you a little
+reference so you can tell you are off at
+some weird angle measure at multiple
+points around the shaft also different
+points along the shaft and stay away
+from little internal radiuses like this
+though I'll mess you up every time
+another thing to keep in mind when
+measuring an OD or a width is that the
+more you can increase the area of
+contact between the calipers and the
+part the better if I measure
+perpendicular to the axis of the shaft
+like this the contact patch is aligned
+the width of the caliper jaws but if I
+can rotate the calipers like this the
+line contact doubles in link and you're
+less likely to miss a high spot or be at
+an angle measuring inner diameters is
+trickier but this is how I do it if you
+just throw the calipers in there take a
+measurement you're probably gonna get me
+wrong what I'll do is I'll swing the
+jaws back and forth like this around the
+opposite sides of the diameter keeping
+the jaws dragging across the ID you'll
+be able to feel the jaws open and close
+slightly as you swing back and forth
+across the true opposite points you
+might also be able to see the value on
+the calipers go up and down slightly
+once I'm satisfied
+that I have the max value in that
+direction I'll rock the calipers in this
+direction to make sure I'm not off at
+some weird angle to the axis of the hole
+just do that a couple of times in a
+couple of different spots on a diameter
+until you're satisfied and you have a
+good measurement whole depths and step
+Heights are pretty obvious just do
+whatever you can do to make sure your
+calipers are perpendicular to your
+surface in all directions make sure
+you're good this direction and that
+direction measuring the full thread
+depth of a hole is pretty easy and super
+useful so this is how you do it first
+you measure the overall height of the
+bolt you zero out your calipers and you
+thread the bolt into the hole all the
+way until it stops then you measure the
+height of the bolt that's still sticking
+out and that is the usable depth of
+thread in your part one thing you have
+to watch out for is to stay away from
+their grade markings on the head of the
+bolt that'll mess you up
+the useful trick with your digital
+calipers is to be able to measure the
+center to Center distance between two
+holes the holes have to be the same
+diameter for this to work first you
+measure the ID of one of the holes and
+easier your calipers at that diameter
+now you measure outside to outside on
+the two holes and that is your center to
+Center distance now since this involves
+like two measurements and zeroing and
+things I wouldn't necessarily use this
+for like a plus or minus one dimension
+but you know definitely for clearance
+holes on a prototype part you're making
+or something like that if you need to
+measure the thickness of foam or an
+o-ring something that squishes what you
+can do is grab your part just enough to
+to suspend to hang it there and then
+very slowly open up your jaws till it
+drops and that is the thickness of your
+part otherwise you can never really tell
+if you're kind of squishing the material
+it's hard to get a good feel for it so
+just try to get the part where it's not
+curved and hanging up on two different
+points on the calipers if this part was
+really curved like this measuring it
+like that would not be a good idea
+because you're not going to get the
+right dimension so measure it in a way
+that it'll be free to fall help from the
+calipers then you move them apart a
+topic that isn't strictly related to
+CalPERS but is related to taking
+measurements is the use of the terms
+foul and mil when I first heard someone
+say that such a such dimension was 3ml
+to bei I was super confused but they
+need millimeters do they need millionths
+of an inch nope they meant thousands of
+an inch why would there be two shorthand
+ways of saying a thousandth of an inch
+well according to Wikipedia the term mil
+used to be the standard and is from the
+latin word mealy but when the metric
+system started to become more popular
+then it got confused millimetre and mil
+was too easy to get confused so we
+started saying that for some reason
+mills are still the standard for some
+products like sheets of plastic so be
+ready for that so now you know how to
+use calipers if you use them very often
+this law becomes second nature but just
+remember
+to set zero when you pick them up make
+sure your part and calipers are clean
+make sure your calipers are oriented
+correctly and should be just fine if you
+have any other caliper tips or tricks
+please leave them in the comments below
+so we can all learn a bottom thanks see
+you next time
+you

@@ -1,0 +1,64 @@
+hey welcome to this tutorial where I'm
+going to show you how to create this 3D
+coin flip inside of After Effects so the
+first thing you want to do is select
+your default renderer as Cinema 4D while
+creating a new composition and then
+let's create a background and lock
+it now let's create a circle let's
+duplicate the ellipse inside the circle
+and resize it this one needs to have a
+[Music]
+stroke
+[Music]
+now let's make the layer 3D and switch
+to a custom
+view now the geometry options here is
+only enabled when you select your
+default renderer Cinema
+4D so let's extrude our
+shape maybe add in a bevel to the
+edges now if you rotate this coin you'll
+find that the other side of the coin
+does not have the
+circle so we fix that that by
+duplicating the smaller ellipse and
+placing it right below the bigger
+[Music]
+one now let's switch back to our active
+View and create the dollar sign on top
+of the
+[Music]
+coin do a top view and create a copy on
+the other side of the
+coin
+[Music]
+now let's go to the back view and fix
+the dollar sign by flipping it
+[Music]
+horizontally now let's parent our dollar
+symbols to the
+coin
+and let's maybe shy those
+layers now let's set key frames for
+position and rotation and let's
+[Music]
+animated
+[Music]
+add some easing and drag the graph to
+the left that way it comes in Fast and
+then
+[Music]
+slow and we get this now let's
+precompose all of this into a
+composition and duplicate
+[Music]
+it
+[Music]
+and that's it make sure you check out
+the free project file feel free to use
+it any of your projects and thanks for
+[Music]
+watching
+[Music]
+n

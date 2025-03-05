@@ -1,0 +1,63 @@
+okay so this is how to make a curved
+kind of triangle I'm going to start by
+defining how big I want this to be so
+say we have this we want to be three
+meters so I'm taking the tape measure
+tool shortcut T and I'm going to start
+going this way I go three m enter and
+this one maybe I want it to be one meter
+one M enter and then we want it to sag
+down by 20 centimeters okay so then we
+have our little constraints for how big
+we want it to be so then what I'm going
+to do is I'm going to make the arc for
+how much it's sagging so I press a or
+the arc tool and click once here click
+once here let me go to the middle and
+drag it down along the blue access axis
+make sure you're not doing the green so
+blue axis and then I'll go over to this
+little point here and that'll make it
+exactly that deep then in order to
+continue this I'm going to finish this
+surface so we make a surface then I'm
+going to use a push pull push pull tool
+and I'm going to drag it down to this
+guide point and then all I'm going to do
+is scale one of these faces down so I'll
+click on it and use the scale tool to
+this one and I want it to scale from the
+middle so I click and hold down the arc
+the Alt key and as I'm holding down alt
+I'm dragging it toward the center zoom
+do it again it's not going to be the
+perfect end point but this is a lot
+easier way to do it oops and if you zoom
+out you'll see that you know that's a
+really small point anyway so for
+modeling purposes that's all you'll need
+and then since you just want the the
+sheet itself and at the top I'm just
+going to click this top surface and
+press delete and click this end surface
+press delete delete this line and I
+think that's what you're looking for um
+then if you want to take it and scale it
+like I like to make things into groups
+and then press scale efforts or this one
+and then you can change it all around
+you know maybe you don't want it to be
+quite as deep scale the whole thing so
+that would be good if you want to make a
+couple that are different sizes and what
+you can do is you can do the same thing
+with the the tape measure say I want
+this to be I want this one to be only
+two meters what I'll do is I'll make up
+a guideline there and then I'll scale
+this and then I can click it'll just
+click right on that line and then you
+know it's two meters so that that's how
+you can scale it exactly okay I hope
+that was helpful give me a call if you
+have any questions okay right

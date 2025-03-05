@@ -1,0 +1,322 @@
+what's going on everybody I'm Johnny
+Brook welcome back to another crafty
+workshop video and today's video is kind
+of a combination of a project video in a
+techniques video so I built this quick
+little sharpening station actually from
+an Ikea bamboo cutting board but I want
+to show you how I built that but then
+also how I sharpened my tools my hand
+tool specifically like my chisels my
+hand plane irons that kind of thing
+because it's a process that I think can
+seem kind of mysterious a lot of times
+but I have a pretty simple system I'm
+definitely not a sharpening expert but
+it works well for me you can see I'm
+missing a lot of arm hair here I've
+definitely been testing it out and these
+tools are super sharp so hopefully you
+can learn something there but first
+let's go ahead and start by showing you
+how I built this quick little sharpening
+station I've had this IKEA bamboo
+cutting board hanging around my shop
+forever just waiting for a purpose and
+as it turns out this was the perfect
+size for this sharpening station I had
+in mind
+so I modeled up a quick sharpening
+station design in easel and this whole
+system is based on my buddy James right
+sharpening station which i think is
+based on Paul seller sharpening station
+the system is built around 3d MT diamond
+plates which are in varying grits from
+coarse to extra fine and then the last
+sharpening surface is a leather strap
+which is used as the final honing
+surface and can be used in between
+scharping sessions for quick touch-ups I
+got the cutting board clamped to the
+x-carve spoil board and then started the
+first milling operation which was a
+simple process of cutting the four
+pockets for the diamond plates and strop
+the first three pockets for the diamond
+plates were slightly deeper than the
+strop area since the leather isn't quite
+as thick as the diamond plates and after
+the pockets were cut I swapped over to a
+60-degree V bit so I could make this
+sharpening station a little extra fancy
+by milling in some labels for the
+different diamond plates and this was my
+first time trying v carving using easel
+and it went really smoothly the letters
+turned out super crisp and both of these
+operations combined only took about 30
+minutes I must have shifted the labels
+and easel somehow between these two
+operations as they were a little bit
+off-center in the end but that was no
+biggie
+after the x-carve was finished up I've
+removed the cutting board which I guess
+now as a sharpening station sanded away
+any fuzzy bits off-camera and then test
+fit the diamond plates and strop and the
+diamond plates were a perfect fit with
+just a little bit of wiggle room which I
+added in during the design process just
+for ease of removal but I needed to cut
+the piece of leather to size and I
+figured the easiest way to do this would
+be to use one of the diamond plates as a
+template so I pulled out my self-healing
+mat and cut the leather to size using a
+rotary cutter and I love these rotary
+cutters they leave a super clean edge
+and are just perfect for this kind of
+work
+once the leather was cut to size I pre
+drilled a few holes through the leather
+into the bamboo and then drove in a few
+decorative screws to hold the leather in
+place and the screw heads are slightly
+below the surface of the leather but
+nothing I sharpen will ever get into
+those areas anyway so there's nothing
+really to worry about there I added a
+few rubber feet to the bottom of the
+board which actually came with the
+diamond plates and then considered
+filling in the letters with sharpie but
+figured I didn't want to push my luck
+there I applied a couple coats of
+wipe-on poly just to help seal and
+protect the bamboo overtime since it
+will be getting covered in glass cleaner
+and metal dust on a regular basis and
+then I could finally get to doing some
+sharpening and my previous sharpening
+system was the work sharp which worked
+pretty well but I was never able to get
+things super sharp with it and you can
+see the old micro bevel from the work
+sharp system something I've actually
+since ditched in my sharpening routine
+and now I use this Veritas honing guide
+I think this is the deluxe model which
+has worked really well for me
+you set the projection of the blade with
+this little guide lock it into place and
+then get to sharpening it's super quick
+you don't need to plug it in and it's
+really easy to make adjustments to
+different bevel angles with this system
+which is nice considering I have a
+variety of bevel angles between my
+chisels and plane irons for as a
+lubricant on the diamond plate I just
+use basic glass cleaner a few spritzes
+is plenty and then I just rest the blade
+against the plate applying even pressure
+with my fingers and then run the blade
+back and forth across the surface and as
+you can see here I must have sharpened
+this to a slightly different bevel angle
+previously so I had a decent amount of
+material to remove here and ideally I'd
+probably use a bench grinder for this
+kind of thing but I don't have one and
+the coarse stone works it really only
+takes a couple extra minutes and I don't
+have to dedicate shop space to a bench
+grinder that I wouldn't use that much I
+just kept running the blade across the
+coarse diamond plate which is the
+equivalent of about 325 grit until I had
+even scratch patterns across the entire
+face of the bevel and once I was done
+with the first plate I can move on to my
+next diamond plate which is the
+ingridt which i think is roughly 600
+grit and these last two plates go a lot
+faster than the first since the bevel is
+already established and I'm really just
+refining the surface here and one other
+thing to mention one of my favorite
+things about diamond plates is that they
+stay flat and don't wear unevenly even
+if you sharpen them in the same spot
+over and over and this makes sharpening
+super quick you never have to flatten
+your diamond plates like you would with
+water stones or oil stones after the
+fine plate I moved on to the extra fine
+plate which is roughly 1200 grit and
+this really refines the surface and gets
+the edge extremely sharp
+once again this doesn't require as many
+strokes and I'm really just removing the
+scratch pattern from the previous plate
+here and I should also mention here when
+I'm sharpening in the future unless I've
+really damaged the edge by dropping the
+chisel or something I don't even need to
+start with that first plate unless I let
+things just go for way too long in the
+edge you get super dull I can just skip
+right to the fine or even the extra fine
+plate depending on the condition of the
+edge the last step in the sharpening
+process is the strop and I think this is
+really the step I was missing out on
+with my previous sharpening system my
+strap is just a scrap piece of a 9 ounce
+vegetable pan leather which is plenty
+beefy for this application I applied
+some more buffing compound to the rough
+side of the leather and then pulled the
+bevel of the chisel across the strop 30
+to 40 times until it starts to get a
+mirror polish near the edge you should
+also see that buffing compound get a
+little darker as you run the bevel
+across the strop I also worked on the
+back of the chisel a few times just to
+make sure and remove any bird that's
+formed during the sharpening process and
+also to polish that face a little bit
+after the strapping the blade is super
+sharp and the real test for sharpness in
+my mind is the shaving test and as you
+can see it passed with flying colors
+taking all the hair it came into contact
+with on the first pass I could also of
+course test the edge on wood on this
+scrap piece of walnut I had and as you
+can see it sliced through this ingrained
+super cleanly leaving a nice smooth
+surface and it also made quick work of
+this edge grain and left a shiny almost
+glass-like surface finish I'd call henna
+sharp chisel now all these steps were
+done assuming the back of the chisel was
+flat but what if it wasn't
+I had already flattened the backs of my
+main Eric's chisels with the work sharp
+but I had some cheaper Harbor Freight
+chisels hanging around that I hadn't
+actually sharpened yet and as you can
+see here the scratch pattern from the
+factory
+is still there on the back of the chisel
+so the first step is to remove those
+scratches and replace them with some
+finer scratches from the diamond plate
+and when flattening the backs of chisels
+you really only need to focus on the
+inch or so nearest the cutting edge
+there's really no point in flattening
+the entire back of the chisel it's just
+kind of wasted effort and after getting
+a consistent scratch pattern from the
+coarse plate I moved up through to the
+fine plate working perpendicular to the
+direction from the coarse plate so that
+it was a little easier to see when the
+scratches were gone and then I repeated
+the same process on the extra fine plate
+and then finish it off with a little
+strapping with the back nice and flat I
+went through the whole sharpening
+process on the bevel and then could
+again test the chisel sharpness which it
+passed with flying colors so that's
+pretty much how I sharpen my chisels but
+what about plane irons well this
+sharpening jig has another attachment
+for wider plane irons but the whole
+sharpening system is essentially the
+same I used the same projection guide to
+set the bevel angle 30 degrees in this
+case and then I clamped down the plane
+iron making sure it was parallel to the
+projection guide so it sharpened square
+to the bevel edge after that it's just
+more of the same processes before moving
+up through the grits and then finishing
+with the strop and you can see here that
+this iron is actually hollow ground from
+the manufacturer so sharpening really
+only hits the very front and back edges
+the bevel and this makes sharpening a
+whole lot faster since you don't have to
+remove as much material and finally I
+can test it out first with the shaving
+test which of course was no problem and
+then I reinstalled the iron in the plane
+got it set up and all centered and then
+could make some shavings and this plane
+is now cutting beautifully producing
+these awesome paper thin shavings and I
+could actually see through the shavings
+when I held it up to the light
+pretty awesome and with that I think
+that's basically it when it comes to how
+I sharpen my tools all right hopefully
+you guys enjoyed this one I'm really
+happy with the way this came together
+it's nice to have a simple system that I
+can just kind of pull out of a drawer
+from below my workbench here sharpened
+really quickly and then just get right
+back to work because I think that was my
+big barrier to sharpening before is it
+was something that plugged in and I had
+to do all these changing of plates and
+that kind of thing and it just took
+longer than I needed it to so this is a
+really effective system it's simple it
+is a bit of initial investment but I
+think it's something that will last you
+for many many many years to come
+so hopefully you guys enjoyed this one I
+also want to give a quick shout out to
+eisah toons who are the exclusive
+hearing
+Protection provider in my shop they
+actually have these new models the ISO
+Tunes extra which I'm loving a better
+battery life they sound better I'm
+loving them so if you want to learn more
+about them check out the link in the
+video description below I also have
+links to all of the tools and materials
+I used in this video including the
+honing guide and all these diamond
+plates and that kind of stuff so
+definitely go check those out also if
+you're new here go ahead and get
+subscribed I put out new project videos
+like this pretty much every week also
+ring that little notification bell so
+you don't miss any of my future videos
+and I'm also doing some more live
+streams here lately so you won't miss
+those and last I have added this YouTube
+sponsor I guess they're calling it
+membership functionality to the channel
+you can check it out there's a button on
+the screen and also below the video but
+basically you get access to all kinds of
+exclusive content you support me monthly
+and it's just a really nice thing nice
+to be able to connect with kind of my
+superfans there so hopefully you guys
+will check that out and enjoy but I
+guess until next time thank you guys all
+for watching and until next time happy
+building

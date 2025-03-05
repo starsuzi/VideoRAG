@@ -1,0 +1,157 @@
+Sheet metal brakes are sometimes huge
+machines that are not always portable or
+affordable, so let's look at some other
+methods to bend sheet metal without a brake.
+This is Cosador, Johnathan here. If
+you ask most people how to bend
+sheet metal they'll say that you need a
+brake, and that's not the one that you
+sit down and drink a refreshing beverage
+of choice, they're talking about a pan
+brake a press brake or a metal folding
+machine. which in this case, I'm going to
+do without. I'm going to do it by hand or
+with minimal tools, but before we start
+I'm going to answer a few questions and
+tell you a few things to consider when
+bending sheet metal.
+So, what is a good bend?
+a good Bend is defined by the
+radius of the bend, how straight it is,
+and if it meets the required angle.
+In this case, I'll be clamping the steel
+sheet and bending it, in order to make a
+bend that's as tight and sharp as
+possible, I need to look at the radius of
+the bend, the bend is always rounded and
+the radius is the determining factor of
+how tight or sharp the bend is, and the
+radius of the bend highly depends on the
+clamping material, timber is not hard
+enough to make a tight bend and I
+require something harder like steel. The
+inner radius of the bend is dependent on
+the radius of the clamping material and
+the outside radius is equal to the
+clamping material plus the thickness of
+the sheet metal being bent.
+So a piece of angle steel with a sharp edge is ideal
+for a 90 degree bend.
+This might be common sense, but before you touch
+anything consider safety, sheet metal can
+be sharp and cause permanent injury, so
+think about protecting yourself because
+life is harder without your fingers, your
+eyes or your blood.
+I'm going to bend .55mm Zincalume steel sheet, which
+is roughly double the minimum thickness
+of this type of product and it's about
+as thick as I would want to go by hand,
+therefore it should be a good measure of
+the different methods of bending thinner
+sheet metal.
+Okay, marking up.
+Marking up is essential because I need to know
+where my bend is going to be, I draw a
+line with a marker in each of the places
+I wish to bend, paying attention to the
+edge of the line as an absolute measure
+where I intend the inner radius of the
+bend to be as close to zero as possible.
+Because each of the methods are based on
+force, I need to clamp this well. I
+sandwich is steel sheet between
+rectangular tube and rigid angle, which
+are both longer than the sheet that I
+wish to bend. At the same time, lining up
+the edge of my marking, I make sure that
+the two clamps are over the steel sheet
+but not interfering with the direction
+of the bend.
+Okay, let's start bending some metal.
+Method number one, by hand. With
+everything clamped tightly, I get a good
+grip and from as close to the intended
+bend as possible
+I push upwards, refining the bend and
+lowering the position of the push until
+I physically can't push it any more, I
+unclamp and refine the bend. It's not
+perfect but the job is done.
+Method number two, with a hammer.
+with everything clamped, I give a good push by hand like
+the first method, then on the bend, I give
+it a soft hammer, slowly refining the
+edge, moving along the bend, trying to
+keep the hammer hits as tidy as
+possible, it has a few dents in it here
+and there but it's definitely a tight
+edge.
+Method number three, score and bend.
+So, I put down a flexible material that
+will give a little during scoring,
+I put the sheet metal on top then a rigid
+straightedge and I clamp it down, leaving
+enough room between the line and the
+straightedge to accommodate a scoring
+tool, in this case I'm using a
+screwdriver because the steel on the
+screwdriver is harder than the sheet
+metal. I score the sheet metal in
+multiple passes to get a score that's
+close to quarter thickness of the sheet
+metal, I want to make a weakened line
+where the bend favors that point but not
+significant enough to compromise the
+strength of the sheet, then I
+clamp it the same as the others and I
+push by hand as close to the intended
+bend as possible, I refine and then it's
+done.
+Method number four, with the roller.
+for this one, I need to make a tool. I
+need a couple of trolley wheels and a
+bit of timber. The trolley wheels should
+be plastic or hard rubber, they should be
+square on the edge and rounded in the
+middle for the best performance and
+simply, I'll pre-drill and screw them to
+the timber in an inline configuration.
+With the sheet metal clamped, I help it a
+little with my hand due to the thickness
+of the sheet, then I roll the roller as
+close to the intended bend as possible
+the roller works by pushing on a small
+area like the hammer, however it doesn't
+dent and warp the metal quite as much. I
+continue to refine until the bend is
+sufficient and once again it's done.
+Okay, evaluation time. Personally I think each of these methods have a purpose.
+I would bend by hand if that were my only choice
+and the sharp radius isn't absolutely
+necessary, I would use a hammer if I
+wanted a really tight bend, but I had
+time to refine the surface afterwards,
+I would score an bend if I wanted to
+control a long hand bend,
+but I didn't have a roller or the
+material was too thick, providing that I
+could protect the score mark from
+corrosion, and I would use a roller if I
+was working with thinner sheet that was
+going to be used externally, but which is
+best really depends on the situation and
+the operator.
+Working with metal can be tricky, especially if it needs to be precise.
+Metal remembers all your mistakes and doesn't easily forgive,
+but with practice it becomes predictable,
+and if any of these methods were useful to you,
+please like and subscribe and keep
+watching if you want to see bigger
+projects where we put all of this
+together, if you want me to go into more
+detail or make a video about something
+else just drop a comment below,
+and remember guys,
+Break It til You Make It!
+and I'll see you next time

@@ -1,0 +1,441 @@
+hey guys this Chris with the gorilla
+gunfighter and today I'm going to show
+you what I do for a job I'm a land
+surveyor and so there's not going to be
+no explosions no guns no knives no
+killing stuff so if uh that's what
+you're looking for you might want to go
+check somewhere else but if you want to
+learn how to set up a GPS base as a land
+surveyor have I got a deal for you so
+just check it
+out all right go briefly over the
+equipment um
+GPS head that's the base head uh GPS
+base extension the Rover
+head we have a radio and our whip
+antenna and the tri bra which I'll show
+you here in just a second measuring
+sticks battery to power the base and the
+radio all my antenna and radio whips are
+in here and our power cables and
+additional
+antenna we have our legs and a tri bra
+the legs are sented over this which is a
+control Point pin this just happens to
+be control Point
+23 this pin was previously set up a
+couple months ago and it is used to
+triangulate the this exact position to a
+thousandth of a centimeter um so you can
+get accurate GPS
+triangulations this thing is a tri bra
+and it's screwed on here this is what
+holds the base head
+and you use this Bubble Level which
+right now isn't very level and you look
+through this Optical
+plummet I don't know if you'll be able
+to
+see very
+clearly there's the pen it's not very
+clear through that um but this you be
+you're looking at this pin through that
+Optical plummet and you're want to get
+it
+exactly in the center which is that
+little indentation right
+there and uh you level it up keep
+leveling the legs and get this level and
+once everything's leveled up then you
+start putting your equipment on there so
+I'm going to go ahead and do that now so
+let's uh get you guys set up here
+hopefully uh sound and everything will
+be good and there will be some
+background noise of course I am outside
+I'm off of Main Road in the middle of
+nowhere uh
+so uh let's keep guys set up on
+this
+tripod all
+right and there's my ugly mug and
+there's
+the legs so we're going to go aad and
+get the base set
+up so try to get it
+centered over there make small
+adjustments once you're
+close you step on the
+legs you get them in
+there of course this is you know
+throwing my Optical off so I have to
+readjust using the legs look at this
+bubble and start leveling it
+out move these things a little
+bit that
+one this leg right
+[Applause]
+here and and we'll do this one right
+here and that should get
+us pretty damn close now I'm going to
+loosen the optic or the plummet and
+Center it on the indentation on that
+pin
+so it's just that little bit and now I
+am perfectly Center on
+that and now I'm going to use these
+adjustment dials to really dial it in
+to where my bubble is completely
+centered and it is and that's that
+now Sor to go off
+camera
+get our
+base extension
+up that goes on our Tri
+Brack triack top comes off you screw
+that that deal
+in
+then going to get this on there and
+double check makees your Center see
+that's why you double check as you're
+moving this thing around it'll come
+off
+center so you want to keep double
+checking as you're messing with
+it
+and get one of our
+cables this is that y splitter cable
+that that goes from from the base to the
+radio to the
+battery and this
+side what goes underneath your base head
+to provide
+power the power is provided by that car
+battery they can put other smaller
+batteries in this thing uh but it's not
+as effective as a car battery so uh
+that's what we
+use then grab the
+radio and this is your radio it's a
+trimble trar radio uh no big
+deal and this
+sits nicely right here do it gently to
+try not knock
+The Sing
+Off Cable
+in that's that and again I'm going to
+check and recheck my zero or my uh sorry
+my uh pin to make sure it's still Center
+and put
+radio battery right
+here drop this car battery up
+here this is my radio cable it's going
+to go from a radio to my antenna that
+I'm about to put
+up so let's
+go ahead and attach my radio
+cable on
+here I'll go ahead and double
+check yep still on there still good to
+go so it should be good for the rest of
+the
+time grab my Rover
+Out close this box up put it away
+now
+grab
+holes and this is an extra long whip
+antenna it's pretty long so we can reach
+a decent way is as long as you're on a
+general elevated position uh you want to
+try to get on the hill somewhere
+overlooking where you're going to be
+doing your work or where you're going to
+be surveying at that way you can
+maintain radio line of sight uh
+otherwise it it it bounces all around
+and your calculations are going to be
+off so try to maintain radio line as
+side if you
+can
+and candy canes or extensions to get the
+radio way up
+there and these
+just just screw in here I mean you want
+to try to be gentle with the equipment I
+mean it is really really expensive but
+um
+you really still just need to put it
+together so and it didn't fall on
+directions these damn poles sometimes
+the threading is off um so you had to
+label them and I had to I just didn't
+listen to my own
+instructions so if I can get this thing
+thread in here we
+go and this is going to be what our
+green antenna is going to be attached to
+so we're going put this on
+here and'll put it I don't know probably
+15 ft in the air which will give us
+considering where we're working will
+give us a pretty
+considerable range on this radio at
+least a couple miles but right now I'm
+looking at where we're going to be
+working at and it's not
+even half a mile away so that'll be good
+now on your whip you have this little
+guy right here that's where you're going
+to attach your cable
+to the other end of your cable
+rather and
+that is this guy right here that I just
+Tangled all the hell
+so this on
+here and get it good and
+tight come on
+all right now I might be out of frame
+for a
+minute got to get this radio up
+here see what I
+mean all right so that's up we attach
+our leads to the car battery
+and a radio just powered on double
+check on a pin that's good Bubble Level
+still
+good power's
+on what you want to look
+for
+is
+on your
+radio know if you guys can see that my
+vest is sort of throwing the color off
+but it says
+uh device status battery
+normal might be a little bit easy to see
+here we go and you cycle through that's
+going to be your frequency
+station that's just data protocol radio
+link rate for information
+you're in a base Rover
+mode the radios are the uh receiving
+sensitivity is low which I'm not worri
+about and transmit power is all the way
+up that's what we need uh now we're
+going to set get our Rover on it'll take
+me just a second so you guys bear with
+me go get the batteries for the
+Rover
+and back in just a
+second
+all right now let's grab wh
+well oh there it is all right this is
+your rhead let me turn around the VF
+finer so I can see what's going on um
+this is your rhead this is where all
+your information is going to be
+transmitted
+from
+and screw in whip antenna on
+over a lot of antennas a lot of screwing
+stuff in a lot of whips and cords and
+cables and everything else uh and it
+just takes these little pack batteries
+lithium ion
+batteries just drops in right
+there drops in that and that goes back
+right there
+so make sure it's on there
+and make sure it's working and it is
+lights are coming
+on so let this sit there for the time
+being now one thing we got to do is got
+to measure the
+height Bas we do that with those
+measuring sticks they just it's like a
+tin pole it just it
+expands and it has
+measurements all
+along either side of it hopefully you
+guys can see those um and just drop it
+right in the center of that
+pin and you measure it to the
+center of your base head it's called the
+center of
+bumper
+so right now I am
+at
+5 two 5.2 ft or 5.2 survey
+feet uh all survey measurement and
+Engineering measurements are
+intense so there's no 3/4 of an inch any
+that stuff it's all intense T and
+hundreds of you know a
+foot
+so let's see we got measuring sticks are
+done with this
+way this goes back to the
+truck and
+now comes sort of the not really
+complicated part but the more in depth
+part is your data collector just a big
+handed deal I'm sure you guys have seen
+uh seen people use these before um yeah
+the dude's walk around with the poles on
+the side of the road doing land survey
+stuff usually on streets um I really
+don't do local stuff it's all cross
+country things like that right now the
+project we're on is a 187 Mile Line from
+uh Wheeler Texas to Ringold Oklahoma
+it's I it's about 187 around 190 miles
+uh so it's a long ways and uh good
+paying job but some days it's kind of
+boring other days it's real
+hectic because everyone needs and
+everyone needs your your measurements
+and it has to be exact you're dealing
+with high press pipe stuff that's
+traveling you know products usually be
+gasoline or natural gas is traveling
+through these pipes at around 3,000 you
+know PSI so you need to know where your
+welds are and you need to know what your
+distance is from your top of the ground
+to where your pipe is so that's your
+ground cover uh you're lotted so much
+ground cover you have to
+know where your welds are in relation to
+your next Weld and the weld in front and
+the weld back so if they had to dig it
+out they can pull up your old
+information find exactly to the you know
+tenth of a of a foot or 100th of a foot
+uh where exactly that that that bad weld
+or whatever is so we had to start a new
+job on our collector I'm not going to uh
+go through the different screens because
+it's already going to be hard enough for
+you guys to see this but you this is a
+triple Access program for you guys and R
+for you trle access is what we're using
+uh used survey Pro before tremble aess
+is a little bit easier um learning it's
+tougher but it's it's a little more user
+friend friend l once you get used to it
+uh just start a new job and each job on
+a pipeline has a different name this one
+is 1421 01 and then we use today's date
+which is
+3
+[Music]
+244 HW going
+crazy um that's other cool thing about
+this job of course you're outside all
+the time which is awesome but you see a
+lot lot of stuff that you wouldn't
+otherwise see if you were in town deer
+all over the place here got skunks
+everywhere I don't know what it is about
+this place and stun they're all over the
+place doesn't stink as well as you know
+you would think if you never smelled one
+of course me being from
+Georgia uh it smells like
+a almost like a like burning rubber just
+a real Sour kind of smell real bad Bo so
+uh
+anyway we start measure rtk I'm not
+going to try to explain what rtk is you
+start your base receiver that's the base
+Receiver right there that we set up and
+measure and this my collector is likeing
+the Bluetooth to base
+receiver you're waiting for it to do
+that it takes it a minute or
+two there it
+goes and your point name this point is
+is
+cp23 it's already in here so I just type
+in 23 it automatically goes to that
+antenna height
+5.20 and to the center bumper and start
+simple as
+that Bas started that's what I need now
+I'm going to set up Bluetooth from
+rhead do that almost the same thing I'm
+going to go to measure rtk measure
+points now it's Bluetooth to my Rover
+head so let's see here set my Rover head
+up real
+quick and this is just a 2 m Rover pole
+uh it's got a bubble level on
+it see right there uh and it extends out
+we're just going to send it up a little
+bit just so I can screw this thing on
+here
+sleep right here so you guys can see
+this all right and we're getting radio
+from our base so we
+set and show you on these buttons right
+here these lights on this
+head here we go this means you got power
+running off your Bluetooth
+incorrectly you have access to your
+satellites and this is your radio you're
+getting radio signal so that's what you
+want all three of those lights on and
+the middle one blinking and satellite
+blink as well so right now I have 16
+satellites in
+view
+that'ss off of I'm just going to adjust
+my antenna height which is this to 2
+m which is 6.5 62 ft and that's going to
+be two the bottom of the antenna mount
+which is right here and and that is
+essentially it I am going to turn off my
+auto store which that means if I hit
+enter on this thing and it takes a GPS
+you know coordinate or GPS location that
+shot it automatically stores it well I
+don't want it to do that I want to be
+able to hit store and it asks me for
+attributes so if I'm taking a shot on a
+weld and I hit store it brings up an
+attribute list it says you know I can
+name it a weld and I can call it a
+automatic weld or a robotic weld or a
+manual weld or you know handmade you
+know human
+weld but there's a bunch of different
+attributes there's hundreds of them and
+each company you work for or each job
+you do will usually have different
+attribute lists they vary slightly uh
+but for the basic stuff uh roads uh
+power lines that sort of stuff it's uh
+it's going to be the same across the
+board so guys that is it in a nutshell
+what I do for my day-to-day
+job um I enjoy it it pays really well
+which definitely helps in the enjoyment
+Factor uh but uh you know I don't plan
+on doing this rest of my life I really
+you know would like to get a couple
+years in save up a bunch of money and
+then do something else so uh anyway uh
+don't forget to like share and subscribe
+um if you guys have any questions just
+let me know I'll try to answer them and
+um you know any video suggestions of
+stuff you guys want to see especially
+any of you survey guys since I'm doing
+that most of the day is a lot easier for
+me to do survey videos right now U I'll
+try to get knock out a knife video so
+stay tuned for that and uh you know
+appreciate the the support you guys have
+a good
+one

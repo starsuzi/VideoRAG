@@ -1,0 +1,360 @@
+hey guys so a few episodes ago I talked
+to you with regards to what was going on
+at the chicken plot and in that episode
+they said that we were going to collect
+eggs over the next two or three days and
+we were gonna set them into a homemade
+incubator
+[Music]
+now this incubator
+I've had for six or seven years have
+made something like that and I did do a
+video on it a a while ago and I'll put
+it up in the description of bovine below
+no it's looking a bit tatty here but
+it's clean enough to to incubate these
+eggs now the eggs that I've got I've got
+thirty here and these eggs are all from
+my chickens there we go so the 30 nice
+sized eggs your guys and these are the
+eggs that we're gonna be using in in
+this incubator now I'm gonna run through
+the incubator because a few of you have
+asked over the years about how I sort of
+incubated my own nadir and I did sort of
+direct them to the last video but means
+we're setting this up I thought what a
+perfect opportunity to go through it
+with you okay so essentially I have a
+large polystyrene box here on the left
+hand side here I've got a window cut out
+of the polystyrene and all we've done is
+taped in two panes of glass into that
+here of a small little hole cut out and
+in this hole is what's known as an
+incubator warehouse control panel now
+I'll show you that more in detail I now
+turn this over now
+so this piece of equipment here what it
+is is a PC fun everybody will recognize
+this it's just a computer fun there's a
+little bit of circuit board underneath
+and just here you will see this for
+ceramic heat blocks and what happens is
+the circuit tells those blocks to heat
+up those blocks heat up and then this
+fan circulates the air around the
+incubator and that's essentially I would
+do it now this incubator is really good
+to raise your chicken eggs to hatch your
+chicken eggs we're looking for a
+temperature around thirty seven and a
+half degrees Celsius or 99 to 102
+Fahrenheit so we set this up on Celsius
+but I can't set it as far right but I
+set up on Celsius at the moment and what
+we'll do is I've had it running for
+about an hour and it's been all in
+perfect temperature so we'll come back
+to that top in a moment the next stage
+is this here this is a bit of a
+contraption I built as you can as you
+can see the last thing we want to be
+doing is going into the incubator
+everyday opening it up turning the eggs
+every couple of hours because all of a
+sudden the heat is lost so and the
+humidity that's in there now while we're
+at it I'll talk about the humidity as
+well the humidity in this needs to be
+between 50 and 60% for the first 18 days
+and then about 90 percent 85 to 90
+percent then for the last three days
+okay so the last thing we want to be
+doing is opening this app to turn the
+eggs so I built an automatic egg Turnham
+we put that together in a moment but
+essentially all it is is this
+contraption here this is just a bracket
+this is a clock motor and I've built a
+little cam here off the clock motor and
+essentially that clock motor is just one
+of these things and this particular one
+runs at one rpm just one revolution per
+minute if you can get a half resolution
+per minute motor it will save you having
+to build a circuit that they've built
+because this one's when the last thing I
+wanted to do is to go right the way
+around and put the eggs back into the
+exact same place so essentially all we
+want is that half rays of revolution but
+I'll explain all of that as we get there
+now
+we have a window you again double
+insulated along the side okay and this
+window will allows us to see in through
+there now there's a couple of other
+components and these are these here the
+first thing is this bit of 2x1 timber
+that they've built it's a frame and I've
+cut them some play and on the play I've
+just kept it piece of pieces a thin play
+and they stapled on and well that
+creates as you can see through the
+background look just a little slightest
+work okay so besides these two things
+guys the other thing we need is for
+takeaway trays okay and this is how
+we're going to control our humidity
+alright so we just need four takeaway
+trays please take away trays this bottom
+frame has been built if I put it on here
+to take these takeaway trays one and we
+literally just swish him in
+three four so we have our four takeaway
+trees so if you could see them just
+through there guys and we now place this
+in the bottom
+the takeaway trays will allow us to pull
+water into there and control our
+humidity the next step is to put this in
+and what this is this is part of the egg
+turning mechanism we've got basically
+some bamboo in some one and a half by
+three quarter and we have a piece of
+going across the top with a slot in now
+that comes down into the tray like that
+and we literally take a nut and a bolt
+there's a hole here and we just feed the
+bolt through the hole and put a nut on
+the end once I get it started guys we
+can this little bit can be bit fiddly to
+get going because of the angle Emma but
+you know we go so all we do know where
+this bolt is we'll do it right the way
+up maybe yeah okay so that's how that
+works okay I'm going to show you how the
+mechanism works but before I do that we
+need to go for a couple of other pieces
+this is an old computer laptop charger
+okay and that's what runs the fan and
+heating mechanism hugo's odd yeah so we
+need power for that but we also need
+power for this clock motor now earlier
+on I said about if
+could get a half revolution per minute
+motor you wouldn't need this this set
+you could literally just plug that in
+into an old timer that you could set to
+go off once an hour but essentially
+because I didn't have that I had to
+either find the timer that were you
+could set off once every half hour which
+unlike Goldust has come find one so what
+I did was I built a little circuit and
+what this circuit does is it will out of
+every hour it will turn this on for a
+period of 30 seconds so 59 it will turn
+it on at 59 and a half minutes it will
+run for 30 seconds which will move this
+through half a revolution and then it
+will switch off for another 59 and a
+half minutes okay so that's what that is
+it's just basically a timing relay which
+I built what for this system so what I'm
+gonna do though I'm gonna skip that
+tight that plug and I'm just going to
+give you an idea of what it looks like
+working okay guys so what would go you
+know we've got five eggs all the spots
+ink spots on the top and we literally
+just plug this in now and the clock mug
+dog will do the work for us
+and if we watch you know where the clock
+moved is going around here it's now
+starting to pull the tray back and as
+you can see these egg spots and these
+ink spots are now going and when we have
+it on the timer system that they built
+it'll come to this end and then stop and
+switch off for an hour so we know right
+at the very end there so we can just
+stop it so as you can see from the eggs
+although you know they are sort of
+because they're not sort of promised
+spherical shapes they do tend to sort of
+move around but that's what they're
+doing the nest anyway and now if say
+it's an hour later now and then that
+timer will switch back in the clock I'll
+kick back on
+and it will just start to move this back
+into position here it goes again the
+eggs will roll in between
+and as you can see look there's all the
+spots no coming back to the surface
+and then the timer works I guess that
+end would switch off again so
+essentially that's how the system works
+obviously we have our heater that goes
+on the top and on here we have a
+thermostatic control and now make sure
+it stays after the 37 and a half degrees
+so what we're going to do now we're
+going to throw the rest of our eggs in
+I'm going to get everything connected up
+and we're incubating 30 eggs in this one
+I doubt they will all hatch because I'm
+not sure of how fertilized eggs are
+there's the the cockerel lay is one of
+the rolls from our last hatching
+and so I'm not sure
+how this went all the hens that we did
+have gone and we have just the older
+hens there so there nothing to do with
+this cockerel so before you start
+getting all annoyed and saying oh you
+know you're crossbreeding we're not so
+we need to move some of these up because
+some of these eggs are quite big as you
+can see they're a really good-sized egg
+so this incubator guys that I built will
+take 35 but I'm only gonna put 30 in you
+at the moment
+there we are
+so we just need to know just press spot
+on each of them and that's just so I can
+see that they are definitely turning
+this won't hurt the chickens in any way
+I've got two eggs in that role there
+that are a bit tight so what we may need
+to do just put them in a wider role and
+put some smaller ones in you okay so
+they all got dots on them these two this
+one they I'm gonna take that one out put
+that one in it that's better
+that's better and who is either one not
+one day I don't take that what when I
+put that one in there I think maybe not
+oh yeah we go that's what we do we'll
+put him down there and we put that one
+down in the exams a little bit wider not
+sure she's away this one yeah that one
+they hear me up better we need to find a
+smaller egg and that's what sometimes
+well it takes guys a little bit of
+playing around a be out that's him right
+that's it
+so all 30 eggs are in the next thing we
+need to do is just put a little touch of
+water in the pan below now 50% humidity
+don't need a lot
+you only need water in two of them guys
+and you don't need a lot in them it'll
+keep it going and yeah that's fine
+and then when we want to raise it to 90
+we'll put water in the other two okay so
+that's gonna sit in there just like that
+but before we do we need to put this
+thermostat on and I'll talk you through
+this as we go they're just plugged in to
+the side of the machine
+and just shared it there it's no one is
+telling me the temperature at the moment
+is nineteen point three degrees that's
+pretty much what it is room temperature
+in here and HTR means the power that
+it's using within the fan and everything
+else in order to keep it at that
+temperature as it gets closer to the
+ideal temperature of 37 point 5 this
+power ratio was stepped down now what I
+normally do it's still in the garage at
+the moment so I need to go and get that
+I have a separate digital thermometer
+and hydrometer so it tells us sorry
+correction yeah a hydrometer so tell us
+the humidity in there as well so we can
+gauge everything better and I just
+literally sit it you know on the front
+of the screen here the tray can still
+move with it in now
+okay so temperatures climbing in there
+and they see now okay so we've got some
+stuff written on the glass sure the
+first thing we got is temperature 37.5
+or 99 to 102 Fahrenheit okay so that's
+good we then got four other things set
+candle remove tray in hatch and this is
+just a visual reminder for me to know
+exactly what's what
+so we now basically need to write down
+in here so for set is today's date which
+is the 16th of the third and that is
+2018
+so we've wrote down a we're also gonna
+write the time okay and it is 1825 okay
+candle so we want to give these 10 days
+now before we candle them so we're going
+to candle on the 26 of the third 18 at
+which point we will know which eggs
+available within within these 30 that
+we've put in the next thing we need to
+do now is remove tray now that these are
+going to take 21 days okay to hat and we
+remove the tray three days before
+because at the last three days we don't
+turn the eggs they just sit there okay
+so we need to do this now 18 days from
+the 16th so it's 31
+in March so that's going to give us the
+3rd of Feb so we need to remove a tray
+on the 3rd song of April 18 and the
+hatch date will be the 6th of April 18
+let me just check that now this is 15
+days and 6 that's 21 perfect ok so we
+know exactly no guys we can look at this
+we know exactly when the chicks are
+gonna hatch so we know on the 6th of
+April we know we're going to have chicks
+hatching out in here on the 3rd of April
+we know we need to remove the tray and
+raise the humidity on the 26th of March
+where you're going to handle the eggs
+and I'll show you that later stage and
+we've just set them low today so all
+we're doing now luck attempt has gone up
+no to 22.2 degrees we're just leaving in
+this no but for all intents and purposes
+these eggs are no set and that's
+essentially guys on how this incubator
+works it's something I built years and
+years and years ago and we have hatched
+out hundreds and hundreds of eggs in
+this incubator anyway opus episode was
+of interest to you it's very easy to
+build people build them with light bulbs
+and all sorts I just wanted that little
+bit more of being able to control the
+humidity in the heat and everything else
+and why I had this particular unit for
+it which he did and move the sphere
+around and everything else and then
+built the circuit for the for the tree
+to move because the last thing I wanted
+to know was open this up and everything
+else and I have to be here to do that
+with this every hour or every two hours
+whatever I said to that it'll roll all
+the eggs just a half turn so anyway guys
+that's it for this episode
+don't forget to give us a like don't
+forget to give us a thumbs up whatever
+you want to do with that way thumbs down
+if you didn't like it and don't forget
+to subscribe button if you see first
+time you guys who really appreciate your
+support if you haven't already
+visit us at Facebook and I will see you
+in the next one bye bye guys

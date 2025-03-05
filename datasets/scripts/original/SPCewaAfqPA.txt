@@ -1,0 +1,165 @@
+We use all kinds of measuring tools in our
+everyday lives: rulers, protractors, squares,
+and tape measures, etc..
+These work fine for small- and medium-sized
+projects, but what if we need to layout something
+big like a road, bridge, dam, or pipeline?
+Hey I’m Grady and this is Practical Engineering.
+Today we’re talking about one of the civil
+engineer’s most important companions, land
+surveyors, and we’re also going to try a
+little bit of surveying you can do at home.
+This video is sponsored by Blue Apron, more
+on that later.
+Surveying is essentially the science of taking
+big measurements, and you’ve probably seen
+these guys on the side of the road looking
+through fancy equipment on a tripod.
+Just about any civil engineering project starts
+with a survey to determine the legal boundaries
+between parcels of property, the location
+of existing infrastructure, and the topography
+and slopes of the land.
+Humans have always had a penchant for building
+big stuff which means surveying is career
+full of history and tradition.
+Behind every wonder of the ancient world was
+an ancient geometry nerd who laid out the
+angles and alignments during construction.
+Surveying is also how we created accurate
+maps of the continents like the Great Trigonometrical
+Survey of India, which took almost 70 years
+to complete.
+I personally think everyone should aspire
+to accomplish something in your life that
+can be prefixed with the words “great trigonometrical.”
+The ubiquitous tool for a survey is called
+a theodolite, and it’s one job is to measure
+the angles between two
+points.
+Combine those angles with distances from a
+chain or tape measure, and you can triangulate
+the location of any point using trigonometry.
+Modern theodolites, called total stations,
+can not only measure angles, but distance
+as well, and they have on-board computers
+to do the calculations and record the data
+for later use.
+When you see a surveyor peering through a
+funny telescope, it’s probably a total station,
+and he or she is probably sighting a reflector
+to record the location of a point.
+That’s just scratching the surface of sophistication
+with modern surveying equipment.
+With GPS and unmanned aircraft, things can
+get a lot more complicated.
+But I’ve got a few ways you can do your
+own topographic survey with fairly basic and
+inexpensive tools.
+Maybe you’ve got a drainage issue on your
+land, maybe you’re planning a landscaping
+project, or maybe you just want to exercise
+your god-given right to take measurements
+of stuff and write those measurements down
+on a clipboard.
+That’s my kind of recreational activity.
+My goal is to perform a leveling survey of
+my front and back yard, which is just a way
+to get the relative topography for an area.
+I laid out a grid of points on a map of my
+house and then transferred those points to
+real life using pin flags.
+Now I just need to pick my datum or base point
+and measure the relative difference in height
+between that point and all the others.
+I tried a few ways to do this and there are
+no sines, cosines, or tangents required.
+First, a sight level which is essentially
+a combination of a telescope and a spirit
+level.
+To use it, first get a buddy or a willing
+spouse to hold a surveying rod on the point
+of interest.
+Now, look through the sight at a surveying
+rod and raise or lower the end until the bubble
+is centered on the line.
+Once it’s centered you know that you’re
+looking at a point that is exactly level to
+your eyes.
+Simply subtract the height of your eyeline
+with the height measured on the rod and that’s
+your elevation.
+It’s not a precision technique, but it is
+cheap and simple which the most you can usually
+hope for in any part of a home improvement
+project.
+The next way I tried is a water level which
+is literally just a length of clear vinyl
+tubing filled with a liquid.
+As long as there are no bubbles or kinks in
+the line, the free surface at each end of
+the tube will self-level.
+I kept one end at my datum a fixed height
+and measure the height of the water at the
+other end as I carry it around to each of
+my points.
+It’s a little more unwieldy but it does
+have a distinct advantage, no line of sight
+required.
+You can use this method around corners or
+behind trees with no problem, and again, it’s
+a cheap and simple solution.
+The third method to take a level survey worked
+best for me: my laser level.
+Here’s the thing: I really like lasers.
+I relish any chance I get to use them in a
+constructive way, and this is perfect.
+The laser level creates a perfect horizontal
+line that can be used to line up cabinets
+or tile, but it is also easy read on a surveying
+rod.
+You don’t need a helper, but you do probably
+need to wait until dusk unless your laser
+is really bright, or you have these sweet
+laser enhancement glasses.
+This isn’t the cheapest solution for a DIY
+land survey, but it is the fastest one I tried,
+and it’s a tool a lot of people already
+have.
+Surveying is one of the oldest careers in
+the world, and also one of the most important.
+Why?
+Because land is important.
+If you own some, it’s probably your most
+valuable asset, and even if you don’t, you're
+pretty much stuck to it no matter where you
+go.
+As a career, surveying is a fascinating mix
+of legal knowledge, field work, and technical
+challenges.
+And since most civil structures are too big
+for conventional measurement tools, the surveyor
+is one of the most important companions for
+the civil engineer.
+Thank you for watching, and let me know what
+you think!
+Thanks to Blue Apron for sponsoring this video.
+We are still in the process of getting settled
+into the new house.
+After a long day installing lights in the
+workshop or throwing away all the junk left
+by the previous owner, it has been really
+nice not to worry about groceries.
+Blue Apron delivers all the fresh ingredients
+you need, right to your doorstep, in exactly
+the right proportions to create delicious
+recipes at home.
+If that sounds like something you’d be interested
+in, the first hundred people that click the
+link in the description will get 3 meals free
+with their first order.
+If you like it, you can continue your subscription,
+and if you don’t, hey, you just got three
+free meals shipped right to your doorstep.
+Again, thanks for watching, and let me know
+what you think!

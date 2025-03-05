@@ -1,0 +1,267 @@
+hello everybody how goes it rabbits more
+here and this is a tutorial on my
+compact item sorter it's completely
+automatic and you can expand it to hold
+as many items as you want and for this
+example I left the sides off of it but
+if you wanted to you could cover up the
+sides like this I just let the sides off
+to just show just how compact it can
+really get but you could put the sides
+on here if you want it so I'm gonna do a
+quick demonstration on how this works
+and then we'll get into building it and
+as you can see we have a spot for iron a
+spot for gold and then I have a chest
+for just junk items or any items that
+aren't going to be sorted through our
+system here so if we go to our drop-off
+here I'm gonna put in five iron five
+gold five snowballs some stairs and some
+cobblestone here and they'll all get
+pulled through our system and into our
+sorter we should be able to see them
+come through here so we have our five
+iron our five gold and then our five of
+each of our junk atoms here down at the
+end so it does work out pretty simple
+and it is completely compact and like I
+said you can expand it to put as many
+items as you want on this system here
+all you would have to do is keep putting
+chests along here and then you just have
+your one junk chest at the very end of
+that so let's get into building it here
+alright so the first thing that we're
+gonna be working on now is our drop off
+system or collection point for our
+system so we're gonna go over find us by
+where you want to build it and we're
+gonna be placing droppers facing up so
+what I'm gonna do is boost myself up
+just in case you're doing this in
+survival it'll make this a lot easier so
+we're gonna place a dropper straight
+from above then we're gonna have to hold
+down shift and place another dropper on
+top and then we can break ourselves down
+and while you're right here we're gonna
+shift right click another dropper here
+facing to the side then we're gonna go
+back up front here from this direction
+we're gonna shift right click a chest
+and shift right click a hopper right
+here on the bottom of the chest going
+into the bottom dropper here and coming
+from this direction we're gonna go back
+behind here and place a comparator
+coming out of the bottom dropper that's
+going to go into a block and that goes
+into a repeater right here
+and I'm gonna go ahead and break a
+couple blocks up just so we can see the
+redstone a little easier here but coming
+out of this repeater we're gonna place
+redstone dust going back around into our
+comparator so this will make a loop as
+long as our items in our bottom dropper
+here will just keep repeating and then
+we're gonna put two blocks next to our
+droppers here and put a piece of
+redstone dust and a redstone repeater
+right here so now the system will
+basically any time that an item comes in
+it will see items in the bottom dropper
+here go through our comparator and it
+will just loop and activate all of our
+droppers until there are no more atoms
+in the system here so that's pretty much
+it for our item collection point so now
+we can start building the sorting system
+on the side all right so for this
+example I'm gonna be showing how to
+build our system here where we have two
+items being sorted at one junk chest but
+again you can put as many chests as you
+want so what we're gonna do is go to
+away from our hopper here and start
+placing chests and trapped chests so
+that they don't connect to each other
+and we're just gonna do that three times
+but again if you want to keep expanding
+it you could just keep doing chests and
+trapped chests as far as you wanted to
+go but we're just going to do this for
+now and again later on you could also
+place second chests on here for more
+storage space so I'm gonna get our three
+chests set up here and next what I'm
+gonna do is build a wall between our
+chests and our drop-off point here just
+so it's a little easier to place blocks
+and I'm gonna put solid blocks up here
+and upside-down stairs right above the
+chest so we have a solid block there but
+we can still open the chests here and
+then we're gonna go around back and
+place a block here and here and then
+we're gonna place hoppers going this
+direction we're gonna have to shift
+right click these in to each other there
+we go so now the dropper will drop items
+under there and they'll go across the
+top here going through our sorting
+system we can break these blocks now we
+don't need those so above each of these
+chests here we're just gonna place a
+hopper going into the wall here and it
+seems weird that the hoppers aren't
+going into each other but as long as
+they're underneath each other those
+still pull items from each other so this
+actually make let's this system work
+without getting
+you don't want them going into each
+other and now that we have our hoppers
+placed here we're gonna go beneath our
+chests here and as many as you put in
+your world you'll have your one junk
+chest at the end so remember that but
+for all the other ones we're gonna put a
+redstone torch behind them like this so
+that's good to go and next what we need
+to do is place blocks our place hoppers
+going into each of these chests here
+there we go and this last one is
+finished already because it's just going
+to be our junk atoms we don't need to
+worry about it anymore so behind the
+ones I have our redstone torches we're
+gonna build up a block here and place a
+comparator on top of each of these ones
+here and then what we're gonna do is
+break out these bottom blocks here and
+put repeaters going into the dirt here
+that actually has the redstone torches
+on the other side and now we can build
+blocks over top of those place some
+redstone dust and then we're gonna put
+redstone dust back here behind these
+repeaters as well and that's pretty much
+good to go now this will actually lock
+up our hoppers whenever they have the
+items in them and this is what is this
+is what actually allows our system to
+sort the items so the next thing we need
+to do is put our items into our sorting
+system that we want to sort out all
+right so from here we're actually gonna
+mark our front items here so it helps us
+around the back to keep track of what
+we're working on especially if you have
+a lot of items going through your
+sorting system here so I'm gonna place
+item frames on our stairs above our
+chests here and for mine I'm going to be
+doing iron and gold and then our last
+one is always going to be our junk
+chests so I just use a bucket since it
+looks kind of like a trash can and so we
+have these set up so we can keep track
+of what they are and I'm gonna be
+showing two different ways that you can
+do your sorting through your hoppers
+here you can pick whichever one you want
+to use or whichever one's more
+convenient so our first one is we know
+that I have our iron behind this one
+here so I'm gonna go into our Center
+hopper here we're gonna be doing an iron
+in this we need to put 22 items in here
+so I'm gonna get 22 iron separated here
+what you need to do is place one of each
+and these far-right ones and then 18 and
+the first one here and this one's good
+to go now it'll actually only pull iron
+out of the system as it's going over the
+top and put it into our chests here
+anything more than this
+we'll go in and I'm just gonna go ahead
+and place one extra in here since that
+one will go down and get stuck into this
+hopper right here now anything else
+we'll go into our chests so another
+method you could use if you don't have
+22 of whatever it is sitting in here
+like if you don't want to have 22
+diamonds sitting around in a hybrid that
+you're never going to be able to use is
+to get another stackable item that
+you're not going to have much other
+you're not going to be putting through
+the sorting system so I'm gonna be doing
+cobblestone slabs since they're easy to
+make a lot of they're very easy to get
+since you just use cobblestone and I
+never put them through my sorting system
+so I'm gonna take those and separate
+them out until I have 20 there we go and
+I'm gonna hold down left-click and just
+get those spread out there so it's gonna
+be five of each and each of these stacks
+here and then for the this one since I'm
+doing gold on the other side I only need
+to put two gold here since this will add
+up to 22 items here so again this is if
+you don't want to have a whole bunch of
+your items sitting around in the hopper
+that you're not gonna be able to use
+this one will only need two of those
+items right here and again I'm just
+gonna put a single item and then they
+into this one so it gets pulled down
+into our bottom hopper there and now
+this one is also good to go we'll pull a
+gold out of the system and go into our
+chests but again if you're gonna be
+doing it this way whatever stackable
+item you're putting in these filler
+slots here you need to make sure that it
+isn't something you're gonna be putting
+through your sorting system or else Lily
+will actually go into this hopper and
+break the system so make sure it's a
+rare item that you're not gonna be using
+like the cobblestone slabs here but if
+you're afraid that you don't have
+anything that you're going to be able to
+use then just stick with this one
+because this one will never have a
+problem of breaking so there you go you
+can use either of these and now both of
+these will work so if I go around here
+to my drop-off point I do five of each
+here they should be going up in here and
+also one last thing we need to do is
+that one ticket delay onto this one here
+so that our items never get stuck in our
+sorting system here so we have our five
+iron our five gold and our five
+cobblestone that we sent through so
+that's good to go it's completely ready
+very compact and again you can put as
+many of these chests along here as you
+want all you have to do is keep expand
+in the back here with the Redstone
+behind the ones you want to sort out and
+you can use this either of these types
+of sorting system ways as long as you
+have 22 items in there and the type of
+item you want to sort and you're good to
+go so pretty much it guys
+so thanks for watching if this helped
+you out leave a like or subscribe I'd
+really appreciate it and leave a comment
+if you have any questions but that's
+pretty much it thanks for watching guys
+have an excellent day and see you later

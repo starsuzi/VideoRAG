@@ -1,0 +1,587 @@
+hey there today I thought I'd talk about
+some stuff maybe let's stick around
+today's episode is brought to you by the
+letter beep and sponsored in part
+through the generosity of the metric
+system since 1792 the system trusted by
+1516 so last night the missus and I were
+in Los Angeles for the world premiere of
+weld cart part 3 on the ride home she
+said this old Tony I loved it but he
+didn't really get much into the actual
+bending my jaw dropped it must have fell
+on the gas or got behind the brake pedal
+cuz I don't remember much after that a
+few days later after we came to in the
+ER she turned to me looked me straight
+in the eyes and said you really should
+make a follow-up video as our monitors
+beep tin that empty room I realized she
+was right
+this might upset a lot of tin knockers
+but there isn't too much - bending in
+theory anyway if you've ever tried it
+yourself tried to get good accurate
+bends well there's more to it than meets
+the eye
+bending can mean a lot of things to a
+lot of people in fact it's got 19
+entries on dictionary.com could mean
+anything from this or this all the way
+to this now I wouldn't go so far as to
+say what we'll be doing here is
+precision bending this is still the guy
+in his garage I mean I can't do NASA
+level stuff out here but I'll try to put
+some thought into what we're doing just
+like anything else you make if you're
+making just one of something dimensions
+are usually relative part a needs to fit
+Part B with some level of acceptable
+tolerance that keeps the thing
+functional objective dimensions might
+not be super important
+kind of like the drawer I made in the
+last video finished size wasn't that
+critical as long as all the parts worked
+together satisfactorily for me anyway
+speaking of which yes I did cap the
+holes in the welding cart sometimes you
+make me wonder what channel you think
+you're watching here Stefan got the
+other end of that spectrum is making
+parts for other people there you don't
+have control over where that part you
+need to make will go or how it interacts
+with other parts in that case objective
+dimensions are law you make it to spec
+or it's trash no two ways about it
+anyway let's make a couple of bent parts
+work through the layout and see what we
+get shall we
+actually before we get into this just a
+word if I may I'll try to keep what
+you're about to see to an absolute
+minimum here but we're going to be
+getting into some math you want to bend
+stuff you got to do some math you tell
+me is it a contrived coincidence that
+reorganizing the letters in sheet metal
+spells mathletes but don't fret just
+addition and subtraction I promise if
+you're a little rusty please pause the
+video and brush up just like all good
+rulers throughout history I try to
+provide both inch and metric dimensions
+in my videos my channel is international
+the numbers will be thrown around
+working in both systems will get a
+little sloppy I'm gonna do this whole
+video in metric I know this is a
+controversial topic but since you
+brought it up let's talk about
+measurement systems take this block as
+an example in this universe's reference
+frame it has some width to it it has
+dimensions the block doesn't care if you
+call it 2 inches or 50 millimeters it's
+always whatever width it happens to be
+so let's not get caught up in labels
+shall we so 1980s would it be more
+convenient and cause less confusion if
+we all adopted the same system yeah
+maybe personally and I recommend you
+strive to do the same I have transcended
+labels when I look at a measuring device
+I see this which I'll grant you makes
+taking measurements a little hard
+sometimes now what was I even talking
+about and for my flagship phone here and
+see how it goes nothing fancy just
+something for out here in the garage
+since we're make pretend professionals
+we should probably start off with at
+least some attempt at a reasonable
+drawing so this phone is fifty point
+seven millimeters wide there's some
+curvature some kind of rounded champers
+but we'll call that fourteen point four
+make that about eleven it's about 70 up
+to the bottom of that camera bezel there
+two megapixel they make a quick drawing
+something like that is what I had in
+mind
+though to be honest i already forgot the
+dimensions though he took I think I said
+this return will be 11 phone is about
+ten point four make it ten point five so
+it actually fits in there seventy of the
+back and I don't know seventy on the
+return
+sort of for the kickstand let's do a
+quick flat pattern so that's 11 10 and
+1/2 70 and 70 140 150 160 160 1.5
+overall length let's do a chamfer to
+chamfer so it looks nice
+45 should do it I've already checked and
+this is the squarest corner of this cut
+off my half I need a line at 11 then an
+additional 10 and 1/2 takes me to 21 and
+1/2 it has a vernier scale on both sides
+if I add 72 that it takes me to 91 and a
+half and we said the overall length was
+161 and a half okay I don't know if you
+could see those scribe lines but I'm
+ready to cut this happens to be one
+millimeter thick mild steel I haven't
+weighed my new phone but I think one
+millimeter should withstand the
+crippling forces we're dealing with okay
+hold the train had a little brain fart
+as I was scribing that sheet metal out
+this ten-and-a-half
+really bothered me this is essentially
+the thickness of the phone because it's
+not ten and a half it's essentially 15
+it's 14 and a half plus some clearance
+15 I mean come on I don't even think
+Samsung can get it down to 10
+millimeters let alone an LG I'm just
+kidding that was a joke
+don't start setting me lg8 male so that
+ten and a half is really 15 that's 26
+and 140 takes us to 166 I've already
+gone ahead and laid that out on the
+backside of this piece so this should be
+correct now when it comes to sheet metal
+you've got some options each one is
+worse than the last but you have some
+options it could use your psychic powers
+but then you'd be laid up in bed for a
+couple of days and you'd have to wait to
+finish the project ideally what you'd
+have is a full-sized CNC hydraulic shear
+in your garage it's like an artificially
+intelligent giant paper cutter on
+steroids but try to pitch that one to
+your significant other
+oh wait next down the wish list might be
+a compact to mechanical shear that'd be
+pretty nice I've always wanted one stick
+the metal in stomp on the pedal perfect
+cut most of the time anyway but unless
+you've got a lot of space or maybe you
+do this a lot even the compact shears
+tend to take up quite a bit of space now
+sure there's plasma and freakin lasers
+and that sort of stuff but let's look at
+some perhaps more traditional items
+stuff you might expect and shears are
+likely the first thing that come to mind
+in this case with one millimeter stock
+that's probably fine any more than that
+and you'll be staring down the barrel of
+a serious workout then there are power
+shears this is a Makita it's pretty old
+but I love this thing gets a lot of use
+down here could stand to be sharpened
+but we'll have a closer look at this in
+a minute and then of course there's Old
+Faithful the angle grinder with a
+cut-off wheel I'm also showing cold
+chisels technically they do cut sheet
+metal I wouldn't use them for a project
+like this but they do cut for the sake
+of sharing I'll show you what a cold
+chisel does and these aren't called cold
+just because they're heartless they're
+called that because they cut metal cold
+as in cold working basically with both
+this and the air chisel we'll see in a
+minute there can openers cutting sheet
+metal with one of these is akin to doing
+surgery with la chisel I guess usually
+not very pretty this might be more adapt
+at cold cutting small bolts or splitting
+rusted nuts that sort of thing this
+one's actually seen better days but
+let's give it a try not pretty actually
+if the chisel were a little sharper and
+I was using a smooth backer like not
+these serrated vise jaws I bet that had
+come out a lot cleaner in fact let's try
+it that's just a block of cold-rolled
+steel with I guess a sharper edge a more
+continuous edge all right it's a lot
+better
+this here is a sheet metal trimmer it's
+a very close cousin to the cold chisel
+just on the end of an air hammer and it
+does basically the same thing it'll do
+two cuts and pull out a center strip I
+haven't actually used this in a while I
+hope it still cuts it's not really the
+highest quality cheap metal trimmer
+there is I think I just got it with the
+set that came with the air hammer this
+is the kind of thing I might use to cut
+a like a 55-gallon drum in half
+something you don't want hot sparks
+getting into and you're not really that
+concerned with the quality of the cut
+I'm actually quite surprised
+that's quite a clean cut I may have to
+start using that a little more often
+there is sort of the chip it just kind
+of bulldozes ahead of itself despite me
+not even trying that looks like it
+actually went pretty straight too and
+here's the electric version of what we
+just saw
+except here that's got a moveable jaw
+that actually does the cutting it's more
+like power shears than a cold chisel
+this isn't really all that sharp so the
+lines are blurred I think you can get
+these as add-ons to like a cordless
+drill or a corded drill this you can run
+up against a straightedge should measure
+the offset clamp down a straightedge and
+get the nice clean cuts
+of course you can also do this with a
+cut-off wheel set up a straight edge cut
+your way through this is probably the
+lowest barrier to entry
+not counting shears of course but it
+does make a heck of a racket dust and
+dirt and all that kind of stuff anyway
+let me cut this out and we'll talk about
+bending
+hi Bigsby can you give me an to bend
+this for me
+I'm sorry Dave I'm afraid I can't do
+that
+so this is my sheet metal bender if
+you're a usual you'll have seen this
+before I use this for thin sheets it'll
+do up to I think 36 inch bends that's
+almost a meter not quite but of course
+the longer the bend the harder it is to
+do as you saw this bender is a bit of a
+compromise
+there's no built-in clamping there's no
+back stops there's nothing I just make
+do with cut-offs I have on hand block
+the part up clamp it down and pull the
+bend it does a fair amount reasonably
+well without taking up a lot of precious
+garage space I know someone's gonna ask
+but unfortunately I don't have plans for
+this thing if you want to make one
+you'll have to do with me and every
+other cheapskate has since the dawn of
+time build five of them until you lose
+the will to bend and just make do the
+rest your life with the last one you
+made I'm just kidding there's tons of
+plans around of every shape style and
+size what they usually come down to is
+two pieces of heavy angle iron with a
+hinge at each end make it as long as you
+think you need as beefy as you think you
+need cut out some material and weld in a
+hinge one side would get some sort of a
+base or a way to attach it to your bench
+or garage floor and the other side gets
+a handle and then once your material is
+clamped down you just simply rotate it
+around the two hinges here I've got long
+handles on either end just to help give
+me some leverage let's get back to our
+little phone stand appears to work the
+phone fits it's not falling over and
+there's no creaking sound let's have a
+closer look the phone is a little bit
+loose in there again it works fine but I
+was shooting for a little bit of a
+snugger fit now we wanted marked off and
+bent at 15 millimeters this is the front
+edge that's the flat the phone sits in
+that's the back and that's the kickstand
+measure what we got that is almost 16
+millimeters
+same thing on the other side let me grab
+a school
+yeah the bends all look reasonably
+square how curious where did that extra
+millimeter come from if I bring you in
+really tight you can see the bends
+happen right on the scribe lines which
+are 15 millimeters apart and we saw both
+bends or square so why isn't this inside
+pocket 15 millimeters this part if we
+were making it for someone else would
+now be trash it just failed inspection
+now the reasons why this isn't a size
+are staring us right in the face but
+it's hard to see because this material
+is so thin it'll be easier to talk
+through on something bigger something
+thicker I happen to have this block
+that's 2 inches thick my bender can't
+handle stock this thick but luckily it's
+only mild steel the first thing you
+might notice is that the bend isn't
+sharp there's a bend radius state the
+obvious the material is deforming all of
+the material on the inside of our Bend
+has compressed it's sort of bunched up
+the material on the outside of the bend
+has stretched for that to happen the
+material needs some breathing room it
+can't just turn on a dime
+that breathing room becomes the bend
+radius just like me if you don't give it
+breathing room it'll snap usually US
+hobby folks don't have the kind of
+muscle around to see that happening
+steel but maybe you've seen it happen in
+aluminum it has a larger minimum Bend
+radius if you've ever tried to force a
+really tight Bend on aluminum you'll
+know that it breaks for steel that
+minimum safe Bend radius is usually
+smaller than aluminum in fact it can be
+quite small it depends on the thickness
+of course the grade of material trying
+to bend its heat treat how you're gonna
+try to bend it etc you can look all that
+info up in our case with one millimeter
+sheet it's not very much but it still
+needs accounting for in my particular
+case with this scrappy bender here I
+don't have too much control over Bend
+radius or a minimum Bend radius that is
+to say I can make larger radius bends if
+I use a rounded top die like this tubing
+for example it's got much bigger radii
+that I can bend stock around but if I
+use a sharp corner tool like this cold
+rolled flat stock and try to force a
+smaller Bend radius on the material one
+of two things will happen either and
+most likely my clamps will slip
+see the amount of force can get very
+high and the way this bender works it
+just can't take the heat as I try to
+pull the bend those forces will transfer
+onto the clamp and if it slips the bend
+radius will get larger basically the
+clamps will slip until the forces are
+equal and I can pull a Bend option
+number two
+I've got 55 clamps across 24 inches of
+bender the clamps don't slip but either
+the material would crack or my bender
+would break so in a way this bender has
+an auto minimum Bend radius feature if
+you go back and watch the weld card
+video where I'm bending the drawer and
+that material was thicker I was getting
+large Bend radii off of this bender and
+had to do some cleanup on the hydraulic
+press since the inside dimension here on
+the phone holder is 16 and set a 15 that
+we intended it's evident that we picked
+up a half a millimeter Bend radius on
+each side had we known that ahead of
+time we could have scribe the lines 14
+millimeters apart instead of 15 in order
+to end up with a finished feature that
+was 15 millimeters you have to account
+for what will happen during the bending
+when you're laying out the flat pattern
+you have to think about it before you
+cut your blank or you might scrap your
+part the amount of material you need to
+account for before making a bend is
+called the bend allowance and just like
+it says on the tin it's the allowance
+you'll need to make for the bend you're
+about to pull of course you'll also need
+to be careful of where these dimensions
+refer to where on the bend line or at
+the bend allowance that 70 millimeters
+in this case refers to also where this
+Bend allowance goes with respect to your
+Bend line sort of depends on the
+equipment you're using like if it's a
+press break or like a box or a pan break
+and what the intention of your final
+dimensions are is the important
+dimension of that Bend the inside or the
+outside including the sheet metal
+thickness like if you were to clamp on
+this line here all of your Bend
+allowance would happen outside obviously
+after that clamp if you were to clamp
+here this whole Bend allowance would
+shift up a bit
+you can't allow to bend something that's
+clamped down in a big machine bottom
+line you look this stuff up it's usually
+presented based on your material
+thickness T so for a certain material
+say mild steel in this case you google
+it and it'll tell you that the Bend
+allowance is going to be one or two or
+three times the thickness of the metal
+that you're working with add that to
+your flat pattern before you develop the
+overall size of the part
+then cut it out but to give you the
+30,000 foot view I'm going to throw some
+definitions at you so if you do look it
+up you might have a better understanding
+of what you're reading let's go back to
+that big block I bent for you earlier
+Bend allowance is this material here all
+of the material that went into making
+the bend its length of that arc
+basically but if you look closely the
+material has thickness to it in this
+case quite a bit of thickness so how
+long is that Bend if we measure on the
+inside of the bend we'll have a much
+shorter been allowance than we would at
+the outside right so what gives remember
+earlier we said when you bend something
+the inside will compress and the outside
+will stretch well if that's true that
+means somewhere in between those two
+extremes the material is seeing no
+stress right if one side is all in
+compression and the other side is all in
+tension there must be a place where that
+changes from one to the other and that
+place is usually about the center line
+of your material thickness the inside of
+the bend got shorter the outside of the
+bend got longer but somewhere in the
+middle here the length didn't change at
+all
+and fun fact that place is called the
+neutral axis that arc the length of that
+arc through the part of the metal that
+didn't deform is the bend allowance
+that's the number we need to account for
+in our flat pattern before we cut the
+sheet stock so easy enough right for a
+90 degree Bend it's just a quarter of a
+circle pi times the diameter is the
+circumference divide that by four and
+you have your Bend allowance but not so
+fast there partner what is that diameter
+if we assume the neutral axis is at half
+the material thickness it's easy right
+take the bend radius which is always
+measured on the inside of the bend and
+add half of the material thickness bingo
+bango you can now calculate the been
+deloused
+but the neutral axis isn't always in the
+middle in fact it's usually a bit closer
+to the inside maybe 45 percent of the
+way in instead of 50 might not sound
+like a lot but if you're doing a lot of
+bends you can bet it'll add up and it
+won't add up to profit you can be sure
+that the location of that neutral axis
+is called the K factor well the K factor
+tells you where that neutral axis really
+is it's like the x factor but way cooler
+if you do a lot of sheetmetal work in 3d
+cad like fusion or SolidWorks or what
+have you
+you may recognize that term that K
+factor every bend you do in CAD wants to
+know what factor you want to use because
+well frankly it's important now the
+software will usually have a built in
+database of what that should
+but it's always smart to double-check
+just before clicking that okay okay
+whatever let's just get on with it
+button alright anyway this rabbit hole
+has gotten deep enough
+bottom line for kids like us either look
+up the k-factor and figure out the bend
+allowance for the material you're
+working with or do a few test bends and
+keep a close eye on what you marked out
+versus what you got and just figure that
+into the part you need to make holy
+smokes what a mouthful but just one more
+thing well actually there are a lot one
+more things when it comes to bending but
+one last point for now and I'm done I
+swear it's not really a point even I
+just want to put what you just saw in a
+different light a quick example of why
+this is important let's say we're laying
+out a simple part with 90 degree Bend
+lines something like this the way a
+well-adjusted person would likely
+dimension that is by giving you the
+length of the two sides maybe one inch
+on one leg and two inch on the other
+pretty straightforward right but how
+would you bend this
+you really can't lay this out on flat
+sheet metal have a close look at how
+it's dimension then you'll see it's
+quite sinister the dimensions span from
+a simple reference edge the one you cut
+presumably to the outside of an already
+bent corner it's just brushing over
+everything that happens in that Bend
+what we'd really like if we're the ones
+making the part are the flat lengths the
+dimensions just up to where the bend
+will start or finish simply because
+that's how we're going to bend it right
+you'd maybe clamp this line here and the
+break and pull the bend but the person
+that made the drawing doesn't really
+care they just want a part that's to
+size and that's where all the math comes
+in based on these dimensions you'd need
+to calculate what they call the setback
+in this case it's an outside setback
+just looking at it for a 90 degree Bend
+it's the bend radius plus the material
+thickness that's where you'd clamp the
+material and the bend allowance we saw
+earlier tells you how much metal you
+need to fill that bend in how much metal
+you need to actually make that Bend if
+you give it too little the leg on the
+Left will end up short give it too much
+and the leg will end up long okay well I
+think that's all I got I mean what we
+did changes a little with different
+types of bends that you're making the
+equipment you're using and there's stuff
+like material spring back error
+accumulation you have to watch out for
+if you're making a big part with a lot
+of consecutive bends but at the core of
+it it's really not that complicated just
+take a deep breath and thing
+get through before you start actually
+bending metal it really wasn't my
+intention to make a mountain out of a
+molehill you know what I'm saying right
+Bigsby
+[Music]
+thanks for watching

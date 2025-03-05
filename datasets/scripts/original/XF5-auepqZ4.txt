@@ -1,0 +1,846 @@
+- Hey, how it goin'?
+Seth here from Retipster.com.
+In this video I'm gonna talk
+to you a little bit about
+land surveys.
+(bright music)
+So, one of the inherent challenges
+when you're buying a piece of vacant land,
+is the fact that it's vacant.
+Like, when there's no
+house on the property
+or no clear markers to
+identify where the boundaries
+of the property are,
+and especially when there's no
+registered physical address.
+Like, you can't just type
+the address into Google Maps
+or a GPS device and get to the property
+because if that address doesn't exist,
+then there's no way for
+these systems to figure out
+where that property's located.
+Which can be problematic
+because if you wanna go
+and look at it yourself,
+or if you want to build something on it,
+ya obviously have to
+know where your land is
+and what it consists of.
+And a lotta times there
+are some really helpful
+GIS parcel mapping systems
+on the county website
+that you can use
+to give yourself a
+really good idea of this,
+but the fact of the matter is,
+those parcel maps are not the same thing
+as getting an actual
+survey on the property.
+And a survey is when a
+professional surveyor
+takes the legal description
+of the property,
+which is usually a really confusing string
+of words and numbers that
+doesn't make a lotta sense
+to the average person.
+They take that information,
+they take the title work on the property,
+so all the title history and
+the documents relating to it.
+And they will go ahead and put together
+a drawing of the property,
+and they can even go out
+and put survey markers
+on the property to mark
+where the corners are.
+So, if you or anybody
+else wants to go out and
+see onsite where the actual
+boundaries of the property are,
+you can do that.
+And we've actually got
+a really good article
+on the blog if you wanna check it out
+and look more into how
+legal description work
+and how to make sense of them.
+I'm gonna go ahead and
+link to that blog post
+beneath this video if
+you wanna check that out.
+But essentially, if you're
+gonna order a survey
+you don't have to do all
+this stuff for yourself,
+that's what you're
+paying the surveyor for.
+All you have to do is give
+them the legal description
+and any title work that you
+have relating to that property,
+and they will go ahead and use that
+and put together the drawing for you.
+So, you don't have to concern
+yourself with all this.
+But the question that I
+wanna address with you today
+is first of all,
+when do you need to order a survey?
+Especially when you're a buyin' a property
+for a few thousand or even
+a few hundred dollars,
+is it really worth spending
+several hundred more
+just to get a survey to
+find out where it is?
+Especially if you have a GIS
+parcel map from the county,
+can't you just rely on that?
+Why do you really need
+to go through the steps
+of getting a survey too?
+So, we're gonna cover some of that stuff,
+and then also, if ya ever
+do decide to order a survey,
+what kind of survey do you need to go.
+'Cause there's actually several
+different kinds of surveys,
+and if ya don't know specifically
+what kinda survey you want,
+you're kinda just leavin'
+it up to the surveyor
+to give you whatever they think you need.
+And a lotta times they
+don't necessarily understand
+what you need it for,
+and you know, it may be
+in their best interest
+to just ya know, oops.
+Let's order this person
+the most expensive survey
+we can possibly put together for them
+and charge you thousands for it.
+So, another important aspect of this,
+is you understanding what
+kinda survey you actually need
+and what sorts of
+information you need included
+on the final survey
+that they put together.
+And ultimately, why
+you're ordering a survey
+in the first place.
+So, in terms of when
+and why you might want to order a survey,
+there's a few different
+scenarios that come in mind,
+and this is definitely not
+covering every scenario.
+These are just the ones
+that I've encountered
+most frequently when the
+need for a survey arises.
+I'd say one of the more
+common reasons for a survey
+is when the person who's
+buying the property from me,
+wants one.
+So, they just wanna feel comfortable,
+and they wanna see onsite
+and in the form of a drawing,
+where the property boundaries are,
+and anything else that's
+important for them to know about
+like, easement access
+or utility lines goin'
+through their property,
+or the topography of their property.
+Or whether their
+property's in a flood zone.
+Things like that.
+Different buyers will care
+about different things.
+So, whenever somebody says
+that they want a survey
+or maybe they're questioning
+where the boundaries are,
+or sometimes one of the neighbors
+might even come up to them
+and say, "Hey, I actually
+own this big chunk
+of your property, it's not yours."
+And then basically we
+need to prove them wrong
+by ordering a survey.
+That's one particular
+scenario in which a survey
+would be required, or at
+least very smart to get
+if you want to win that kind of a battle.
+And I can tell ya, if
+you have any plans to
+do anything to the property,
+whether you're building on it
+or if you're going to subdivide it,
+or change the zoning or
+repurpose it for any reason.
+In those cases, I think a
+survey is basically a must,
+because you want to be very very clear
+about where the boundaries
+are before you just
+start altering the face of the earth.
+For instance, if your plan
+was to harvest timber,
+ya definitely don't wanna
+go into that just guessing
+where your property is in
+starting to cut down trees,
+'cause you could be cutting
+down trees from your neighbor
+if you're not absolutely sure
+where the boundary lines are.
+Or if you were gonna
+parcel out the property
+and split into smaller buildable lots
+that you can then sell
+and potentially make more
+from the property overall.
+Again, I'm not sure why you
+would ever buy a property
+with that intent without
+first doing a survey.
+Because before you can start
+breakin' it up into smaller parcels,
+ya have to know what you're workin' with.
+Like, exactly how large the property is,
+where the boundaries are,
+what the dimensions are.
+All that stuff.
+So, if you're lookin' at doin'
+a more involved project like that,
+then I don't think there's even a question
+that you have to get a survey.
+And you're probably gonna
+need that surveyors help
+in the future as well,
+if you do start breakin' up the property
+and tryin' to sell it off as smaller lots.
+Another instance in which
+a survey can be helpful,
+is if you have a property
+that is landlocked
+and you want to confirm
+or deny that there is any
+easement access to the property.
+So, for example,
+if you own a property that kinda
+out in the middle of nowhere
+and there are no clear roads
+going to and from the property,
+it's basically like stuck behind
+somebody else's property
+and you have to walk
+over that property in
+order to get to yours.
+A lotta times what will happen is,
+there actually is something
+called an easement,
+which gives the owner legal access
+to walk over that other persons property
+without trespassing to
+access their property.
+And sometimes they can
+even put like, a road
+through that easement
+and they're allowed to
+because they don't necessarily own
+that portion of the neighbor's property,
+but they're allowed to cross over it
+in order to get to theirs.
+And sometimes when ya see
+a landlocked property,
+these easements will exist
+somewhere in the recorded
+deed history.
+Sometimes the easements will not exist,
+it's literally landlocked
+and ya can't get to it
+without trespassing over
+somebody else's property.
+So, whether there is or isn't an easement,
+in order to figure that out,
+you basically have to do a title search
+and see if any easements show up
+in the recorded title
+history on that property.
+And if they do show up, you
+can take that paperwork,
+bring it to a surveyor,
+and say, hey, I want you to
+draw a map of this property,
+show me where the boundaries are
+and show me where the easement
+is that goes to my property.
+So, where does it crossover?
+Which of my neighbors properties?
+That might be another
+scenario where a survey
+would make a lotta sense.
+Now, the key is though,
+surveys usually cost at
+least a few hundred dollars.
+Sometimes a lot more,
+depending on the property,
+and the area where your
+property's located,
+and what the surveyor feels
+like charging you for the work.
+And if you bought a landlocked property,
+you probably paid a very very
+very very low price for it,
+because of the fact
+that it was landlocked.
+Or if you didn't pay a really low price,
+you should have.
+So, the thing about that situation is,
+if you know that there's an
+easement to that property,
+you just don't where it is,
+then I would say yes.
+It probably is worth
+payin' for a survey because
+the existence of that easement,
+especially if you can pinpoint
+exactly where that's at
+to the person you're selling
+the property to in the future,
+or to yourself if you decide to use that.
+That's gonna add a lotta
+value to that property
+simply because now
+you're able to get to it.
+But if there is not an easement,
+then I would say it's probably not worth
+ordering a survey, simply because
+that property's not gonna be worth a lot,
+no matter how ya slice it.
+And payin' a lotta money for a survey
+just to confirm the fact that, yep.
+There's no easement, there's no access,
+so it's not worth very much,
+it may not make a lotta sense.
+Now, with that being said, I think
+the textbook answer that you'll always get
+from a mortgage lender, from a surveyor,
+from an appraiser, from an
+attorney, any of these people.
+They'll probably always going to tell you
+that you should always order a survey.
+That's kinda like, the sage advice
+that you're gonna hear out there.
+And admittedly, there
+is a lot to be gained
+from having a survey and
+just knowing for certain
+where that property's
+boundaries are located.
+And it's also a helpful
+thing when it comes time
+to sell the property.
+If you have that survey
+and you can just provide it
+to the person,
+that adds a lot of value and
+reassurance to them as well.
+So, I don't think it's every like,
+a dumb thing to get a survey.
+I think just from an
+economical standpoint,
+you have to ask yourself, okay.
+How much do you have
+invested in this property?
+How much do you stand to sell it for?
+And is the cost of this survey
+gonna be able to fit
+within that profit margin
+or is it just gonna be
+throwin' money out the window?
+And that's not really
+somethin' I can answer for you,
+that's somethin' that you
+have to evaluate for yourself.
+Depending on the numbers
+with the deal that you're lookin' at.
+So, just keep that in mind.
+I'm not telling you that
+you should or should not
+order a survey in any
+particular situation.
+I'm just tellin' you
+how I think through this
+when I'm considering
+paying money for a survey
+on a piece of vacant land.
+Now, when it comes to the
+type of survey to order,
+I know I've heard different
+reports from people
+and I've even experienced this myself.
+When they call up surveyor and they say,
+"Hey, I want a survey for this property."
+And the surveyor responds
+with, "Okay, that'll be $3000."
+And it's like, whoa, 3000 bucks?
+Like, why so much for
+this particular property?
+And sometimes it costs that much because
+it's a huge property and
+there's a lot of moving pieces,
+and components that go into
+drawing up that survey.
+So, the price is that
+high simply because like,
+it's actually gonna take a ton a work.
+But a lotta time, if you're
+heaving a huge number like that,
+it's probably 'cause
+the surveyor is quoting
+a survey that you don't really need.
+So, I wanna just quickly explain to you
+some of the different
+survey types out there.
+And this is not an all inclusive list,
+there's probably other survey types
+that I'm not gonna mention here.
+But for intents and
+purposes, these are like,
+the major, most common ones
+that everybody in the survey
+business is familiar with.
+So, I've just pulled up
+several different websites
+from surveyors around the country.
+Just to kinda show you the
+commonalities between them.
+And, this right here is
+a surveyor that's located
+not far from me.
+For the most part, the
+cheapest kind of survey
+that you can get,
+is something called a Surveyors Report.
+I've also seen it called a
+Mortgage Inspection Report.
+Looks like this other one here calls it a
+Surveyor's Real Property Report.
+And essentially what that is,
+is the surveyor is not even
+going out to the property.
+They're literally just
+like, sitting at their desk
+and they're looking up the local records.
+Maybe looking at the historical plat maps
+from back when the neighborhood
+was first established.
+And basically, the idea
+behind this kinda report
+is to just give a lender
+or a property owner,
+reasonable assurance
+that yes, this property
+does technically exist according
+to the historical records.
+And this is what we think it looks like,
+based on the information we've seen.
+Like very very basic, without
+a whole lotta information.
+It's just gonna show that
+yes, here's the property.
+It is this feet long by this
+feet wide, on this road.
+There ya go, good luck.
+So, there's not a whole lot of information
+or reassurance there.
+And because that kinda survey
+does not require a ton of work
+from the surveyor,
+it's by far the least expensive one.
+However, because there's
+nobody who's actually going
+to the property and
+staking out the corners,
+I think it's only marginally useful.
+I mean, in my mind the whole
+reason why I'm getting a survey
+is to be 100% sure of
+where the property is.
+And it's also a benefit
+for my future buyers
+so that they can see where the stakes are,
+and they can feel confident that yes,
+they are actually buying
+something that exists.
+And this is literally
+where that property is.
+So, every time I've ordered survey,
+it's always been this
+next one on the list,
+which you know, some people call it a
+Property Boundary Survey
+with Location of Improvements
+in this case.
+Or another name for it would be
+just a Boundary Survey,
+which establishes the location
+of the property boundaries
+that are marked with
+permeant iron corner stakes
+set below the ground.
+So, to explain what that means,
+in many many areas around the country,
+maybe even everywhere for all I know.
+Whenever they establish a new neighborhood
+and put together these plat maps to say,
+okay, here's lot one, here's
+lot two, here's lot three.
+What they'll do,
+is they will go to the corner
+of each one of those lots,
+and then drive a huge piece of
+metal rebar into the ground.
+So that in the future, if people want to
+go through and be 100% sure
+of where the corners are
+on each lot,
+they can actually use a
+metal detector if they want.
+Or even dig down into the ground
+until they find this rebar
+and say, yes, this is the corner
+because here is the piece of rebar.
+So, that's what they're talkin' about
+when they reference the
+permanent iron corner stakes
+set below the ground.
+They'll actually find where those are
+and then drive a wooden
+stake into the ground
+above that, so you can very clearly see
+where the technical corners
+are of the property.
+Now, when you're dealin' with a property
+that isn't just vacant land
+and it might have like,
+a house or a barn or
+something like that on it.
+You can also get a Boundary
+Survey with Improvements,
+where they're not just
+gonna show where the corners
+and where the lines of the property are.
+But they're also gonna show the location
+of those improvements
+on the property as well.
+So, there's that too.
+And then, by far the most expensive
+and comprehensive type of
+survey that you can order,
+is something called the ALTA Survey.
+This shows every possible
+thing you can imagine.
+So, not just where the
+property boundaries are
+and not just where the improvements are,
+but like, everything.
+And this is actually a list I found
+on one surveyors website
+where you can check off
+every single possible item
+that comes with an ALTA Survey.
+And there's a lot.
+They'll tell ya the exterior dimensions
+of all buildings at ground level,
+and the measured height
+of all the buildings,
+and substantial features
+observed in the process.
+Striping, number and
+type of parking spaces,
+whether the property overlaps
+with a flood zone at all,
+and the current zoning.
+I mean, you name it, they'll
+tell ya in this kinda survey.
+And this is the kinda survey
+that you typically need if
+you're going to do like,
+a massive commercial construction project.
+Because there's a lot of information
+that the contractors and
+builders are gonna need
+in order to build it adequately,
+and not get in the way of any easements
+that might be running
+through the property.
+And also keep in mind,
+if ya are gonna be doing a
+very very complex project
+like subdividing the property,
+then I think you're
+definitely gonna wanna talk
+to your surveyor about your specific plans
+and ask them what kind of
+survey they would suggest.
+There's definitely a time and a place
+for this kinda survey,
+but for the most part, if I'm just buyin'
+a small residential lot.
+And I'm not doing anything to it,
+I'm not building anything on it,
+I'm not changin' the zoning,
+I'm just gonna take it as is
+and then flip it to somebody
+else and sell it for more.
+I honestly can't think of any scenario
+where I would need to
+pay thousands of dollars
+for all this information,
+because I just don't need it.
+Pretty much the most I would need is,
+this kinda thing.
+The Boundary Survey and/or
+if there's any improvements on it,
+then possibly the Boundary
+Survey with Improvements.
+Or whatever the surveyor
+I'm working with uses
+to explain that kind of things.
+So, I'll show ya a couple
+surveys I've ordered in the past
+that were boundaries surveys.
+Just to give ya an idea for what I got
+when I ordered them.
+This one in particular was a parcel
+that consisted of three
+lots, side-by-side.
+It was a pretty small property.
+And the reason I ordered this survey
+was because one of the
+neighbors was claiming
+that his property line came
+up to like, right here.
+And he was like, insisting that,
+"Yes, this is my property."
+And I was insisting that, no, it's not.
+So, now I have to go order a survey
+and have the surveyor stake the property
+and prove to you that I actually own this.
+So, that was why I ordered
+this particular survey.
+And I believe this one cost,
+I think it was less than
+300 bucks, it wasn't crazy.
+This particular surveyor
+I've used for years,
+and he does a great job,
+and charges are really fair price.
+So, it really wasn't that expensive
+and as you can see,
+it doesn't include a ton a information.
+But it includes everything
+that I needed to know
+in that situation to verify
+where the property was located.
+And I've also got the
+legal description up here
+and the drawing of the property,
+and how many feet long and wide,
+and what the dimensions were,
+and where the road was in relation to it.
+And just to give ya an idea,
+this is what the property looks like
+according to the county's
+GIS mapping system.
+That little orange
+square was the property.
+If I was just relying on that,
+that was all the information I had.
+And it actually was reasonably accurate.
+I mean, that's not like
+bad or wrong or anything,
+it just doesn't have as much information
+as this one does, which
+clearly shows which lots I own
+and how wide they were,
+and how many feet away
+it was to the next road.
+And also this guy actually
+drove out to the property
+and drove a wooden stakes into all four
+of the corners for me.
+So, all in all, it was money well spent
+because it resolved the issue
+with the neighboring property owner.
+I wish they just hadn't done
+that in the first place,
+so I wouldn't of had to do this.
+But if that kinda thing does come up,
+that would be one potential situation
+where ordering a survey isn't
+just a nice thing to do,
+it's sort of a must,
+so that you can prove where
+the property is that you own.
+So, that's an example
+of just a very simple
+boundary survey on a
+vacant parcel of land.
+This is another example of a survey,
+and this one is a little bit more complex.
+This was a 12 acre parcel that I owned
+up in northern Michigan.
+And one of the interesting
+things about this property
+is that it was located
+right on Lake Huron,
+which is a federal body of water.
+And the way federal bodies of water work,
+is that you don't actually own the beach.
+That's like, public property
+that anybody can go and walk on.
+So, one of the ideas behind this survey
+was to very clearly mark
+out where my property ended
+and where the beach began.
+And this kinda shows you a
+dotted line where that is.
+And this particular property
+also had some wetlands on it,
+and was in a floodplain,
+and so they marked out
+where they thought the floodplain was
+based on the hundred year flood line
+established using aerial photography.
+So, that was pretty helpful,
+and as a result of getting this survey
+and then also doing a subsequent
+perc test on the property
+to figure out where, if
+anywhere on the property,
+I could put a septic tank and drain field.
+I was able to figure out
+that really the only place
+on this property where a person
+could ever build anything,
+was gonna be in this corner of it.
+'Cause that was the only place
+where all of the components
+needed to build a house existed.
+It was kind of a bummer because, you know,
+this is a 12 acre parcel of land,
+and if the house is back here,
+it's not gonna have a
+great view of the water
+over on this end,
+which is kinda what everybody wants.
+But still, the fact that
+I can build a house at all
+on the property is
+pretty important to know,
+because if I can't, that
+kinda sabotages the value
+of the property and what a future buyer
+might be willing to pay for it.
+This particular survey cost me,
+I think it was about 750 bucks.
+Because it was a pretty large property
+and there were a lot of moving pieces
+that they needed to include in here,
+that they wouldn't normally
+have needed to include
+in a simpler scenario like this.
+But, that just kinda you an idea of
+what the cost of this type
+of survey can typically be.
+At least in the areas where I've worked.
+And it's worth noting, I've
+found that some surveyors
+are a lot more expensive than others.
+I think you'll find that the smaller shops
+where the surveyor is just like, one guy
+and maybe his assistant are
+gonna be a lot less expensive
+than the big, huge,
+companies that employ like,
+50 people.
+In my experience, that's pretty
+much always been the case.
+And I don't necessarily know
+that you're gonna get like,
+a better or worse quality of work
+from a smaller guy.
+They just have less overhead to cover,
+and as a result, they're a lot cheaper.
+So, I'd just keep that in mind
+if you're lookin' for the lowest price,
+try to find those survey shops out there
+that are just like, a one man shop.
+Or maybe like, a one or
+two or three man shop.
+'Cause that will probably
+give you a better value
+and a bigger bang for your buck overall.
+So, if you're in a situation
+where you just have to get a survey,
+I think it's definitely
+worth callin' around
+to more than one surveyor
+just to get some quotes
+on how much they're gonna charge.
+Because you may find some
+pretty big fluctuations
+in the prices that some
+of them will charge.
+And again, my intent with this video
+is not tell you that
+you should or shouldn't
+order a survey in any particular scenario.
+But it's more just to
+help ya understand like,
+how I think through it and the situations
+when I've ordered one, why I ordered one,
+and why it was worth it
+and why I was willin' to pay the price.
+I think every situation is different
+and there's definitely
+a lot you can get done
+just by relying on
+things like, Google Earth
+and the county's GIS mapping system,
+neither of which are
+guaranteed to be accurate ever.
+But in a lotta cases,
+they're accurate enough
+to get the job done and just
+to get you confident enough
+to move forward.
+So, with that said,
+I hope this video was
+reasonably helpful for ya.
+If you've never ordered a survey,
+it's not really hard
+and for the most part,
+the surveyor does all the work for ya,
+ya just have to provide
+them with the basic details,
+usually the title work
+and the legal description,
+and then they will go to
+work and prepare it for ya.
+So, thanks for watchin'
+and I wish y'all the best.

@@ -1,0 +1,69 @@
+hi guys let's now look at how to
+reference a textbook now in this video I
+will be using an e-textbook but of
+course the same principles apply to any
+book you could pick up in the library
+remember every time you take some
+information from one of my slides
+you've got to reference the textbook
+okay so let's continue working on this
+document and let's say that I've now
+added this statement which is from the
+text so of course I need to reference
+the textbook which is available in
+bblearn so I pulled up the textbook from
+baby life so this is the text and this
+is the title page which has most of the
+information that I need so let's go back
+and see how to reference this so as
+always I go to references insert
+citation add new source make sure that
+the type of source is booked the first
+piece of information that I need is the
+name of the author so let's go back and
+look at the name of the author these are
+my authors now always always remember
+that we do not enter the name of the
+author here but rather we click on this
+edit tab and enter the names here so
+let's look at the first author that's
+our Dan read so I enter last name read
+first our middle Dan I click on add and
+then the second author is nada our
+Sanders so last name Sanders first name
+nada middle our click on add again and
+ok notice how word has formatted the
+names of the authors as per APA
+standards so remember to click edit
+because it does this for us
+next is the title of the book so the
+title is operations management and
+integrated approach I type that
+management and integrated approach the
+year so I go back and I see that I can't
+find the year here this information is
+on the copyright page so go to the
+copyright now in a paperback book this
+will be or a hardcopy book this will be
+on a page maybe the second third or
+fourth page that looks like this so look
+for the copyright that's 2016 so I enter
+2016 City now if I scroll down I
+look here where the addresses and it
+says Hoboken New Jersey this is the
+information that I need so I type
+exactly that and lastly the name of the
+publisher which is Riley John Wiley &
+Sons awesome
+now if you notice here it says that this
+is the sixth edition of the book this is
+a useful piece of information so let's
+add it so sure bibliography fields and I
+scroll down and under addition I type
+sixth ok and that's it I put in the full
+stop and I go to the next page which has
+my reference list if you remember from
+the previous tutorial all I gotta do is
+I click here update citations and it's
+automatically updated isn't that simple
+now go and try it out

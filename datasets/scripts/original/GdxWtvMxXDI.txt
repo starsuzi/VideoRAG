@@ -1,0 +1,367 @@
+hey everybody Welcome to technical you
+may recall a while back I made a video
+about isopropyl alcohol I theorized that
+you could use just plain old elbow
+grease and a microfiber cloth to clean a
+CPU contact surface and it would be just
+as effective as using the cloth the said
+elbow grease and isopropyl alcohol and
+my testing did demonstrate that was the
+case but I received two very valid
+criticisms about the video that I plan
+to address address today first criticism
+involved the type of paste I was using
+when you reapply the same thermal paste
+as the one you've previously used
+obviously you're going to get favorable
+results because it's not two chemical
+compounds that are mixing unfavorably
+together and number two the amount of
+time between thermal paste
+reapplications was obviously just a few
+minutes on my test bench and the average
+real world scenario is going to involve
+Two Three or even five or longer years
+in between thermal paste applications
+and of course crusted on caked on
+disgusting old ass thermal paste is
+going to be a lot harder to clean off
+than something that's been freshly
+applied so will my theory hold water
+stay tuned to find
+[Laughter]
+out so here in front of me I have one of
+three systems from Circa 2006 it's a
+pre-built and it hasn't had a fresh
+thermal paste application in over a
+decade so testing is going to take place
+in three steps step one I'm going to
+take the motherboard out of the PC
+because I don't really need the rest of
+the components for testing and I'm going
+to leave everything else in place
+including the ram the heat sink and the
+old ass crusted on thermal paste from
+2006 and I'm going to take a baseline
+temperature reading for reference step
+two I'm going to remove the heat sink
+rub off as much of the thermal paste as
+I can with just plain elbow grease and a
+microfiber cloth and reapply thermal
+paste and take a second reading I'm
+going to note the temperature
+differential between the old ass paste
+and the new paste without a proper
+cleaning step three I'm going to do the
+same thing I did in step two except use
+isopropyl alcohol for test three so what
+we're hoping to see is a difference in
+temperature between steps two and step
+three which will validate the need for
+isopropyl alcohol let's go over to my
+test bench and get started okay ladies
+and gentlemen here we are over at my
+workspace as you can see it's a
+mess but I've done my best to try and
+organize in such a small space so now
+what I'm going to do is take off the
+heat no I'm not going to do that I'm
+just kidding what I'm going to do is I'm
+going to set the camera down and I'm
+going to remove the motherboard from the
+equation here uh discard the rest and uh
+we're going to boot it up and see what
+we got okay ladies and gentlemen there
+she is in all her glory I'm just going
+to give her a quick squirt here oh God
+this is going to be
+bad oh
+Lord oh God it's
+disgusting oh all right all right so now
+what we're going to do is throw this
+ cable out no one gives a
+and we're going to hook this up to my
+trusty
+ax860i from Corsair yes Johnny I do use
+ Corsair power supplies okay I'm
+not a total anti- Corsair
+ so just chill now I'm
+guessing for those of you unaware that
+this is going to uh because it's so old
+not going to boot up into 64-bit Windows
+it might actually uh but my guess it's
+got like a first generation Athlon which
+means it does not have the instruction
+set necessary to per six support excuse
+me 64-bit Windows 10 uh so we're going
+to have to figure out something in the
+meantime let's put in my little ubcd
+stick right here I'll explain what that
+is at some point it's just a flash drive
+with ubcd on it which is a a fantastic
+little tool set that you can use to do
+all kinds of nice and diagnos
+notics and testing we do have Onboard
+video but you know what I think it'd be
+better if I just stuck with the DVI
+connection and put a card in so I'll do
+that take my test card here I don't know
+what this card is record I think it's a
+uh it's an engineering sample I picked
+up from one of my friends up in North
+York near the AMD offices oh should I
+have said that maybe I shouldn't have
+okay everything looks connected let's
+boot up and see exactly what we get and
+get all these screws off my
+goddamn
+okay that's loud huh oh oh here we go
+we're posting we are posting took a
+while error system fan has failed press
+f2 to continue okay it probably be a
+good idea if I connected a keyboard okay
+now where is my USB dongle dongle where
+are you dongle
+ah there it is okay so here we are at
+the ubcd menu uh we're going to just do
+a quick memory test here because that
+will tell us what CPU we've got are you
+ready here's the big reveal I'll zoom in
+on the appropriate
+spot I was right sort of cathlon 64x
+2 so it might actually support Windows
+10 64bit and let's see oh Windows is
+loading I believe this SSD is installed
+with a legacy boot it's not ufi so that
+shouldn't be a problem the only problem
+is whether or not the system can
+actually run Windows 10 64-bit getting
+devices ready that's a good sign that's
+a good sign all right and we are home
+free look at this no problems I
+anticipated being at this all night
+but as it turns out my fears were
+unwarranted this is incredible Windows
+is activated what how did that happen
+let's take a look here what do we got
+temperature wise we we have and this is
+often misreported so I'm going to no
+these are good these are these are real
+temperatures sometimes I don't know if
+you aware of this there a lot of AMD
+processors older ones in particular that
+misreported their uh temperatures and
+windows by like 20° so they would show
+up as like nine which obviously doesn't
+make any sense but these look like real
+temperatures so CBU packag is being
+reported at 28 to 30° at idle and each
+of the cores is resting in between 32
+and 37 depending on when we look let's
+just jump right into Prime 95 and small
+ffts to make it virtually as hot as
+possible and there we go we are started
+okay ladies and gentlemen it's several
+minutes later and it looks like we've
+plateaued at a average of 45 to 46° on
+each of the cores I think they've peaked
+at 47 and
+45 respectively going from highest to
+lowest and I think that gives us enough
+of a idea of how these are going to pan
+out for us to get uh our future readings
+I hope anyway I was really hoping for
+higher temperatures than this I was
+hoping for it to get up into the 50s um
+so I can have more of a variance but
+this will have to do okay so step two of
+this process involves removing the heat
+sink and taking a look at what's under
+the hood and giving it a good rub down
+so let's do that now oh
+yeah oh so now we're going to set this
+down and I'm going to take my microfiber
+cloth and just give it a good thorough
+cleaning without any isopropyl alcohol
+at
+all oh it's just like rock hard around
+the edges that's
+disgusting okay all right let's get to
+rubbing trying to get it as stainless as
+possible before I reapply thermal paste
+but with a reasonable amount of time not
+going to sit here all day and do this
+this that would be ridiculous okay so
+all in all I think I'm happy that's the
+cleaned non-alcohol surface of the CPU
+and there is the surface of the
+non-alcohol
+cleaned heat sink so now we're going to
+pop this back on with some fresh
+paste and take our second reading for
+the test okay so here we are uh we're
+stressing it once again for test number
+two I've applied uh cooler Masters icy
+Fusion which is a pretty run-of-the-mill
+standard not particularly good not
+particularly bad thermal paste and we're
+looking to see if we had any general
+Improvement in temperature from giving
+it a good rub down without any alcohol
+and we're going to let it run for a few
+minutes again till we get a nice stable
+plateau and come back and take an
+official reading for the purpose of this
+video okay ladies and gentlemen here we
+are after the Test's been running for uh
+some amount of minutes it's not really
+all that important all we looked for is
+a plateau where temperatures were not
+increasing anymore and we found it
+because temperatures are once again
+stable exactly where they were before
+they've been stable at more or less this
+for the entire duration uh so I think
+what we can conclude at least for now is
+that reapplying fresh termal paste
+without alcohol uh doesn't net in any
+real significant temperature gain but
+what happens when we apply isopropyl
+alcohol and give this thing a good clean
+will that knock us down a few notches
+let's find out okay it turns out my uh
+my thermal paste job wasn't Terri
+but I did obviously miss a little bit of
+the edges not really critically
+important with AMG CPUs for the record
+as long as you get a good spreading in
+the middle you're usually fine
+so let's clean this properly quote
+unquote and uh see if we can get an
+improvement in temperatures okay so here
+we have
+our life brand 99% isopropyl
+alcohol and we are going to put some on
+the cloth like that let's just make that
+a little
+better oh it's like I've never
+chloroformed a person before oh yeah
+dissol it so nice doesn't it ice Purple
+alcohol you know I will say this it
+might not necessarily make a temperature
+difference but it does make cleaning
+easier all right that got off most of it
+now let's give it a couple of other
+scrubs I hope the camera is getting all
+this CU I don't want you to think I'm
+cheating that looks pretty good I don't
+see much left on it the cloth looks
+a little murky but pretty clean so let's
+do the CPU heat sink now and let's give
+the whole relevant surface area cleaning
+obviously the only that really matters
+is the surface of the CPU think that
+actually contacts the CPU all the stuff
+around the edges here is not as
+important yeah get in there nice and
+deep yeah they're
+deep still got some Schmutz let's keep
+getting the Schmutz off more
+Schmutz need that Schmutz off this thing
+was bukocki by a bunch of
+thermal paste it looks like it's a
+lot on here know it's still a little bit
+murky give it another go that's that's
+like seven or eight passes with this
+thing on 99% alcohol I can almost see my
+face in that it seems pretty good so I
+think we're we're good to go here we got
+two perfectly clean isopropyl alcohol
+surf es let's boot back up and see if
+we've gained anything temperature- wise
+okay there is my third P third P okay
+ladies and gentlemen it's time to close
+off this portion of the
+video once again there we have our two
+core
+temperatures and there are the recorded
+maximums right there in the middle of
+the screen actually a little higher this
+time uh but well within the margin of
+error I don't think there's a real
+difference here nothing to write home
+about oh and for the record just one
+other thing I wanted to note here uh the
+fan header that I'm using to plug in
+this fan is actually a three pin and um
+you're not going to see this on the
+video but I already checked uh the BIOS
+and uh the the fan speed variance is not
+particularly High uh it's been fixed at
+2500 RPMs through all the tests uh I
+just forgot to actually show you that on
+the screen anyway let's go back to desk
+Jeff and we'll close it out okay so
+before I begin let me address a couple
+criticisms that I'm almost certain are
+coming my way before I even finish this
+video number one yes I'm fully aware
+that the temperature variance between
+idle and maximum temperatures was low
+and as a result I'm not going to be able
+to see very fine differences in results
+this means that if you're talking about
+extreme overclocking uh an i7 on custom
+liquid cooling you might actually see an
+observable difference between isopropyl
+alcohol clean surfaces and plain ass not
+isopropyl alcohol clean surfaces but in
+the majority of you scenarios as I just
+demonstrated when it comes to stock
+cooling or even a hyper 22 Evo on a
+modestly overclocked I5 or i7 or
+something like that go nuts if you have
+a bad seating and you need to repaste
+don't go out and buy a $9 bottle alcohol
+to do it just take the goddamn
+cooler off and do it secondly I know the
+sample size was small I only had three
+motherboards to test on I did use all
+three I ran the test two additional
+times and noticed no difference um but I
+didn't bother filming it cuz the video
+is already 12 minutes long so
+what are you going to do anyway I think
+we're going to call that one a video uh
+streaming streaming will happen this
+weekend I going to do it at least once a
+week now I have convinced my girlfriend
+at the very least to join me I have some
+friends who maybe are interested in
+doing so as well so stay tuned for that
+it will probably take place on the
+YouTube channel right here because
+apparently that's the thing you can do I
+was not really fully aware of that until
+recently uh and I'd rather just not use
+another service I'd rather promote this
+Channel and get people here and lastly I
+just want to say uh this is not a paid
+sponsorship at all these people have not
+paid me I just happen to eat lunch at
+this place every day in Toronto called
+Sky Blue Sky Cafe they're really really
+great they're currently up for the best
+sandwich award at noun magazine here in
+Toronto I'm going to provide a link down
+in the description if you have time just
+make an account and vote for them please
+uh for me because they are like super
+super ass nice and uh I just wanted to
+give them a little 30-second spot and if
+you live in Toronto or in the Toronto
+area and uh you are able to go to other
+two locations do it I'm telling you it's
+an amazing experience it's like sex on a
+butt anyhow thanks for watching and I'll
+see you next time

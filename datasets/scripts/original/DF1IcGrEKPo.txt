@@ -1,0 +1,115 @@
+hey guys welcome to my series called
+finally explain Fridays where I take a
+complicated Minecraft mechanic and
+explain it simply today I'll be
+explaining Hoppers Hoppers were another
+complicated Minecraft block that were
+added in the 1.5 Redstone update they
+can be used in many ways to manipulate
+items which all attempt to teach you by
+the end of this video so let's get
+started with the
+basics a hobo is crafted with a chest
+and five iron ingots when you place them
+down they will either output to the
+block below them or the block beside
+them this means that will try to put the
+items in the block below or the block
+beside it if a hopper becomes powered
+then it will stop all functions and hold
+all items it will act like a regular
+container like a chest it will not try
+to take any items and it will not try to
+put items people sometimes get confused
+with this because if you put it in
+unpowered Hopper below a powered Hopper
+then the item will actually go to the
+bottom Hopper this is because the
+powered Hopper behaves like a chest it
+can hold the items but when a hopper
+takes one it can still lose the items if
+you power a hopper and an item on top of
+the hopper then it will bounce off this
+is a bug in the game as of 1.6.2 and is
+reported as bug
+1720 a Hopper's most basic use is to
+take an item which is on the ground or
+has been thrown on top of the hopper and
+put it in a container below people use
+this in mob Grinders when a mob dies the
+item will drop on top of a hopper and
+will be sent to a chest where it can be
+stalled permanently technically the
+hopper will take an item if the item is
+located in the block above the hopper
+this means that that if an item is
+sitting on top of a half slab or a
+Minecraft raal it will be taken by the
+hopper if you want to learn the
+mechanics of hoppers in large
+complicated machines then you need to
+remember that every four Redstone ticks
+or every 400 milliseconds a hopper will
+try to take an item from a container
+above and we'll also try to deposit an
+item into a container in its output this
+is really important every four Redstone
+ticks a hopper asks for an item and a
+hopper tries to put an item this single
+rule seems to explain a lot about the
+mechanics of a hopper in a system with a
+hopper which has its side output facing
+a chest and has a hopper beneath it the
+items will be divided evenly between the
+chest and the hopper below I can explain
+this using the ask and put rule that I
+mentioned just before if the top Hopper
+starts with a stack of items in it then
+every 400 milliseconds the hopper is
+going to deposit an item into the chest
+but at the same time the bottom Hopper
+will ask for an item every 400
+milliseconds the item count in the
+Hopper gets decremented by two as one
+goes below and one goes to the side this
+mechanic can be useful if you want to
+divide items equally amongst various
+numbers of chests comparators can be
+used to detect the amount of items in a
+hopper I actually have a whole finally
+explained Friday on comparators so if
+you want to click the link in the
+description to check it out if you put
+two Hoppers next to each other then have
+them output to each other then put an
+item in it they will act as a clock the
+item will be continuously pass from one
+hopper to the the other and then back if
+you want to get a redstone current from
+this then you'll need to use a
+comparator in this configuration they
+can almost be used as a variable or a
+counter you will need to have a system
+where you send power to only one hopper
+when the lever is on and send power to
+only the other Hopper when the lever is
+off to read the current value of a
+variable you need to have a comparative
+measure of how full one of The Hoppers
+are you'll probably want to use a stack
+of items as a medium if you power the
+hopper closest to the comparator but not
+the one next to it then it will add
+values and make the Redstone output for
+the comparator stronger if you power the
+hopper furthest from the comparator then
+it will subtract the signal I highly
+recommend playing around with this
+feature as it can be actually quite
+useful in certain circuits most
+complicated systems using Hoppers can be
+understood by using the ask and put rule
+I've demonstrated well there you have it
+you're are now an expert in using
+Hoppers I hope you enjoyed and I hope to
+see you next Friday
