@@ -1,0 +1,334 @@
+hello today we're going to be installing
+visual studio code
+and we're going to be doing a c-sharp
+console application
+now uh as an introduction we're going to
+be learning basically hello world this
+is getting it installed and getting you
+started up and running vs code is a
+little bit tricky at first it's actually
+harder to work with than the regular
+visual studio but it's free and open
+source so let's go ahead and take a look
+at it
+okay i'm not going to go into a huge
+depth in what we're doing here but we're
+going to be installing visual studio
+code
+which is a development platform for open
+source we're also going to be installing
+net core which the code uses as the
+framework not going to talk a lot about
+why you use the framework but i'll go
+really quickly over this little diagram
+dot net framework on the green little
+green side here is the huge framework
+for huge applications and it's it's on
+my windows computer and it's used in
+big applications
+net core it's only for microsoft.net
+core in the middle here is cross
+platform that means you can use it on
+linux
+mac and windows and i think it's a
+little more lightweight this xamarin on
+the right is for phones ios and android
+devices not using that
+okay
+so
+you might ask why why use visual studio
+code that was the first thing i asked
+well
+in one case you may not want to buy
+visual studio which is expensive program
+that using using corporations to build
+like app uh asp apps like net apps like
+console applications and
+big websites and things like that it's a
+full huge feature that's microsoft's big
+pro
+studio so you can develop things okay
+well this is more lightweight
+more extensible it's a little bit
+trickier to use but it's a really good
+learning tool so once i saw that i saw
+that was free and open source and it was
+used on different platforms i thought
+that's really interesting so
+that's why we're going to use visual
+studio code we're going to learn with it
+and it's free and it's cross-platform if
+you want to use linux with it and so on
+so enough of that
+so the first thing we need to do is go
+to google or whatever search engine
+i'm going to type in
+download.net
+core
+sorry
+visual
+studio
+code download visual studio code
+okay it should be the top one here
+i've got windows i'm doing windows 10
+and we're going to do a c sharp hello
+world application
+so then i click download and there it is
+and it's going to my downloads shouldn't
+take very long
+all right we also need a framework a
+framework is something that an
+application uses to get all the
+libraries and includes and references
+and stuff not going to talk a whole lot
+about that but let's find that also
+i'm going to go to google let's download
+both of these things you're installing
+two things
+dot net
+core
+sdk it's important that you say the sdk
+because you might get the wrong thing
+i got the wrong thing once and it caused
+me a lot of problems so make sure you're
+getting the
+net core
+1.03 sdk installer i have an x64
+computer i'm clicking on it
+i'm clicking on it
+there's a problem with it so i probably
+already have it in my downloads
+anyway
+save file okay now i'm saving it it's
+downloading it it's only going to take
+me i've got fast internet like 10
+seconds
+so we've downloaded visual studio code
+and the
+net core installer i can go ahead and
+close
+the browser
+now
+in my downloads i have my visual studio
+code setup i'm going to go ahead and
+install that very simple
+easy install you can read uh you don't
+need you can use the defaults that's
+what i'm going to do
+it's just going to install it and create
+a shortcut very simple
+okay now that we've downloaded visual
+studio code
+let's go ahead and installed it let's go
+ahead and run it
+there's my desktop we're going to run
+okay
+well before we do this
+let's go on to the desktop and create a
+new folder this will be our hello world
+project
+hello i'm going to create a new folder
+on my desktop hello
+world
+all right
+now let's take a look at visual studio
+code
+it looks a little strange and it will
+take a little getting used to but it
+will start to come to you after you use
+it
+what you have is this is a file right
+here untitled that's your start file we
+don't need that
+here's some shortcuts and commands
+these little icons are what you'll be
+using most and we're going to use the
+file
+explorer
+and i'm going to open a folder that i
+just created on my desktop
+hello world
+select the folder
+it does like this refresh and now you
+can see that we're actually the file
+explorer is over here and you're in the
+my folder hello world
+you can add a file and remove files and
+view files from here
+all right we're not going to look at
+this icon or this icon but we will be
+looking at this icon which is the
+debugger when you have a program and you
+put a breakpoint you can debug it
+and very important
+extensions
+so if you click on extensions
+i've already got these installed here
+see so what you're going to need to do
+is ignore what i'm doing right now
+since i already had it installed i'm
+going to go ahead and uninstall it and
+reinstall it for you so you can see so
+what you'll do
+i already have python all these
+extensions you're going to type in c
+sharp
+and the very first one that comes up is
+a c sharp for visual studio code install
+click on install
+now reload is like a refresh it
+basically closes and starts your window
+it needs to do that that's fine
+now you should have c sharp for visual
+studio code extension installed
+now here's the power of this thing if
+you notice i've got python python
+extended python for vs code
+not going to worry about that right now
+but we do have c sharp now so we've got
+c sharp and we're hello world let's
+close this now and remember we still
+have to install
+our sdk
+core
+so i'm going back to my downloads i'm
+going to install
+agree to everything
+very quick install
+okay
+so we're all good
+so now i've installed vs code and.net
+core i'm going to go ahead and open
+visual studio code again
+okay so we have an empty hello world
+file
+folder i'm going to hit
+a command that will bring up the command
+prompt within visual studio code
+and the command
+is control teal day
+the teal day is this little squiggly
+mark that you see in spanish
+words that is next to the one
+and that's just a shortcut to open up
+the terminal window
+notice that it's in my desktop hello
+world
+explorer
+folder because we set that earlier
+next you're going to type
+dot
+net
+new
+and that's what it looks like dot net
+new
+and you'll hit enter
+and it's going to create some files for
+you in that folder we don't need to
+worry about what they are yet but it's
+going to get you started basically.net
+new means new project
+now every time you make a change to your
+project you'll you're going to need to
+re kind of compile it and it will it
+will fix some links and things for you
+so let's do this
+dot net
+restore
+and that looks like this
+dot net restore
+and that's going to fix all the links
+and
+it's going to rebuild your project for
+you and we can just sit here and watch
+it and everything's good
+now we have some files to work with
+this is equivalent
+to in visual studio going file new
+project console application and it's
+going to build some files for you well
+that's what we just did not a big deal
+we just did it from the command prompt
+okay
+program
+dot cs is your main program
+and it has a main startup function
+and
+notice when i clicked on this file it
+started downloading
+but i got an error
+this is uh sometimes it can be a little
+tricky so we got an error and it's
+notice that it's asking me up here an
+error occurred in the net core debugger
+the extension may need to be restock
+reinstalled
+okay so let's know that there's maybe a
+little air and these things are going to
+happen this is where
+as you're learning you're going to have
+to figure things out
+i'm going to go ahead and hit f5
+and run it and see what happens
+run
+download.net core debugger in the
+command palette
+so i had a problem with my uh
+extension because i've been installing
+an install installing for this video so
+i had to uninstall it close down and
+reinstall it and now i'm working
+so
+if you hit f5
+that should
+build
+see down here in the debug console hello
+world so this program calls main
+console.writeline hello world
+now if we wanted to add something else
+hey bugsy
+don't forget your semicolon
+now one way you could do it is remember
+control teal day
+then we could do a dotnet this is one
+way there's other ways dot net
+restore
+that will rebuild it now that we made a
+change
+now let's go over here to this debug
+button suppose we put a break point
+right there
+it's going to stop on that line or it
+should anyway
+now i hit the debug and you have
+up here in this drop down you should
+have a net core launch console this is a
+console application it means it's very
+simple
+with it with a break point so if i hit
+the start button
+it should run
+and stop and notice that it stopped
+with this line here on hello world
+if i hit f10
+it'll step one line hello world
+hello hey bugsy and i can step and
+finish the program down here we have
+hello world so the point of this video
+was to get you from nothing to hello
+world and that's where i'm going to end
+this but i will be adding more
+please
+make a comment below if you want a
+different type of
+tutorial
+or if you have a problem with this and
+i'll do my best to help you
+this is a tricky application there's
+lots of configurations and all
+um this is just the beginning this is
+just the tip of the iceberg but i hope
+this helped you get started and let me
+know what you think and what you want to
+learn about and i will help you with
+that

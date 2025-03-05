@@ -1,0 +1,105 @@
+okay everybody's been asking about the
+bearings on a survey and how to know
+where your line should start and end
+when doing property boundary check most
+the time you'll have a survey in your
+hand and let's say you've purchased this
+property and you want to put up a fence
+well you can't just walk out there and
+start you know tying string and all that
+stuff together from one post to the next
+post you need to find this post and when
+you're 600 plus feet even a hundred feet
+away and dense vegetation like this it
+makes it hard to do you can't just run a
+line from here to here and expect it to
+be straight you will probably have a
+line that's all kind of crazy just
+because of sheer obstacles in your way
+again I will show you GPS bearings and
+how to get from one point to the next
+point using GPS and a handheld typical
+military compass or lensatic compass or
+whatever but for purposes of Google
+Earth right now I'll show you how to get
+your estimated boundary lines this
+overlay does not have my bearings but it
+has my distances if you recall I showed
+you a previous survey with more
+information on it see I didn't need all
+this stuff in my overlay in Google Earth
+so I went ahead and edited dollars so
+with that said let's look at the
+bearings here here are the bearings this
+is the distance so you will travel down
+these bearings this distance to get to
+this from point to point alright so we
+will do this top one here which is south
+89 degrees 45 minutes 54 seconds east
+all right so you may you may go back
+over to Google Earth and I'll show you
+the problem of that let's do a line and
+you'll see
+you can do your feet and distance here
+roughly and your heading says zero
+degrees watch what happens to the
+heading when I start moving this line it
+changes right now that is an issue right
+so that bets degrees 360 is a circle
+alright so that's a problem because
+that's not what your bearings will look
+like so
+clear that and just so you know zero
+degrees is from your starting point so
+you will want to know as close as
+possible to where that corner marker is
+on your property all right so remember
+zero is your starting point and you need
+to know angular degrees for Google Earth
+because you can't change the setting all
+right how do you get angular degrees or
+decimal degrees from your degrees
+minutes and seconds to do the little
+math all right
+let's go back let's pull up a calculator
+or you could probably find a conversion
+on the web somewhere but here's a
+straightforward way of doing this all
+right so look 89 degrees you're gonna
+add your minutes just 45 here's where it
+starts getting a little strange
+you're gonna divide by 60 at this point
+okay
+then you're gonna add your seconds plus
+54
+here's another tricky part divided by
+3,600 and you get equals it's gonna give
+you eighty nine point seven six five
+decimal degrees okay eighty nine seven
+six five go back into your Google Earth
+it's probably easier if you do all the
+math and then go into Google Earth so
+we'll start we'll just start we'll start
+here just for visual purposes it's my
+fact that goes so remember it was six
+hundred sixty two feet
+so go out six hundred sixty two feet
+I'm just calling it rough see where the
+heading degrees is 662 and we want to
+make sure that we're heading at eighty
+nine point seven six so that is roughly
+the area for my property however
+remember it's been clear that I can show
+you the correct one that is actually my
+property line at the proper degrees so
+we can do these but I think you get the
+point
+again here's the math for you go back
+write this down so it's actually I'll
+put it on the screen for you your whole
+number degrees plus your minutes divided
+by sixty plus seconds divided by 3600
+three six zero zero and that will give
+you a decimal degree please if you have
+questions let me know
+thanks for watching

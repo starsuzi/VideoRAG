@@ -1,0 +1,819 @@
+okay so let's talk about shifting a
+manual transmission in uh general
+knowledge uh section two chapter 2.3.1
+they talk about manually shifting a
+transmission there's two things you need
+to think about there's the way they
+describe it in the book which works for
+a manual transmission but it doesn't
+tell you how to shift a non-synchronized
+manual transmission so there's what
+they're teaching you in the book but
+then there's what we're going to need to
+teach you is going to be a little bit
+different because our Transmissions are
+different our trucks are different we
+drive big 18 wheelers here
+and the standard eight and Fuller uh
+straight ttin transmission doesn't shift
+the way they describe in the book it's
+similar but there's some very important
+differences the difference being that
+those Transmissions are non-synchronized
+Transmissions so we're going to show you
+first what they're talking about in the
+book but you're also going to be able to
+apply it to the real technique on how to
+shift a true uh large commercial vehicle
+manual transmission so first let's talk
+about what we're talking about here
+we're talking about a manual
+transmission so instead of an automatic
+where you've got two pedals you've just
+got a brake and a gas pedal a manual
+transmission incorporates three pedals
+you got them right here if you got your
+gas pedal which everybody's familiar
+with that you're also familiar with the
+brake pedal but there's also a third
+pedal which is your clutch pedal the
+clutch is basically the the engagement
+device between the flywheel and the back
+of the engine as the engine is spinning
+the clutch engages it when you let the
+clutch out and causes the transmission
+to spin which causes the drive shaft to
+spin which spins the differential and
+Spins a we Wheels the vehicle Rolls by
+pushing the clutch in you disengage the
+clutch away from the flywheel and now
+the vehicle is basically coasting it's
+in almost kind of like in neutral
+there's no there's no power being driven
+through the transmission to drive the
+wheels so that's your pedal that does
+that you have to know how these work now
+if you've driven a regular manual
+transmission in a car or a pickup truck
+what's going to you're going to find is
+that these are different
+non-synchronized Transmissions operate a
+little differently and it starts at the
+clutch so I'm going to show show you the
+basic there's a it's a almost like a
+three-part clutch process and I'm going
+to show you how it works obviously
+imagine this is your clutch you're
+looking at it from the side um and this
+is when you push it to the floor the
+floor is over here so you can only push
+the clutch in but there's three steps
+along the
+way there's three stages the first stage
+of clutch travel is free play and you're
+going to have and in order to check this
+and make sure it's properly adjusted
+should have about an inch of free plate
+at the top of the clutch travel so it'll
+be loose you'll press it but it's kind
+of flimsy there's no real tension or
+pressure that's an adjustment stage
+where when they install the clutch and
+they adjust it so that there's no
+pressure on the throwout bearing while
+the vehicle is driving down the road you
+have that kind of it's kind of like a
+slop at the top of the travel of the
+pedal well once you feel that you take
+up that slop that slack and you start
+pushing it in a little further that's
+when you'll feel the tension and it gets
+a little stiff and that's where where um
+you're actually disengaging the clutch
+away from the flywheel and the vehicle
+starts to just freeroll the the engine
+is not putting any power through the
+transmission
+so that happens all the way about right
+to about here okay so this entire area
+of throw is basically the vehicle
+coasting it's almost in neutral there
+it's not in neutral it's still in gear
+but there's nothing affecting the engine
+to the transmission it's just kind of
+free rolling um where it gets really
+different from a regular manual
+transmission is this this is the last
+stage of it and it's called a clutch
+break and I'm going to describe to you
+what that does and when you use it and
+when you don't use it more importantly
+even um the reason why you need a clutch
+break on these Transmissions is because
+they're non-synchronized what that
+basically means is on a standard
+transmission a normal standard
+transmission that you've driven before
+when you shift from one gear to the next
+there's a synchronizing gears that help
+it transition from one gear to the next
+with these the Transmissions there is no
+synchronizer um you basically have to
+become the synchronizer you're the the
+way that you're proper Road picking the
+right Road speed for the right gear that
+you're in the right RPM range um for at
+the engine to make it shift into the
+gear smoothly so you're not grinding
+gears you become the synchronizer well
+one of the things that happens is when
+you come to a stop at a stop light or a
+um a a stop sign and you go from neutral
+and you're trying to get it into gear
+the output shaft of or the input shaft
+of the transmission is still being spun
+by the output shaft at the flywheel and
+it's still spinning even though because
+you're in neutral it's not spinning the
+drive shaft it's still spinning the
+gears of the transmission so when you
+try and put it into gear the gears are
+clashing they're rubbing against each
+other and as you're trying to get it
+into gear it just grinds so you got to
+get it to stop grinding well the way you
+get it to stop grinding is by fully
+depressing the clutch all the way down
+so you can come to a stop push the
+clutch in you're not going to stall out
+you're not you're basically not in gear
+you push it into neutral and then you
+try and go to a lower gear by pulling
+the gear lever back and it's just going
+to grind on you it's grinding because
+the front end of the transmission is
+still spinning well you need to get it
+to stop and the way you do that is by
+fully depressing the clutch all the way
+to the floor now you press it all the
+way down and then you'll engage what's
+called a clutch breake and that stops
+the transmission from spinning so now
+when you try and pull it back in the
+gear it's not grinding anymore and it'll
+float right back in the gear and then
+you can take off that clutch breake is
+very important important to know that
+that clutch brake can only be pressed
+when you're at a complete stop you never
+push the clutch all the way to the floor
+you can get away with that in a regular
+transmission in a regular manual in a
+car or pickup and it doesn't affect it
+in one of these big non-synchronized
+Transmissions you can't do that if you
+do that while the vehicle is rolling
+what's happening is wheels are rolling
+down the road it's spinning the
+differential it's spinning the drive
+shaft it's spinning the transmission and
+when you push the clutch all the way to
+the floor what you're basically trying
+to do is stop the truck from rolling
+with a little clutch breake which is
+about that big it's about the size of a
+soft ball it's got two little tabs that
+stick out that engage with the spline so
+it spins with the U input shaft into the
+transmission well when you try and when
+you push the clutch in all the way to
+the floor while the vehicle is still
+rolling you're effectively trying to
+stop a big 80,000 lb truck with a tiny
+little clutch breake you're going to
+burn it out or you'll snap the little
+two prongs off that stick into the spine
+and you'll ruin your clutch breake well
+once the clutch breake doesn't engage
+anymore now when you come to a stop at a
+red light or stop sign and you try and
+put it in gear and you push the clutch
+in all the way it's grinding you can't
+get it into gear you got to slam it in
+you could break your transmission or you
+got to shut the truck off let the
+transmission stop turning put it in the
+gear and start it back up and that could
+be a real problem replacing clutch
+brakes gets expensive so you don't want
+to do that that last little bit of
+travel is only for when you've come to a
+complete stop okay if you do it while
+you're rolling down the road you can end
+up stripping the clutch breakout or
+actually breaking it so how far do you
+push the clutch in when you're running
+down the road well remember I said the
+first top of the travel right here is
+just free play when you feel that
+tension being taken up if you push in
+just another inch or two you're you're
+you've pushed the clutch in far enough
+to effectively shift all this down here
+there's no need in pushing it in that F
+you only want to push it in this far so
+when you push the clutch in you're just
+bumping it past that free play point to
+get it to shift properly all of this you
+don't need it it's too difficult to do
+it takes too long to do it it messes
+your Rhythm up and you get too close to
+possibly engaging the clutch breake and
+burning the clutch breake out or
+breaking it so don't push it in far you
+don't need to push the clutch in Far
+keep in mind most commercial drivers
+when they drive these big large Class A
+rated vehicles they don't use the clutch
+at all they float through the gears you
+hear the old joke amongst professional
+drivers you ask them oh do you do you
+double clutch and they'll ask you well
+what's a clutch cuz they never use their
+clutch they use their clutch to take off
+and they use their clutch when they come
+to a stop and that's it they float
+through the gears so if they can float
+through the gears without ever touching
+the clutch pedal how much do you really
+need to push it in you just need to push
+it in far enough that you get past that
+free play point where you're actually
+disengaging the clutch from the flywheel
+so that when you're shifting you get a
+nice smooth shift but you're not pushing
+it in so far that you're getting close
+to pushing in the clutch breake stay
+away from the clutch breake and you
+won't have any problem so it's quick
+just a little push in a couple inches
+when you're shifting and we are going to
+teach you double clutching we'll
+actually go out to a truck right now and
+I'll show you the process for double
+clutching but one thing I wanted to show
+you while we're still here on the board
+remember we talked about how um shifting
+is dependent on road speed and engine
+speed the right RPM versus the right
+speed that you're at versus the right
+gear you're trying to get it into well
+if you don't know these things you're
+kind of guessing so one of the more
+difficult things to learn how to do is
+how to downshift one of these big
+transmissions and it requires knowing
+what road speed I'm at versus what gear
+I'm trying to get into so I wanted to
+show you on this because I just
+basically Drew out a little basic little
+speedometer here so you know when you're
+downshifting you can't just go if you're
+in 10th gear and you're cruising along
+you can't just go from 10th gear to
+seventh gear at 55 mil an hour it won't
+work you have to know what road speed
+you can be at to get it into seventh
+gear here's a real simple rule of thumb
+to go by and this works on just about
+every single truck uh based on the gear
+ratio of the rear end and everything but
+it works on just about every single
+truck let's say you're cruising
+along at UH 60 M hour and you're in 10th
+gear well if you want to downshift into
+ninth you can't do it at 55 mph you
+definitely can't do it at 60 you can't
+do it at 55 it'd be kind of hard to do
+it at 50 you can but you got to really
+rub the engine up but it's really easy
+to do at
+45 okay and how would I remember that
+it's very simple rule of thumb if I take
+the two numbers of 45 add them together
+4 + 5 is 9 I can go to ninth gear if I
+want to go into eighth Gear 3 + 5 is 8
+if I want to go into seventh Gear 2 + 5
+is 7 and if I want to go into six Gear 1
++ 5 is 6 so I know that at those speeds
+the road speed how fast the rear end is
+spinning the back of the transmission
+synchronizes just about with that GE
+pretty it's a pretty good rule of thumb
+to go by so if you're getting lost you
+know how to how to find what gear you
+should be going for so and we're going
+to explain all this inside the truck but
+it's easier for me to diagram a
+spedometer here and show you what I'm
+talking about so basically if I'm at 60
+if I'm at 60 MPH and I'm in 10th gear
+and I want to downshift say down to
+eighth gear I would either a I can go
+through to ninth or I can even skip
+right over let's say I go to ninth I'm
+going to slow down to 45 miles an hour I
+can e depending on how fast I need to
+slow down I can either hit the brake or
+if I've got plenty of room before my
+exit ramp I can let off the gas and
+naturally decelerate down to 45 M an
+hour I would push the clutch in uh push
+the shifter to neutral release the
+clutch rev It Up rev the engine up cuz
+now you got to get the RPM range up
+above your road speed range a little bit
+so it'll fall back in while you're going
+for the shifter push in the clutch and
+go for that gear and it would float
+right in the ninth gear I could do the
+same thing at 35 mph for e8th then 7th
+and then six so let's go out to a truck
+and I'll show you what we're talking
+about on an actual clutch pedal shifter
+setup and it'll give you a better idea
+of what we're talking about okay so here
+we are with one of our test trucks this
+is a freight liner Columbia 120 it's got
+an eaten Fuller manual 10-speed
+transmission we use the eaten Fuller uh
+straight 10 they call it uh it's not a
+super 10 it's a straight 10 which
+basically means it's a um 10-speed
+transmission it's two five-speed
+transmissions you got a high and a low
+range so it's five speeds uh low then
+five speeds High I'm going to show you
+how that works and the pattern and and
+how it lines up but that's probably the
+most common transmission you're going to
+run into in a large commercial vehicle
+like one of these so that's why we pick
+them for all of our vehicles let's go
+ahead and take a step inside and I'll
+show you how we go through the process
+of of double clutching and and Shifting
+the gear years and making sure that it
+works out properly for you
+okay okay so here we are we're
+inside uh this uh freight liner and I'm
+going to show you basically the process
+for upshifting downshifting and how to
+use your splitter how to double clutch
+the the techniques involved in it and
+I'm going to make it as simple as
+possible for you uh it's not a very
+complicated process it's more about
+Rhythm it's about timing it's about
+synchronization remember I said these
+transmissions don't have synchronizers
+in them you're the synchronizer so let's
+talk about how do we synchronize these
+transmissions and pick the right Road
+speed the right engine speed the right
+gear so they float into gears uh cleanly
+and properly without uh grinding or
+breaking
+anything so that's what we're basically
+talking about here we're talking about
+synchronization
+and here's the thing when the
+transmission is in neutral here's your
+shifter here now you're in neutral if
+you're not properly synchronized if
+you're picking the wrong gear for the
+wrong road speed or if you're picking
+the wrong engine speed for the wrong uh
+Road speed or gear it's going to grind
+so when you go to go for that gear
+you'll hear grinding you'll hear it'll
+make it'll be like a metallic crashing
+sound uh you'll feel it in the shifter
+you'll feel the shifter vibrating that's
+what you got to remember with these
+Transmissions the they don't require
+Brute Force if it's grinding it's not
+going to go into gear if you if you have
+to grind it you're not doing something
+right you're doing something wrong these
+Transmissions do not shift through Brute
+Force they shift by proper technique
+using the right engine speed the right
+Road speed so that it goes into gear
+properly so what I want to talk to about
+before you get into any of our trucks or
+any truck for that matter is how to save
+your transmission how to properly
+operate your clutch and your clutch
+pedal and your shifter so that you don't
+damage your transmission and so that
+you're not um you're not causing costing
+your company money or if you end up
+being an owner operator yourself money
+or damaging our equipment here at the
+school so the first thing to realize is
+that again these Transmissions shift
+through finesse and
+technique the amount of pressure that it
+takes to get it into gear is no more
+than what it takes you could apply it
+with one finger so here we are in
+neutral
+that's it you shift from gear to gear
+you could technically do it that easy
+that's second to neutral to third not
+like this you don't have to jam it
+you're not grinding it if you feel
+resistance on the shifter if it's not
+going into gear properly pushing it
+harder is not going to get it into gear
+you can put both hands on it push it as
+hard as you want you can get back and
+put your foot up on it and push it as
+hard as you want and it will not go into
+gear if you're not synchronizing
+the transmission properly so we're going
+to talk a little bit about what in in
+that entails but again just remember
+it's fingertip pressure to get it from
+gear one gear to the next that's all you
+ever need and that's all you should ever
+use any more than that you're damaging
+the transmission so let's talk a little
+bit about we talked about the clutch
+travel in the classroom on the board
+remember I said you got about an inch or
+two of free play at the top well there's
+your free play nothing's happening when
+I press that in there's no clutch
+disengagement nothing is changing in the
+transmission at that point it's just
+free play but when I come down here I'll
+feel tension there's where some tension
+is past that tension is where I've
+disengaged the clutch away from the
+flywheel and now the transmission is
+free spinning and the vehicle is
+coasting well that's the level right
+about there is as far as you need to
+push it for when you're shifting from
+one gear to the next okay it's just
+about right there any further and you're
+you're pushing it further than you need
+to there's no point in doing that and
+you risk getting close to the bottom
+right there right about there is where
+that clutch brake is at and remember you
+don't want to push your clutch brake
+down while the vehicle is rolling that's
+only for when it stopped so let's talk
+about shifting and the patterns and and
+and the the where the gears the
+different gears are lined out so we're
+talking about like I said this is a a
+straight tin transmission it's a a
+10-speed transmission it's got a low and
+a high range here's your Splitter on
+your shifter that determines that so I'm
+going to show you how this works so the
+pattern for shifting this transmission
+is very simple like I said it's a
+5-speed then another 5-speed so it works
+like this and in most trucks I don't
+know if you can see it in the video here
+but in most trucks the pattern will be
+listed on the dashboard so you can see
+it as well
+so this is neutral you can tell because
+the shifter moves from side to side it's
+neutral and there's Rings that'll pull
+the shifter back to the center position
+about right there well if you want to
+get into first gear you got to pull it
+over against the Springs you'll feel the
+tension and then you pull it down that's
+first gear okay
+then up in neutral Let It Go and
+straight
+up is second
+gear
+then third it's hard to do it while the
+transmission's not moving because the
+gears aren't lining up you can't do it
+right now but straight back would be
+third then up and over would be fourth
+and then up or over and down would be uh
+fifth now I'm in fifth GE and I need to
+go to six so what do I do when you need
+to go to Six what you would do is you
+would flip your splitter now when you
+flip your splitter it doesn't go into
+sixth it pre-selects the transmission
+basically letting the transmission know
+once you travel up to neutral go to the
+next higher range and it changes the the
+auxiliary uh mode in the transmission so
+watch when I flip it cuz I'm in neutral
+now I'm not in gear you'll hear
+it you'll hear it drop in that means the
+transmission just changed so when you're
+in fifth and you flip it nothing happens
+it's when you go into neutral the
+transmission goes into the higher range
+you pull it back over and six is back
+where first was you pull it back down
+there's sixth gear and then seventh is
+where second was eth is where third was
+ninth is where fourth was and 10th is
+where fifth was when you're downshifting
+it's the same thing when you're coming
+down to a stop you might stop come to a
+roll in six gear push the clutch in
+apply the brake and stop and now you're
+going to go let's say I'm going to take
+off in third you're going to let the
+shifter go back out and you're going to
+pull it back down and you're going to go
+to takeoff and the truck is going to
+stall the truck is going to stall
+because you're trying to take off an
+eighth gear because if you didn't
+remember to do
+this you didn't uh go into the lower
+range so remember when you come out six
+gear or whatever gear you stopped in
+flip your splitter
+down Pull It in and then it'll go into
+uh whatever gear third second or
+whatever gear you're going for and you
+can take off from there so let's talk
+about acceleration one of the the two
+biggest problems that students have with
+accelerating these trucks is sound and
+speed they're used to the hearing the
+sound especially if you've driven a
+manual transmission before it's it's
+very hard to teach because what happens
+is they're used to hearing a V8 which
+might be considered a big engine by most
+people's standards in a pickup truck or
+a car but by the standards of a big
+commercial vehicle it's tiny motor these
+these these engines are as big as most
+Volkswagen so the thing is these engines
+rev at very low RPM ranges they shift at
+very low RPM ranges so a student gets in
+it and they're used to driving a car or
+whatever and they're used to hearing the
+engine wind out you know four or 5,000
+RPM before they shift well these shift
+in the lower ranges at a at in 1 through
+fifth at about 1,000 RPM so the big
+mistake that students make is that
+overwind it they rev the tachometer out
+and then when they try and shift it's
+not synchronized with appropriate Road
+speed the engine speed is still way too
+high and they grind the
+gears these Transmissions shift at a in
+the lower gears first through fifth they
+shift at about 1,000 to 1200 RPM so the
+sound that you're used to hearing as you
+accelerate away is much less and it
+comes a lot quicker so you'd be in first
+gear you let the clutch out the vehicle
+starts rolling you give it a little gas
+and as soon as you touch the throttle
+guess what your at 1,000 RPM cuz it
+idles at 700 so you're at 1,000 RPM it's
+time to let your foot back off the gas
+push the clutch in go to
+neutral push the clutch in go to gear
+which would be second let the clutch out
+and give it gas that's double clutching
+clutch the neutral clutch the gear it's
+very simple if you're used to driving a
+regular manual transmission you're used
+to going clutch all the way into the
+next gear let the clutch out give it gas
+when it's time to shift again L your
+foot off the gas clutch all the way to
+the floor next gear let the clutch out
+give it gas again that's not how you
+shift these Transmissions you have to
+double clutch and all that basically
+means is when you take off you give it
+gas it's time to shift clutch to neutral
+clutch to gear give it gas again time to
+shift you let your gas off clutch to
+neutral clutch to gear so that's all
+you're doing you're taking a step in
+neutral you're stopping on the way to
+the next gear in neutral and that's the
+Rhythm you do it at clutch to neutral
+clutch to gear the other thing that
+students do wrong remember I said
+there's two they normally over rev and
+the other thing they do wrong is they
+shift too fast they'll go first to
+second second to third fourth and fifth
+they're trying to jam it in it won't go
+that fast the engine RPMs have not had
+time to drop down to the speed to match
+the road speed so you got to do it
+remember I said these transmission shift
+with finesse they're big big engines big
+Transmissions big vehicles you think it
+needs Brute Force no it's finesse so the
+tempo is basically as fast as you would
+say it clutch to neutral clutch to gear
+so if I'm accelerating foot off the gas
+clutch to neutral clutch to gear
+acceleration let off the gas clutch the
+neutral clutch the
+gear and that's the tempo you would keep
+and you'd shift all the way up to the
+speed you need to be at remember flip
+your splitter when you're going into the
+higher ranges and you're fine if you
+keep that Rhythm and that Tempo and keep
+the RPMs down on the lower range about
+1100 RPM 1200 RPM once you flip your
+splitter and you're going for six gear
+you can rev it up to about 1,500 RPM the
+gears will line up at those RPM ranges
+on the higher
+range so that's upshifting it's very
+simple it's just technique Rhythm and
+timing well downshifting is almost
+identical except there's one thing
+different on your downshift you have to
+because you're picking a gear that's
+lower than your road speed your road
+speed is too fast for the gear you're
+going for because you're going for a
+lower gear you're accelerating with
+engine braking you have to rev the
+engine up to match it on the downshift
+so the way a downshift works it's double
+clutching it's the same thing the only
+difference is this you clutch it into
+neutral then you got to hit the gas you
+got to hit the accelerator you got to
+rev it up and then you're going to
+clutch it into gear and let the ex let
+the clutch out and then accelerate away
+or I mean actually decelerate now and
+then you're going to do it again on the
+next one clutch it rev It Up clutch it
+to gear okay so to the next lower gear
+now the only thing is you don't rev it
+up and hold it there you don't want to
+rev up the RPMs and get above your road
+speed and then it won't go into
+gear call it a vom you're going to go V
+and you're going to just hit the
+throttle and you're going to give it up
+to about 12 or 1100 RPM and let the
+tachometer drop back down to the speed
+it needs to be at um so that it can
+float into the next next lower gear okay
+now if while you're going into the gear
+ear you hear the transmission grinding a
+little bit listen to what it's doing if
+you feel it with your fingertips and it
+grinds a little bit you're not hurting
+anything if you're just pulling with a
+little bit of fingertip pressure it's
+when you're clashing it in gear that
+you're breaking something if it's
+grinding listen to what it's doing if as
+you're going to go for that next lower
+gear the tempo of the grinding it's
+going it's dropping down in Tempo and
+speed that means it's getting ready to
+fall into gear just lightly hold it back
+and it'll drop right into gear if it's
+staying the same if it's accelerating
+away away from you you hear it going
+then you got to either a pick a next
+higher gear to go to or B rev up the
+engine real quick and get the RPMs back
+up so you can catch it again okay so you
+can get it back in gear and recover now
+here's the only other thing you need to
+know about downshifting because on your
+upshift it's easy to know what gear
+you're going to because you're going
+from first to second second to third
+third to fourth fourth to Fifth and so
+on on downshifting the problem is
+because you're picking a gear that's
+lower than your road speed is you can't
+just pick any M hour like we talked
+about on the board you can't just shift
+from 10th into seventh gear at 60 M an
+hour it won't work it will not go into
+gear and you'll grind gears the whole
+way and it'll never get in so remember
+we talked about the mile an hour rule so
+as if you're at 60 M an hour and you
+need to downshift into ninth gear 45 mph
+is going to be the gear so you're in
+10th you're at 60 M an hour and you're
+getting ready to come up to an on-ramp
+and you're going to start downshifting
+very simple you let your foot off the
+accelerator you start applying the brake
+start slowing down you get down to right
+about 45 mph let your foot off the brake
+you're not touching the gas at this
+point clutch it into neutral rev It Up
+Vroom and then clutch it into ninth gear
+and it should float right in as long as
+you got your RPMs up at around 11 to
+1200 RPM when you did that right when
+you went for the shift it'll float right
+in the ninth gear then you're going to
+slow back down you're going to continue
+slowing down to 35 mph and then you're
+going to push the clutch in bring it to
+neutral vroom rev It Up push the clutch
+in and it'll float right into eighth and
+you keep doing that process you're
+downshifting the whole
+way so that's it guys um that's
+basically all there is to upshifting and
+downshifting a large commercial motor
+vehicle's uh non-synchronized
+transmission again like I said the
+biggest difference you saw from what
+you're reading in the manual right now
+as opposed to upshifting and
+downshifting is that these are
+non-synchronized Transmissions so it
+does require rev matching you got to
+match your RPMs versus your Road speed
+and the gear you're trying to get into
+where the manual doesn't discuss that
+because in the manual keep in mind they
+don't know what kind of vehicle you're
+going to be driving and not all uh
+manual transmissions are nonsynchronized
+in these big trucks they're
+non-synchronized and that's one of the
+things that's involved in learning how
+to drive them one of more difficult
+skills is learning how to get through
+the gears properly more importantly how
+to recover if you've made a mistake and
+we're going to teach all of that but um
+this is the basic process apply the
+methods that we taught here remember
+number it's finesse it's Rhythm it's
+timing it's a delicate touch it's not
+Brute Force Brute Force just breaks
+transmissions and it does not get you in
+gear it frustrates you you Coast out of
+gear for a long period of time you'll
+fail your test if you do that you're out
+of control of the vehicle it's unsafe
+you're damaging equipment get control of
+your vehicle understand what you need to
+implement calm down a little bit think
+about what we've taught you think about
+what your instructor's telling you you
+need to learn on these Transmissions
+because here's the thing when you leave
+here and you go to work for a company
+that you might be interested in this
+transmission and eaten full or straight
+10 transmission is most common
+transmission on the road today if you
+can drive this you can drive anything
+not the other way around if you leave
+knowing how to drive this and you want
+to go to work for a company that has
+automatic transmissions fine do it it's
+easy to do not the other way around so
+if you're not good on a gearbox and
+you're not willing to put the time and
+effort in honing your craft and getting
+good at it it's going to seriously
+restrict what companies are going to be
+able to hire you and you're going to be
+able to succeed at so keep that in mind
+use what we've taught you here listen to
+what your instructors tell you to do
+when you get out on the road and you
+shouldn't have any problems thanks a lot

@@ -1,0 +1,69 @@
+[Music]
+this has got the fix-it guy today we
+have a Maytag 2000 series washer that
+isn't draining so I removed the few
+screws from the bottom panel and took
+the bottom panel off and now I'm going
+to put a clamp on the big black hose
+that goes between the tub and the drain
+motor so I can just prevent any water
+from leaking out when I remove the Cloyd
+trap if you don't do this it's okay it's
+just that some water will come out so
+I'm putting the lower panel down to act
+as a basin to catch any water that might
+still be left so I do my lefty loosy to
+unscrew the coin trap and you can screw
+it back in if you fill it up with water
+or you can tighten it back up and then
+get rid of the water and do that
+numerous times until all the water is
+gone not much water comes out because I
+did clamp it and the coin trap looks
+really good put it in my index finger
+now over to the right inside there's a
+little hole and you want to feel in
+there you'll feel the little impeller
+and it should be able to move it won't
+move completely freely it'll move and
+then I'll feel like it's kind of stuck
+and then it'll move and that's normal
+there's a little magnet that kind of
+holds it in position so that's normal
+but if it doesn't move at all or if it's
+really stiff it could mean that
+something's caught on the impeller you
+might be able to grab it with some
+needle nose pliers or a little hook and
+get out the obstruction but this
+impeller seemed fine so I'm taking the
+little power connector to the pump off
+and I'm gonna use my multi tester to
+test for a voltage for AC voltage and
+put my probes into the power supply for
+the pump and then I'll turn on the
+washing machine and ask it to go to
+drain and spin I just want to see if
+it's sending power to the drain mode
+so I'm turning it on I'm setting it for
+spin and drain and and I'll press the
+start button I'm just gonna look for
+voltage so never really got any voltage
+and that's pointing toward controller
+error so it's not the drain pump but the
+controller itself that lives up in the
+upper right-hand corner needs to be
+replaced so I'm just putting everything
+back together putting that power supply
+back on to the park but the pump seems
+fine but these are just some things you
+can check and usually you find
+something's clogging the coin trap that
+we pulled out putting it back in right
+now or you might find that the impeller
+is a little bit stuck but this one seems
+fine so there's just a couple things you
+can you can check so I'm just tightening
+up a coin trap and appreciate you guys
+watching please subscribe when you get a
+chance thank you

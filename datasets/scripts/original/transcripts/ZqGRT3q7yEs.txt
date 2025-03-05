@@ -1,0 +1,160 @@
+Welcome to our lesson about bend
+allowance you may be wondering what
+exactly is bend allowance if you've
+never worked with sheet metal before
+well when a sheet is bent in a press
+break the part of the sheet close to and
+in contact with the punch elongates to
+compensate for the given
+Bend if you compare the length of this
+part in my example here before and after
+the bending you're going to find that
+they're different as Engineers if we
+don't compensate for this variation the
+final product won't have accurate
+dimensions of course this is more
+critical for parts where you've got to
+maintain a tighter allowance or
+Precision if all the variables in my
+diagram are already making you zone out
+fear not this tutorial is by no means an
+exhaustive discussion about Metal
+bending Theory however I Do cover some
+of the basic problems and principles
+you'll have to deal with regularly when
+working with sheet metal before we get
+rolling I wanted to comment on something
+there's not really a scientific method
+or formula for determining a truly exact
+calculation of the bend allowance and
+that's because there's so many factors
+at play during the production of your
+sheet metal part for example actual
+material thickness an infinite variety
+of tooling conditions forming methods on
+and on and on there are many variables
+here and in reality many methods are
+used to calculate band allowance trial
+and error is probably the most popular
+one Bend tables are another popular
+method and we'll be learning about those
+in this video Bend tables are usually
+available from metal suppliers and
+manufacturers as well as in engineering
+textbooks some companies develop their
+own bending tables based upon their own
+standard
+formulas let's get back to Solid Works
+how exactly does solid works calculate
+bend allowance solid works actually uses
+two methods bend allowance and bend
+deduction I'm going to explain what
+these methods are and show you how
+they're used in solid
+works the band allowance method is based
+on the formula that I've got up here in
+my diagram the total length of the
+flattened sheet is equal to the sum of
+L1 that's the first length and L2 plus
+the band
+allowance the bend allowance region is
+shown in Green in my diagram this is a
+region where in theory all deformation
+occurs during the bending
+process generally the bend allowance is
+going to be different for each
+combination of material type material
+thickness Bend radius Bend angle and
+different Machining processes types
+speeds and so on truly the list of
+potential variables is very
+extensive the value of the bend
+allowance that comes from sheet metal
+suppliers and manufacturers as well as
+engineering textbooks is provided in
+Bend tables and a Bend table looks
+pretty much like what I've got on my
+screen now this is an Excel
+spreadsheet the B table approach is
+probably the most accurate approach for
+calculating bend allowance you can input
+your data manually into a matrix of the
+bend angle and bend radius if you're not
+sure of the bend allowance value you can
+run some tests you need a piece of the
+exact same sheet metal you're using to
+manufacture your part and then you'd
+bend it using the exact processes that
+you'll be using during your Machining
+just take some measurements before and
+after the bending and then based on this
+information you can adjust the bend
+allowances
+needed another method that solid works
+uses is the bend deduction method the
+formula is as follows the flatten length
+of the part that's LF equal D1 plus D2
+minus the bend
+deduction there's D1 and there's
+D2 minus the bend
+deduction as with bend allowance Bend
+deduction comes from the same sources
+tables and manual
+testing as you can see it's easy to
+imagine how these values are related to
+each other based on what these formulas
+indicate another method for calculating
+bend allowance uses the K Factor where K
+is the neutral axis offset the general
+principle of this formula goes like this
+the neutral axes are in my diagram here
+in red they don't change during the
+bending process during the bending
+process the material inside the neutral
+axis will compress and the material
+outside the neutral axis will
+stretch the neutral axis will be closer
+to the inside bend the inside Bend is
+indicated in blue in my
+diagram the more the part
+bends now the more the part bends the
+closer the neutral axis will lie to the
+inside of the
+part the K Factor as we've seen here
+equals t or the offset distance to the
+neutral
+axis we divide that by Big T that's the
+thickness of the
+material in this formula here the bend
+allowance equals 2 * pi multiply by a
+that's the
+angle multiplied by the sum of R the
+bend radius plus the K
+Factor multiplied by T the thickness of
+the
+material and then you divide all of this
+by
+360 in theory the K Factor can be
+anywhere between 0 and one but for
+practical purposes it's more like 0.25
+to 0.5 for example you'll find that hard
+materials like steel have got a higher K
+Factor such as
+0.5 softer materials like copper or
+brass are going to have a lower K Factor
+closer to .25 and don't worry that's the
+last formula we'll be walking through in
+this lesson it might seem a little bit
+confusing now but once you practice it a
+little bit it'll become second
+nature one last Point here let me take a
+look at an example there's a wiped hem
+on this part it's got a k factor of
+something
+like3 on the other hand a softer Bend or
+for example the gradual bend that I've
+got on the other side of this part has
+got a higher K factor of about
+0.5 and this concludes our lesson on
+bend
+allowance

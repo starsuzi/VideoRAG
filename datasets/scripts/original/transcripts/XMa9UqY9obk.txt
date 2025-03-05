@@ -1,0 +1,232 @@
+In this video we will walk through the mounting
+and adjustment for the linear pull rim caliper brake.
+Make sure you're watching the caliper mounting and adjustment video that matches your brake type.
+If you're not sure what you're dealing with,
+watch this video.
+The linear pull brake may be found on the
+rear or the front of the bike.
+Pivots for the brake are located below the
+braking surface.
+Left and right arms are pulled together by
+a single primary wire.
+A housing stop is attached to one arm.
+The cable extends to the other arm with a pinch bolt.
+Pulling the lever brings the pads to the rim.
+Typical tools and supplies may include:
+hex wrenches for brake caliper mounting and pad adjustment
+A "fourth-hand" cable stretcher
+torque wrench and bits to make sure things
+are properly tight
+screwdriver for brake centering
+a cable cutter to trim the brake cable and to install the end cap
+grease, a rag, and threadlocker
+The linear pull brakes mount to the same
+frame fittings as the cantilever brake.
+The outside of this surface should get some
+grease to help them run smooth and not blind.
+Do not grease or lubricate the inside threads.
+There is typically a thread locker on the bolt,
+or if there's none here, threadlocker could be put inside.
+Grease on the threads would eliminate the purpose of the thread locker.
+The brake calipers have a spring that will
+insert into one of three possible fittings.
+The top-most fitting provides a lot of spring tension.
+It is common you may have to
+twist the pad to get past the fork.
+Here, it almost feels like there's too much tension.
+The bottom-most hole provides very little tension.
+Typically, select the middle hole and make sure that both sides are symmetrical and in the same middle hole.
+Mounting bolts are now threaded into each
+side.
+If there is pre-installed
+threadlocker on the bolt,
+it is normal to feel a little resistance
+as it threads in.
+That is the threadlocker doing its job.
+A typical torque for the mounting bolts is
+8 to 10 Newton meters.
+The arms should still swing freely.
+After the arms are secure to the frame or
+fork, the pads are now adjusted.
+The common linear pull will have a threaded stud system.
+There's a series of convex and concave
+washers that create a ball and socket system.
+This will allow for alignment on several
+planes: it will allow for toe,
+it will allow the vertical face of the pad
+to be square to the rim,
+we can move up and down in our brake arm for
+height
+Everything is secured with a single nut
+at the back of the brake stud.
+It's also very common to notice the slight
+curve in your brake pad.
+This curve will match the curve of the rim.
+Loosen the pad mount, bring the arm and pad
+to the rim, and adjust.
+Because we're traveling downward on an arc,
+we want to be to the top edge of the braking surface,
+not to the top edge of the rim, but the top of the braking surface.
+As the pads get thinner, they will travel down the rim more and more.
+Never have a pad so high it would hit a tire.
+With the mounting nut loose, the tire will
+want to move on lots of different planes.
+Bring the pad gently to the rim and push with
+some mild force and secure the nut.
+The pad will tend to be self-aligning and
+put the convex-concave washers where it needs
+to be correctly aligned with the two flat
+surfaces - the rim and the pad - aligned.
+Toe can be had a couple of different ways.
+Loosen the nut and bring the wrench forward or
+back as needed to gain toe.
+Toe is useful to help reduce brake squeal.
+As the rim rotates forward, the pad and the arm are going to pull back and forth slightly.
+That can cause a squeal which is a harmonic resonance.
+By introducing touch at the front
+and a slight gap at the back,
+we are reducing the tendency of the arm
+and pad to move back and forth quickly -
+that reduces squealing.
+We begin with the correct height
+We check that the front and back edge are
+square and even to the rim
+So for toe, we loosen the nut pull the wrench
+forward in this case, and secure.
+Here - far too much toe.
+With huge amounts of toe, you're reducing braking performance
+as it flexes to come in and apply force to the rim.
+So a slight gap is what we're looking for.
+Bring the wrench to the back slightly
+Hold and secure.
+A slight gap at the back,
+front edge and back edge even, we're flat to the rim
+Typical torque here - 6 to 7 Newton meters.
+Hold the pad as you tighten the final tightness
+so it doesn't twist as you tighten the mounting nut.
+Repeat the process on the other side.
+A second useful technique to get some toe
+is to put a shim at the back edge of the pad,
+align our pad fully to the rim,
+secure the nut and remove the shim.
+A rubber band closed up can act as that shim.
+We'll place this on the back of the pad,
+loosen the mounting nut,
+and proceed to adjust our pad as normal.
+Just some mild force to the rim is going to
+move the stud in the washers to allow toe.
+Secure the pad fully, remove the shim,
+and we have a slight gap at the back from the shim.
+Repeat the process on the other side.
+The brake cable passes through the housing and the housing will be stopped at what is called a noodle.
+The noodle acts as a stop for the housing
+and the cable will pass out to the other arm,
+allowing us to draw arms together.
+A noodle typically consists of a liner
+underneath the housing stop.
+This is a common place to get
+a lot of moisture and corrosion -
+consequently, it's a good
+place for lubrication.
+Install the wire through the noodle and out.
+The noodle will engage in the linkage off one arm
+and pass over to the pinch bolt on the opposite arm.
+It is common to see a dust boot
+attached at this point
+the idea being it's going to keep dirt out of the system.
+So from here, we feed through the pinch mechanism
+and before we draw the pads together, back
+out the barrel adjusters three or four turns
+so we can have some
+fine tuning adjustments at the lever.
+With the housing fully secure in the noodle,
+the noodle is secured and seated in the linkage,
+we are ready to draw the arms to the rim.
+We can do this with a "fourth hand"
+such as the BT-2.
+It's only necessary to touch the rim
+or even get really close.
+Don't go all the way and squeeze with force -
+you won't have enough adjustment
+to make a good setting.
+So it's simply to the rim, then secure the pinch bolt.
+If you don't have a fourth hand, you typically can just pull the arms together just with your hand
+and pull the cable out.
+You have a lot of leverage on these arms - it doesn't take a lot of force to pull these pads together
+so typically just using the hand is enough.
+Here again we're tightening the pinch bolt.
+It should flatten and crush that cable.
+Here, 6 Newton meters is a good average torque.
+We'll now set the pad clearance at the rim
+by the feel at the lever.
+If the pads are too tight,
+the lever is going to pull and immediately engage.
+That is simply too close.
+If the wheel comes out of true at all,
+it's going to rub the pads.
+Additionally, it really doesn't give us good
+braking power.
+Third problem - it's difficult to
+disengage the quick release mechanism.
+We should be able to pull out the linkage
+from the noodle,
+and here we are having trouble doing that.
+This brake is set too tight.
+Here, we'll bring the barrel adjuster in toward
+the lever,
+giving us more slack.
+Here we have more travel -
+that's good for our leverage at the hand.
+We are well greater than an inch clearance
+when we're contacting,
+so we have plenty of brake power
+and here we can disengage
+and reengage our quick release easily.
+This brake is not too loose,
+it is not too tight,
+we would set the rear brake the same way.
+It's time now to center the brakes.
+It's time now to center the brakes.
+Centering is done by subtle changes in spring
+tension.
+One side, or commonly both sides, will have
+a screw adjacent to the return spring.
+By tightening the screw, you are increasing
+tension on whatever side you tighten.
+Here, we are not centered.
+We have a large gap on the
+rider's left and touching on the right.
+Both pads are going to move together
+but here, the right arm
+is weaker compared to the left.
+so I'm going to loosen this screw,
+making this one a little more equal in strength
+and if we went too far, we can tighten
+and if it looks good, it is good.
+Over here we could've tightened this screw
+to draw the pads to the right,
+we could tighten this screw to draw both pads
+to the left.
+Again, both pads are going to move
+if you're just dealing with one of these screws
+so you don't need to do both.
+It's time now to trim the cable and
+install the cable end cap.
+It's also common on many of these brakes to
+have a little place to tuck the wire away
+so it's tucked cleanly.
+So we actually want to cut right about here
+where the thumb is,
+we're going to pull that out
+we're going to trim that
+we'll put an end cap on
+and we will crimp it.
+Then tuck it back
+Clean and out of the way.
+These brakes are ready for the road.
+And that concludes the process for brake caliper mounting and adjustment.
+If you're looking for help on a different procedure relating to rim brakes, we've got a whole series
+and watch this video for an explanation of
+how we've organized our rim brake video content
+Thanks for watching, and be sure to subscribe
+for the latest from Park Tool.

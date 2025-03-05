@@ -1,0 +1,92 @@
+[Music]
+we have a circular disc with seven
+distinct colors
+we now connect it to a motor and switch
+it on
+and what do we see
+the moment the disc is rotated very fast
+we do not see the seven colors
+distinctly instead we see white so
+that's a magic let's understand the
+science behind this magic
+[Music]
+we first draw a circle to make the disc
+now we have to divide this circle into
+seven sectors seven equal sectors so for
+that what we need to do we need to make
+sure that the angle subtended by each
+sector at the center is approximately 51
+degrees because the complete angle would
+be 360 right so let's do that
+[Music]
+[Music]
+so now we have divided the circle into
+seven equal sectors now what we will do
+we will color it with different bright
+colors now these colors are very
+specific so we are going to color it
+with the pure colors that is violet
+indigo blue green yellow orange and red
+so these are the colors that we would
+put
+violet
+[Music]
+so once you have put all the seven
+different colors so cut this circle out
+of the sheet of paper to make this disc
+now what do we do so that we are able to
+rotate it we fix a pencil or a sketch
+pen at the back side exactly at the
+center so we have used fevicol and cello
+tape to fix it here now very comfortably
+you can rotate it
+and when you rotate it faster you get to
+see the white color
+we have fixed the disc to the motor
+and the two wires from the motor are
+fixed to the two ends of the battery
+placed on the battery holder now the
+moment we complete the circuit
+what happens
+the disc starts to rotate
+now this disc was first made by newton
+and that is why this is called newton's
+disk
+now would you like to know another
+interesting stuff here we saw that these
+seven different colors together made
+white color so did you know what
+actually happened this is nothing but
+additive color system that is
+wavelengths of all these seven different
+colors they added up to form white
+if we put all these seven colors one
+above another
+are we going to get white
+now what did you see so we have put all
+the seven colors one on top of other and
+instead of getting white we got black so
+what did this happen
+so now in this case also the colors
+mixed up together to form a new color
+but in this case this is not additive
+color system instead it is subtractive
+color system that is wavelength of all
+the seven colors they get subtracted
+from each other to form a new color and
+that new color is black so in this way
+we distinguished between additive color
+system and subtractive color system so
+when we talk about dispersion of light
+when we see the rainbow when we talk
+about the sunlight which is made up of
+seven different colors we talk about
+additive color system
+i hope you enjoyed the newton's disc
+and also got to know that white light is
+indeed made up of seven different colors
+so make your own newton's disc and share
+your feedback with us like and share the
+video subscribe to our channel to get
+daily updates thank you
+[Music]

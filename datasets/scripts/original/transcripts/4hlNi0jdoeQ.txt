@@ -1,0 +1,104 @@
+now we'll work with a verer caliper the
+way this works is that there is again an
+upper and lower scale here this is the
+CM 0 1 2 3 on this axis here and then on
+the upper we have inches which we're
+going to neglect for our uh use and then
+this is the lower scale down here 0 1 2
+3 up to 9 and then zero again is the
+minor
+scale when it's shut the Veria caliper
+isn't measuring anything that is then
+the zeros on the major and minor axes
+line up so we can see that this zero on
+the minor scale and this on the major
+scale they line up quite well and you'll
+notice nowhere else does that occur that
+is the the markings on the minor and
+major scale lineup except again at zero
+here and
+there we'll put our measurement object
+here between the teeth of the verc scale
+and and we'll close it uh when we're
+measuring something there's a flat side
+here and we'll want to put our device in
+that and then close it uh with a little
+bit of pressure and then with that uh
+value we're going to see what the
+measurement is on the major
+scale it's the question of where does
+the zero on the minor scale line up with
+the major scale so here we have a zero
+on the minor scale which is a little
+past
+this hash mark here so that's 5 6 7 it's
+a little more than 7 cm the question is
+how much more than 7 cm is
+it since the zero here doesn't line up
+with the major scale exactly we need to
+find where on the minor scale it does so
+there's uh no match
+here until we reach say the six value so
+on the minor scale the six Mark lines up
+pretty well you could even say the seven
+Mark lines up better so we'll take this
+seven as our minor scale
+measurement now the question is how do
+we combine this 0.7 CM measurement on
+the major scale with the seven mark on
+the minor scale the answer to that is
+over on the far side of our caliper
+there's a little marking that says
+0.05
+mm this tells us the smallest unit of
+measurement for the
+caliper so now when we look back this
+zero on the minor scale is somewhere
+between 7 and8 on the major scale so
+this gives us some confidence that our
+measure is
+correct now that we know the smallest
+unit of measure on the minor scale is
+0.0 05 mm that tells us what this 7
+means each of these small marks from
+here to here is 0.05 mm and so since
+this this is seven and then there are
+two marks per increment there are
+actually 14 of these small
+measurements the way we'll combine these
+sets of measurements the
+0 05 mm on the minor scale as the
+smallest measurement with the major
+scale of 7 cm
+is we'll take the major plus the number
+of minor increments in this case 14 and
+then multiply that number times the
+smallest measure so what we get back
+after we convert to the correct units of
+centimeters in this case is 77 CM with
+an accuracy of plus or minus
+.5
+CM as a check this makes sense because
+the value should be between
+7 cm and8 cm and if we look back at our
+original
+measurement we see that our zero mark on
+the minor scale is close to the8 so 77
+CM makes
+sense now as an example of what happens
+if our scale is slightly different if if
+we're using uh a different measure and
+we come up upon the case where the zero
+on the minor scale lines up with an
+increment on the major scale scale for
+instance now I see that the zero on the
+minor scale lines up very well with 1.7
+on the major
+scale what that does for our calculation
+is we still have a major scale of 1.7 CM
+but now our minor measurement is zero
+increments and we multiply that times
+our smallest measure of 0.05 mm and what
+we get back is a more precise measure of
+1.70 plus or minus 0.5
+cm

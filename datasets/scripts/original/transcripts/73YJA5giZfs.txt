@@ -1,0 +1,178 @@
+[Music]
+a caliper or set of calipers is a tool
+used to measure the distance between
+opposite sides of an object usually with
+much more Precision than something like
+a ruler you can find them in many fields
+including woodworking metal working
+medicine mechanical engineering and many
+other Sciences so while they're not
+related to electronics exactly I find
+myself reaching for my trusty calipers
+all the time to do things like measure
+the distance between leads on an
+electronic component when it's not
+listed or I can't find the data sheet
+the first set of calipers discovered
+date back to the 6th century bcee and
+they were tools used Often by the
+ancient Greeks and Romans to make
+precise measurements Bron sliding
+calipers from the Han Dynasty were also
+unearth dating back to the year
+9ce most modern slide calipers work on
+the same basic principle there is a
+fixed main scale attached to one or more
+sets of Jaws and a slider that moves
+linearly across the main scale the
+slider has the opposing set of Jaws
+which move to measure the object in
+question you can read the distance
+measured by looking at how far the
+slider has moved on the main scale many
+calipers have a thumb wheel that gives
+you more precise control over how the
+slider moves and most calipers include a
+lock screw you can tighten to prevent
+the slider from moving to hold the last
+measurement taken this can be helpful if
+you need to move the calipers away from
+the object to read the scale or if you
+want to compare the dimensions of two
+different objects without writing down
+the measurements you'll generally find
+slide calipers in one of three types
+verer dial and digital verer calipers
+use two sets of rulers to get very
+precise readings because they have so
+few moving Parts they are often more
+reliable than the other two types
+however learning to read the verer scale
+can be tricky and require some math
+every time you want to take a reading
+dial calipers are easier than verer to
+read but use a rack and pinion to
+display the fine measurement on the dial
+this added mechanical complexity means
+more points of failure which means that
+it's easier to break and harder to fix
+dial calipers digital calipers use a
+series of conductive pads in the main
+scale and another set of pads in the
+slide to measure capacitance as the
+slide moves the distance the slide moves
+is shown on the L CD this makes digital
+calipers very easy to use and read but
+the battery on mine seems to die
+whenever I need it the most before you
+begin taking measurements it's important
+to zero your calipers otherwise your
+readings might be off you can't zero a
+verer caliper because the scales are set
+in place if you do notice that the zeros
+don't line up when you close the Jaws
+you'll have to read the error on the
+calipers and add or subtract it from
+your measurement or buy new calipers to
+zero dial calipers close the Jaws if you
+see that the needle on the dial does not
+line up with zero loosen the lock screw
+on the dial and twist the dial face
+until the zero tick mark lines up
+perfectly with the needle tighten the
+lock screw and you're good to
+go for digital calipers once again make
+sure the Jaws are completely closed if
+you don't see Zero on the display press
+the zero button modern slide calipers
+generally have two sets of Jaws and a
+depth Rod to measure an object like this
+piece of PVC pipe close the outside Jaws
+around the points you want to measure it
+can help to wiggle the object or move it
+back and forth while gently applying
+pressure to the slider to get the
+minimum measurement of the longest
+distance on the part you want to
+measure to get an internal measurement
+use the internal Jaws similarly you'll
+want to wiggle the object so the Jaws
+fit nicely in the opening to get the
+maximum reading
+possible finally you can use the depth
+Rod to measure the depth of an object or
+hole rest the main scale part of the
+caliper on the object and move the
+slider until the depth Rod reaches the
+bottom of the hole or Surface you will
+want to make sure your bottom surface is
+flat and that everything is at right
+angles to get the most accurate reading
+when you have the measurement you want
+you can tighten the lock screw so you
+can look more closely at the
+scales now that we have our calipers
+locked to the measurement we want let's
+take a look at how to read them we'll
+start with digital calipers since
+they're the easiest assuming the
+calipers were on and zeroed when you
+started you can just read the numbers
+right off the display and many digital
+calipers include a button to change
+units between inches and
+millimeters dial calipers require a bit
+more effort to read and they usually
+only come in either Imperial or metric
+to read them find the largest
+measurement on the main scale visible to
+the left left of the slider in this case
+it's 1.6 in then read the dial which is
+68 in this example since the dial says
+it's an increment of 1 1000 of an inch
+we know it's 068 in add the coarse and
+fine measurements together and you get
+1. 668
+in verer calipers can be made with both
+Imperial and Metric scales but they
+require the most effort of the three to
+read the fixed part is known as the main
+scale and the slider is printed with the
+verer scale find the largest measurement
+on the main scale just left of the zero
+on the verer scale write that number
+down which is 42 mm in this case then
+carefully look at the lines on the verer
+scale and find where one perfectly lines
+up with a line on the main scale write
+down the reading of that line from the
+verer scale which is
+3.6 if the verer scale on your calipers
+is marked with an increment then you can
+easily figure out what the verer
+measurement is and add it to the main
+scale measurement however some verer
+scales aren't marked with an increment
+so you'll have to do some math verer
+scales are designed to show where the
+measurement lies in between two marks on
+the main scale it's like you've zoomed
+in to view even more increments in
+between marks on the main scale so to
+find the value multiply your reading by
+the smallest division on the main scale
+1 mm in this case divided by the number
+of large divisions on the verer scale
+which there are 10 of for my calipers
+for this example we would get 36 mm on
+the verer scale add that to the main
+scale reading and you'd get
+confidence I have a set of verer
+calipers for when I need the reliability
+but more often than not I reach for my
+digital set and if you find that the
+coin cell battery in them keeps running
+out too quickly you can mod them for a
+little extra
+[Music]
+juice

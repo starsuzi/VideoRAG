@@ -1,0 +1,220 @@
+so let's say hypothetically you're
+designing an adventure map or a puzzle
+map or anything and you want to prevent
+somebody from getting to an area until
+they have the specific key in this
+example I'm going to use it say key one
+so you're doing an RPG style thing so
+you find Key One open up here Place key
+one so you think okay I'll just uh
+randomly pie a piece of dirt in there
+see what happens nope door doesn't open
+like Okay so this would keep them from
+being able to find until they got the
+specific key that you wanted named key1
+put that in
+there they come through door opens like
+I said you may have seen this example
+shown up in other places before of how
+to do a lock like this where it requires
+a certain thing but if you'll notice
+everything is completely hidden here
+minus the dispenser where you put the
+actual key in here so I wanted to show
+you guys how to do that it's really not
+that complicated but it's something I
+found quite interesting so I want to
+show you guys how to do
+that all righty then welcome back here I
+went ahead and exposed all of the
+secrets behind how this actually works
+as you can see it's not really that
+complicated but I'll walk you through it
+anyway um for starters anybody wanted to
+know all I did was to get this say place
+key1 I just got a dispenser put it
+inside the Anvil which you have to use
+experience points to do so I mean at
+least you got in creative mode of course
+and then rename it whatever you want to
+these right here these are just trip
+wires they kind of look like keys so a
+lot of people use them as there same
+thing just put one of them in here name
+it whatever you want to take it out and
+that's the item of this so if you want
+to have some a key named key 1 or key 2
+or dungeon key or whatever that's all
+there and then just assign iron door so
+they can't get through it now let's go
+look around on the other side so what
+you're going to need for this is a
+dispenser I'm using two Hoppers and the
+reason I'm using two is because it makes
+it lower into the ground if you use just
+one that means everything else is going
+to be just one block below it and you
+start putting dirt on top of it and it
+starts cutting off signals things don't
+start working the way they want to and
+so it's if you want it to be completely
+hidden so there's no you can't see
+behind the scenes the wires in which
+makes it work use two Hoppers just Place
+one on top each the other now here's
+something you have to do when you're
+using Hoppers if you want them to go
+into each other you have to hold control
+when you actually click to get it to go
+on there if you just put this down
+here if you just hold on put this right
+in here you just throw it like this into
+that spot you're going to see it
+connects itself into this little block
+here so what you got to do is hold
+control click and now you see that the
+funnel goes all the way down inside here
+and since it's attached to this it'll go
+automatically down now this is what's
+called it's called a redstone comparator
+now it works it looks kind of similar to
+the redstone repeater it's got the two
+little torches here that you that looks
+like you can adjust but it's got the one
+torch out here that if you're right
+clicking you see turns on and off okay
+now these things are a little bit
+complicated I'm not going to go into
+exactly how they work here in this
+particular tutorial if you guys want to
+see me do a tutorial on how to actually
+get them to work then I'll do that
+there's a lot of to them there but just
+so you know here the spot coming in the
+back of it that's the first input here
+that's where that's input a the sides
+coming out this way and coming out this
+way whichever one you're using is
+considered input B and that's output so
+basically it looks at how much power is
+coming into one of the sides and then it
+won't release a power out here out the
+front out to the output unless the
+amount of power going in this side is
+more than that and I know that sounds
+complicated I know you're thinking the
+same thing that I did when I first
+looked into like what are you talking
+about so redstone torch puts off 15 as
+far as like spaces the number of
+redstone will go it goes for 15 spaces
+so we call that a power 15 so we got the
+Redstone it goes 15 in so right now
+there's 15 going in here well without
+having to go into a whole lot of the
+actual math behind it a
+hopper has five different spaces here
+and in order to get more than 15 or 15
+or more power you have to have all the
+slots filled
+so that's basically how you have this
+here this Hopper you can leave
+completely empty and this one down here
+what you want to do to save space just
+use non-stacking items I use wooden
+doors they're easy to make they don't
+stack you can use if you want to put 64
+of an item in each one of these you can
+uh wooden do just the easiest that I
+always go with because they don't stack
+and then over here what you want to do
+in this spot is put 63 of whatever it is
+that you want to make here so yes this
+requires some creative you know workings
+and stuff here to make that many items
+but the easiest way to do this is once
+you have one if you got a uh wheel Mouse
+on your mouse just click the wheel Mouse
+and boom you got 64 more put it in there
+now you need 63 cuz when you get to
+64 you heard the door open see it opened
+up there cuz now this is putting out as
+much power or more than that one so it
+lights it up here now let me get this
+back out of here so it closes it okay so
+that's the basics there just hook it up
+this way now make sure this torches off
+cuz when it's on like that then it does
+it's a subtraction and it's a whole lot
+different math here so make sure it's
+off from here I have Redstone going out
+comes out and comes around here into a
+knot gate or an inverter basically so it
+means while this is off the other side
+is on this is basic Redstone comes into
+another knot gate or another inverter
+you got two on here that way when this
+one's off this one's off and when this
+one's on say we go ahead and we put our
+magic key in there do open you see now
+this one's on it turns this switch off
+and then comes over here and it turns
+this one on now having this this torch
+underneath where the door is actually at
+will help it activate it there if you
+run just plain Redstone under here it
+doesn't go through blocks like torches
+do so you won't get the actual power you
+need and then all you have to do is just
+cover it up with
+dirt and of or you know whatever your
+material is if you want to cover it up
+with something decorative you're doing
+for your particular world that's all you
+have to do now the only thing that's
+kind of a challenge with doing it this
+way is that once the door is open it's
+open I mean there's nothing in here so
+it's not like they can take it out to
+close it again so this is kind of one of
+those oneway only sort of things once
+you're in here that doors open you can't
+get it back so if you ever needed to
+reset it what you'd have to do is go
+back into this bottom sorry bottom
+Hopper take out one
+item and you're good to go and cover it
+back up and now it's closed and then
+it's ready to go for however you want to
+do this put your one key in there
+Tada and that's how you do it if you
+have any questions like I said if you
+want me to go into an in-depth about uh
+how the comparator actually works cuz
+it's it's kind of a complicated little
+beast you know I'd be more than happy to
+make one of those um if you have any
+questions like I said don't hesitate to
+ask and I'll try and help out oh a quick
+question here is you can use stuff like
+a chest or you could actually just make
+it so that there's one hopper right here
+and make them so they put the item in
+there um I like the dispenser cuz it's
+got a smiley face on the front of it
+well mainly just because it's got the
+same number of inventory spaces that
+like a crafting table does but you can
+have a block on top of it if you put a
+chest there and stick a block on top of
+it like this you can't open it cuz the
+lid can't open so it won't let you click
+it so as far as Adventure things go um a
+dispenser works really good um a dropper
+also works so it's just kind of one of
+those whatever you want to use there
+actually works out and kind of
+experiment so if you have any questions
+leave them in the comments below you
+guys have a good one and I will talk to
+you later

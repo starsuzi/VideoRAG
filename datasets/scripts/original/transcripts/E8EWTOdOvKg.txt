@@ -1,0 +1,305 @@
+hey guys this video is the second or the
+third installment of the rub Goldberg
+video series that's going to help you
+prepare for simple machines in your root
+Goldberg project and this video is going
+to be on the pulley it should be pretty
+short and sweet uh just to remind you of
+a few quick things we were looking at a
+few different concepts where remember
+that work is constant as long as there's
+no friction so the input work is equal
+to the output work that you do right and
+so if we if we write out the equation
+for work input force time input distance
+equals output force time output distance
+we can see that uh if you kind of
+remember the different variables and
+what they mean the box that you're
+moving is the output force that's known
+as the load right so it's like the
+weight of the box that you're moving the
+distance output is how high you end up
+raising that box off the ground so it
+could be say this little distance over
+here um the input for is of course how
+hard you're having to pull or push and
+the input distance is over which
+distance you pull or push so we're going
+to look at some pulley here and let's
+flip to the next slide and I'll add a
+little picture so we can just start
+talking about why pulley useful and why
+are they considered simple
+machines okay so let's get a picture of
+a pulley
+up so you can see here this guy is
+pulling he's lifting a barrel right and
+so right now let's label before we know
+anything about pulley let's label some
+of the things on this picture and and we
+can use different colors so this is
+going to be the output force and let me
+get that to be a little bit thicker so
+you can actually see it maybe in blue so
+you can see it better so that's my
+that's my output force right that's the
+weight of the object that he's actually
+lifting up so that we would label the
+output force the output distance is this
+right it's how high he has raised that
+Barrel up off the ground within the pool
+then we've got to label
+his um input force which would be how
+hard he's pulling on
+here and the input distance and this
+one's kind of weird um to think about
+but it's actually how much rope he's
+pulled through um if he started with the
+very beginning of the Rope so we have
+all those regions and if you think about
+let's just do a quick little thing of
+the incline plane it's kind of the same
+thing right if I raise the Box up an
+incline plane the Box itself is the
+force output the distance that the Box's
+going to be moved is the input distance
+right over which my input force which is
+how hard I'm pushing on the box it's
+going to be raised some height
+D okay distance out so you can kind of
+see some of the similarities the barrel
+is the force out that's the load that's
+the same as the Box on the incline the
+input distance is the distance over
+which you apply your Force which would
+be pretty much the the length of the
+rope that you pull through the
+pulley now let's take a look at this
+pulley and see what is it actually being
+used for so let me move
+um actually that's okay we'll just look
+at it here how hard is he having to pull
+well actually in this picture he's
+actually having to pull the exact same
+weight as the barrel so the the pulley
+here is not actually making his input
+force any less cuz remember that's what
+simple machines want to do they want to
+make your input force less by increasing
+your input distance right and that's
+going to keep the work done the same so
+basically you have to pull a whole lot
+of string through the pulley but you're
+going to have to pull with less effort
+in this picture that's not happening the
+only thing that the pulley is useful for
+here and this is actually one of the
+uses of a pulley and there are two uses
+that you need to know one of the uses is
+it just redirects the force so instead
+of him having to stand up here somewhere
+on a little platform and pull up he can
+pull down just like blinds right and you
+can end up redirect directing the force
+to make it more convenient but it's not
+making his input force less so let's
+look on the next slide is how can the
+pulley actually make something a job
+easier to
+do here's an example uh picture here we
+have a fixed pulley which is that one
+and then here we have a movable pulley
+which is this one okay and you can see
+the one on the left is not actually
+being used for anything except to
+redirect force and that's not considered
+mechanical advantage um by sort of
+numerical mean so it's not actually
+making the input force less by numerical
+amount so it's not making like say that
+paint bucket is 10 lb you would still be
+pulling with 10 lbs it's just you're
+pulling in a different direction so it
+makes it you know sort of more
+convenient but it's not making it any
+easier whereas the pulley system on the
+right is actually making it easier which
+is pretty cool and you can see that if
+you really analyze the situation so let
+me get a different color here and you
+can see that the wall the the ceiling or
+whatever this wooden thing is is
+actually holding half of the the weight
+the PT the paint can's uh weight so if
+that's a 10 lb paint can this side is
+holding 5 lb of
+bit um you might remember some of our
+Dynamics problems where we had like a
+painting hanging on the wall and that
+was about how it worked now this would
+be exactly 5 lbs cuz it's a bit of an
+angle but we're not going to consider
+that so I'm having to pull up on this
+side
+and I'm only pulling with 5
+lb even though I'm lifting a 10 lb
+object so that's kind of interesting so
+let's take a look at a more complicated
+pulleys where this one's you you still
+have to pull upwards and that may not be
+that convenient so let's see if we can
+even redirect it again to make the
+pulling
+less so here's a pretty crazy picture
+just look at each one consecutively and
+then we'll figure out how is the pulley
+actually helpful so the first one on the
+far left left this pulley you would
+actually have to pull on this with 100
+Newtons all it's doing is redirecting
+the force however the next one the way
+we know is we'll count these two
+supporting strings now notice the pulley
+on the
+bottom this
+one that one's movable so the box is
+attached to the bottom of it and it's
+not attached to the Rope the rope's
+going through it and the way that I
+would string that pulley is I'd actually
+start by tying a knot and I'm going to
+you can tra it with me I'm going to use
+this green color we'd start by tying a
+knot right here we'd Loop the string
+around this
+pulley we Loop it again around that
+pulley and I'm going to pull straight
+down like that now if you think of it
+before the way that the last picture was
+in the last slide you would have you
+would have had what I'm about to trace
+in yellow you would have had this and
+you'd be pulling straight up but we
+redirected it one more time so we could
+pull and so here you're actually going
+to be pulling with whatever force is on
+this outside rope over here so that
+would be the one
+uh me draw this in this one's holding uh
+50 Newtons and this one's holding 50
+Newtons and you're pulling on that one
+that's still 50 Newtons so that's you're
+only having to exert Now 50 Newtons of
+force which is pretty cool let's do the
+next one here's even makes it even
+better even more useful use a green
+again to trace the string so now I have
+a movable pulley on the bottom and I
+have a double pulley at the top there's
+you can get those where the the one this
+pulley right here is actually U mounted
+right next to that one to make it take
+up less room but basically we're going
+to trace we're going to trace from here
+this is the string it goes around that
+so it's attached it's fixed it's
+attached right there this one goes
+around that pulley this the string goes
+around here We're looping it through
+kind of like a yo-yo and then around the
+top one and I'm pulling down like that
+let's count how many strings we have
+supporting we've got one that's going to
+take some of the weight that's going to
+take some of the weight and then that's
+the weight you're pulling with right now
+it's pulled redirected round so each of
+those would be how much do you think if
+this one was 100 divid 2 which is 50
+each this one's 100 divid 3 which is
+going to be about what 33 Newtons each
+and that's how hard you'd have to pull
+with 33 Newtons the last string is the
+one you're pulling on it's just
+redirected down similarly let's do the
+next one Trace that one
+out uh use this blue now you see we
+flipped to attach right here now we've
+got two double pulley the bottom one's
+movable the top one's fixed on the
+ceiling Trace out the Rope goes around
+the
+inside and then goes around the outside
+and I'm pulling down like that so let's
+count 1 2 2 3 4 so if I'm pulling on
+this outside one right here right this
+one on the outside that means that I'm
+pulling with only you guess to 25
+Newtons so if I have more pulleys
+here more Loops of string I'm having to
+do a lot less effort the very last one
+we could even do it without tracing the
+the string even though you can trace it
+it starts in the middle goes to the
+second ones goes to the outer ones we've
+got one
+1 2 3 4 five 6 we're pulling on the very
+outside one right here that's redirected
+so you take 100 and divide by six and
+that's what you're pulling with so that
+makes pulley easy so here's a little
+trick let's go to the new a new slide
+actually we can do it on this slide I'll
+just move the picture up out of the way
+a
+bit I'll just use these as example to
+find the mechanical advantage or I guess
+I should say the ideal mechanical
+advantage
+you could do distance in over distance
+out um and get it that way by measuring
+how much string you pulled through over
+how high it was lifted but there's an
+easier way all you have to do
+is say that the IMA is the
+number of
+supporting Loops or strings and they're
+not separate strings that's why I say
+Loops so on this first pulley over here
+it would be 1 2 that's how many many
+you're pulling with now or how many is
+supporting it so that mechanical
+advantage is two so it makes sense it
+mechanical advantage is the number you'd
+multiply your input force by okay so and
+that would mean that would be right I'm
+pulling with 50 Newtons multiply by two
+that means I can lift 100 Newton
+box so you don't count the string you're
+pulling on because it's already counted
+as this one right here right this one
+that wraps around so on this one I'm
+going to have 1 2 3 so that mechanical
+advantage would be number supporting
+Loops three very good and let's move
+along this one would be one uh let me
+see actually count that it's kind of
+colored over the whole thing 1 2 3 4
+it's a mechanical advantage of four so
+pulley is pretty easy in that regard you
+can actually combine pulley with other
+simple machines like um if you have an
+inclined plane and you have a pulley at
+the top here you have a box you have a
+pulley attached to the box and then you
+do the little Loop pattern right you
+pull around and like this you're
+actually having to pull with a lot less
+because the incline planes helping you
+and the pulley helping you at the same
+time so that's the video on pulley hope
+that helps when you make your uh
+complete your worksheet and uh good luck
+with coming up with some designs in the
+next installment

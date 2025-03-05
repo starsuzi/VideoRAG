@@ -1,0 +1,65 @@
+this video is to show you how to hook up
+a siren so that when it's tripped it
+will turn one of your power doors
+off my settlement has uh pretty much
+barricades on all four
+sides way over there and then this is
+the only spot that people can come in
+and the idea is at the lookout here
+we'll see someone coming
+and pull the
+alarm shutting the door and not letting
+anyone
+in then when they turn it back or when
+they turn it off the door goes back on
+and they actually will do that when they
+see if they're near it and they see
+someone they actually will go over there
+and turn it on and for the most part
+I've seen when um everyone is cleared
+out they'll they'll turn it um off which
+then opens the door back up so instead
+of trying to trace all those
+wires um I thought I would just show you
+this kind of demonstration area over
+here so what you're going to need is a
+generator the
+siren two logic gates you need the
+and and the
+not and one of the power
+doors First Step hook up power to the
+siren
+into the red lead on the
+end Next Step take the siren and go to
+that same red lead so both of these are
+acting as
+inputs the output of the end goes to the
+red lead on the knot and the knot black
+lead goes to your powered
+door so why does the door
+open well right now try to get in there
+so I can see see the
+menu right now it's looking for both
+signals to be on so since only one of
+them is um the the
+generator um it's sending a
+zero up to the knot gate the knot gate
+basically uh reverses that to an on or a
+one and sends power to the
+door when you turn the siren on
+now both of the inputs on the and are
+met so it's sending a
+one to the
+knot and then it's negating that and
+reversing that to a zero which is
+essentially cutting the power to the
+door well I hope that helps in showing
+some of the uses of the logic gates and
+adding some functionality to the doors
+and the siren I'm still thinking of
+other things that I could do with that I
+think somehow powering it so that some
+red lights go on uh could be feasible
+with this if you have any questions or
+comments please leave them below thanks
+for watching

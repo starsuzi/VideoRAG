@@ -1,0 +1,213 @@
+controlling a spacecraft is a little bit
+different than controlling an Earthly
+vehicle like a car or a plane mainly
+because outside Earth's atmosphere
+there's not much to push off of but
+aerospace engineers have some ingenious
+ways to get rockets and satellites where
+they're going you may have seen the
+yo-yo trick called around the world but
+you probably didn't know that the
+spacecraft that actually do go around
+the world have their own yo-yo trick hey
+I'm Grady today on practical engineering
+we're talking about spacecraft attitude
+control and the yo-yo D
+[Music]
+spin how do you keep a rocket or a
+satellite pointed in the right direction
+you might think this is pretty simple
+put an engine on the side you want to go
+away from right but actually in the real
+world of space fairing vehicles it's a
+little bit more complicated than that
+anytime you apply a force that's not in
+line with the center of rotation that's
+called a torque when you use a wrench
+you're torquing a bolt by applying a
+force offset from the axis of rotation a
+torque is a product of angular
+acceleration so anytime you apply one
+you're going to induce some rotation
+unless there's a reaction to
+compensate naturally we want to keep our
+spacecraft on the straight and narrow
+but there's so many torqus that can
+influence their rotation you can have
+aerodynamic forces like strong winds or
+atmospheric drag you can have
+perturbations from variations in gravity
+effects from Earth's magnetic field or
+even solar radiation pressure you can
+also have internal torqus from the
+spacecraft itself for example if you've
+got an engine maybe it's not mounted
+perfectly in line with the center of
+mass if you've got more than one engine
+maybe one is a little bit stronger than
+the others
+there's a host of torqus that can induce
+rotation of your spacecraft so Engineers
+have come up with a host of ways to
+counteract these torqus and keep things
+headed in the right direction you can
+use control surfaces to react against
+the air rushing past the rocket just
+like an
+airplane you can gimbal your engine to
+give you more control over the direction
+of thrust you can use small directional
+thrusters located off axis from your
+spacecraft and you can also use fly
+wheels to counter rotate against any
+extraneous torqus all of these methods
+have their own advantages and
+disadvantages but the overarching
+problem with all of them is that they're
+complicated now you may think that
+aeronautical Engineers isue the kiss
+principle after all quote unquote rocket
+science is the ubiquitous analogy for
+something that's overly complex but
+consider this if it's a moving part or
+it creates incredibly hot and
+fast-moving exhaust gases there's a
+chance that it might might break and if
+it breaks there's not a lot of
+opportunity to get a technician into the
+upper atmosphere or lower orbit for
+maintenance or repairs so attitude
+control Engineers developed a dead
+simple widely used technique of attitude
+control called spin stabilization and
+you can probably guess how this works if
+you've ever played with a gyroscope you
+know that it resists changes in the
+direction of its main axis it works the
+same way with a rocket or a satellite if
+you spin the spacecraft around the axis
+it's moving along it will resist small
+torqus just like a gyroscope as an added
+benefit if there's some asymmetry in the
+spacecraft instead of accumulating
+torque in a single Direction now you're
+averaging the asymmetry around the main
+axis this is a really simple method of
+stabilization because it usually doesn't
+require any additional moving parts or
+systems but it does have its own
+disadvantage namely that your spacecraft
+is wildly spinning in C CES at the end
+of it sometimes that's okay but a lot of
+the times your instruments or sensors or
+cameras don't work if they're spinning
+so after your engine burn you want to
+dpin naturally there are several ways of
+dealing with this as well but remember
+we're trying to keep things
+simple let's talk just for a minute on
+what it actually takes to desin
+something a spinning body has a certain
+amount of angular momentum which is a
+product of two values angular velocity
+that's just the rate of rotation and
+moment of inertia which is a measure of
+how a body's mass is distributed around
+its axis of
+rotation a rotating Rod has a low moment
+of inertia because its mass is
+concentrated around the axis a rotating
+tube of the same mass has a
+comparatively High moment of inertia
+because the majority of its mass is far
+away from the axis now angular momentum
+is preserved as long as there is no
+outside forces applied that's just
+Newton's third law so the angular
+velocity or spin rate is on a seesaw
+with moment of inertia if one goes up
+the other goes down and vice versa this
+is really cool because it says even
+without any outside forces there's a way
+that we can reduce the rotation of our
+spinning spacecraft just increase the
+moment of
+inertia the classic example of this is
+the figure skater and you could try this
+yourself even if you don't skate spin
+yourself in an office chair with a
+couple of Weights in your hands if you
+bring in your arms you decrease your
+moment of inertia so your speed goes up
+to
+compensate the yo-yo D spin works
+exactly the same way but in Reverse
+except at the end you get your arms cut
+off I put together a model to illustrate
+this concept first I turned a disc of
+MDF on the lathe and mounted it on an
+aluminum tube with some bearing so it
+can spin freely
+[Music]
+I've got a Servo on top which is
+attached to a couple of quick release
+mechanisms when the servo activates it
+pulls these cords which release
+whatever's attached there are two
+tethers with fishing weights on each one
+and these get wrapped around the disc
+and clipped into each quick release and
+this is powered by an Arduino so I can
+push a button and activate the servo to
+release the yo-yo masses let's see how
+it works
+when the yo-yo masses are released they
+start to unwind since they're getting
+further and further from the point of
+rotation they're increasing the moment
+of inertia of the system once the end of
+the tethers is reached they slingshot
+forward absorbing the rest of the
+kinetic energy before they're released
+the crucial parameters when you're
+designing something like this are the
+length of the tethers and the mass of
+the two weights and actually if you're
+going for a complete dpin the initial
+angular velocity doesn't matter which is
+convenient because I could just spend
+the model by hand without worrying about
+how fast it was going I designed this to
+release the masses when they're exactly
+radial but it's pretty tough to get this
+perfect so sometimes the model was
+actually spinning in the opposite
+direction when the masses let
+go in real spacecraft they have cool
+release mechanisms like explosive bolts
+but I wasn't able to get my hands on
+these and as cool as a demonstration as
+this is it probably wouldn't be much
+good for a science fair or career day
+unless you can come up with some way to
+contain these flying
+masses this is a problem in real
+spacecraft as well and these masses can
+contribute to the ever increasing amount
+of space junk orbiting the Earth but
+despite that the yo-yo dpin is a really
+clever application of simple physics to
+accomplish an important job and
+especially with spacecraft sometimes
+simple as
+best I hope you like the video and if
+you did I would really appreciate you
+clicking the like button and subscrib to
+the channel That helps motivate me to
+keep making cool stuff if you want more
+details or you have a question or a
+suggestion for a future topic I'd love
+to hear from you in the comments below
+thank you for watching and let me know
+what you think
+[Music]

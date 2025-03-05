@@ -1,0 +1,294 @@
+what is going on what did what the hell
+hey guys what you see in front of you
+here are two of these very
+strange-looking philips LED light bulbs
+you may never have actually seen one of
+these before but the very early era of
+consumer LED bulbs these were pretty
+common say in home-improvement stores I
+don't think they gained a lot of
+popularity though because they were $25
+each if I recall but this was sort of
+Phillips's first good quality consumer
+grade LED bulb and things have changed a
+lot in the time since then we have the
+whole era of $1.00 bulbs you can check
+out my other videos on that if you're
+interested in seeing a tear down of
+those now I found these bulbs in the
+e-waste bin and I'm not sure why they
+were in there I gave them a try and they
+seemed to work fine but maybe they have
+some intermittent faults now first off
+wooden thing you notice when you pick
+these up is they are really heavy this
+is a metal heatsink and as you can see
+it kind of extends up into this top part
+that parts plastic this is plastic but
+this is all metal so clearly they were
+concerned about heat generation on these
+now if we look up close this is an 800
+lumen bulb dimmable 12.5 watts at 2700 K
+these are not multi-voltage bulbs now
+look at anything with this weird yellow
+color on this outside part you almost
+feel like there's just no way that these
+can produce an actual white color light
+right actually you'd be wrong it
+produces a really nice approximation of
+incandescent bulbs there's none of that
+telltale 60 Hertz flicker so clearly
+there's good capacitance in here and the
+only issue that might be is probably the
+uniformity because as you see when I
+turn it there's a dark spot there but
+this isn't gonna be a teardown I want to
+show you something that's very different
+about these so this bulb here I've
+already removed this top plastic piece
+and once you do that you can take these
+off look at that a little breakage going
+on there I'll talk about that a sec the
+covers or Globes came right off and
+what's happening here is this plastic
+underneath it was probably some type of
+a diffuser or a light diffuser I guess
+over time since this bulb runs really
+warm these have just dried and gotten
+brittle now with the globe's off when we
+take a quick look at the construction
+here
+you'll see a circuit board probably
+ceramic with three LED chips and it's
+attached to a thermal pad there which
+obviously conducts the heat from this
+board into the metal heatsink here on
+the top there's a little circuit board
+with three connectors on it which is
+where these plug in so this is clearly
+an expensive LED bulb I mean look at the
+construction quality it's nothing like
+the cheap ones we have today but there's
+something else that's really weird about
+this watch when I power this up what
+happens the light that this is putting
+out is an extremely bright blue light
+and these covers when you cover this
+actually change the blue light into
+white light what this is called is
+remote phosphor so essentially a white
+LED is typically actually a blue LED
+just like these ones here and then
+there's a phosphor that emits the white
+light painted on top of the LED chip and
+if you ever look at a white a warm white
+LED chip you'll notice that they're kind
+of a yellowy color when they're turned
+off but when you turn it on they will
+glow white and there are different
+phosphor colors for different color
+temperatures a link to an interesting
+study by Cree which just shows that
+remote phosphor LEDs like this are
+actually more efficient okay let's do a
+quick test to see what voltage these
+chips are running at sorry I don't have
+the LED light in the frame it washes out
+the camera okay eight point four seven
+volts per board and each of these boards
+obviously has three chips on it so 8.47
+and we got three two point eight two
+volts per LED that's not bad
+it's definitely not over driving them
+but disconnect one of these boards we'll
+be able to tell if it's running them in
+series or in parallel with each other
+oh boy everything is breaking okay well
+that connector just disintegrated and
+broke I can't I can't cut that off so I
+guess this bulb is probably not gonna
+work anymore or it may work let's see
+yeah it doesn't work anymore so now that
+this doesn't work this is obviously
+running the board's in series that means
+we're
+the power supply at about 25 volts for
+this entire assembly here so I got the
+wires back on I just the connector is
+broken but it had the little metal I
+clipped still so I just push the wires
+back onto the terminals and yep the
+blades working again so this is where
+I'm contree by these bulbs if you look
+at my little screwdriver thing here this
+is fluorescing extremely brightly so
+looking online it seems that these
+remote phosphor LED bulbs always use
+royal blue LEDs which is 400 t7
+nanometers and very interesting is that
+color blue really makes things fluoresce
+and I shine this around my basement and
+anything else that might fluoresce under
+a blacklight also glows really brightly
+so that got me thinking could I use
+these for retro Brite now I've talked
+before about the fact that where I live
+in Portland Oregon there's just not a
+lot of sunlight in the winter but we're
+nearly an autumn right now and
+essentially if the sun's gonna be gone
+for the next several months so any kind
+of retro writing will have to be done
+indoors
+I've had people suggest to me that I
+could use black lights I could use UV
+lights I could use all sorts of
+different things but I don't have a
+backlight and I don't have any UV lights
+and all of that stuff would cost money
+but these blue lights with these covers
+remove the course these if these work
+this might be a good solution and
+especially for this reason I have quite
+a few of these I found a good number I
+think I found eight so if these all work
+properly and with the covers removed I
+could easily build a box with some
+really inexpensive light sockets put
+tinfoil around the inside and just make
+a really insanely bright blue box okay
+so I need to know if this works so let's
+test this I'm gonna show you my test
+setup right now okay so the start of the
+video you saw this blue glow coming from
+over here so what you can imagine now is
+that I have a little things set up here
+with something actually being retro
+brighter right now so let me unplug the
+lamp first I have an Amiga mouse wrapped
+in plastic wrap and I have the cream the
+volume 40 cream under there and I took a
+little box and I put some aluminum foil
+in there which just will hopefully
+direct any extra light onto the sides
+now
+found that the bulb runs very very hot
+and of course in here it's not really
+getting a lot of airflow because this
+thing is designed for incandescent bulbs
+so I set up a little 12-volt fan and I'm
+blowing air into there but this Amiga
+mouse has already been in here for I'd
+say a couple hours and here's a before
+shot that I took and as you can see it
+was really yellow and I really think
+this is already working pretty well
+actually there appears to be a huge
+improvement so what I'm gonna do is I'm
+gonna put this back in here but let me
+talk about something while I'm showing
+you this so you can't see in the camera
+at all because it's completely washed
+out but originally when I put this under
+here the parts of the mouse that were
+actually quite yellowed we're showing up
+as sort of a reddish color under the
+blue light and I can still see some of
+that and I know you see someone the
+camera there but that's not that's not
+what we're seeing I see red up here and
+up here now I don't see any on this
+middle section we've originally when I
+put it in there was a lot of red if I
+flipped it over to the part that wasn't
+yellow there was no red color so it's
+almost like the UV damage shows up has
+sort of a reddish color under this blue
+light so I don't really know if that
+means anything but at least it helps we
+know if this thing is d yellowing
+because as the yellow goes away the red
+fades and it's definitely doing that now
+it's fading so I'll probably check on
+this a few more times before I go to bed
+it's around 8:45 right now and then I'll
+leave it overnight and we'll see how it
+looks in the morning
+well it's the next day we're it's in the
+morning so I'd say it's about 12 hours
+let's give these a wash and see how they
+look I hope they're not damaged maybe I
+left it in too long I don't know let's
+take a quick look at the stuff out of
+the blue light so you can actually see
+it so on the bottom plate here we had
+yellowing along the top edge here and I
+think it was are there on this side oh
+it was on this side I could still see
+some yellowing there so I had this sort
+of propped up like this all night where
+the light was shining down on the top
+and it wasn't really shining on the side
+here so the rest of the bottom was
+actually completely fine and on the
+other part I had rotated this around
+several times and tilted it up down and
+every other which way but absolutely
+just looking through this plastic
+through this plastic wrap this looks
+amazing
+[Music]
+all right so yeah I just dried these off
+I stuck them on a paper towel here and I
+liberally sprayed them with this 303 UV
+protectant my friend is a car detailer
+swears by this stuff and I apply at post
+retro right to all of my plastics but I
+have a feeling and this is not
+scientific this is just anecdotal that
+applying this may help plastics from
+real yellowing I have a couple things I
+retro prided over a year ago they were
+very yellow I have applied this post
+retro Brite and none either of them have
+reload here are two Apple extended
+keyboard twos they were both very yellow
+because you know Apple's ABS plastic and
+the space bar here very much yellow not
+the PBT keys but what I do is when I
+clean these I retro righted the case and
+the keyboard and then I applied 303 very
+liberally to everything including the
+PBT keys so I hope that that keeps these
+keyboards nice and fresh looking for the
+rest of their lives or at least a long
+time but I'll just let this sit for a
+while maybe 20-30 minutes and then I'll
+use a rag to wipe it and buff it down
+and then I'll reassemble the mouse and
+we'll take a look
+so here's the finished product and I
+have to say this looks fantastic
+it's probably just slightly yellow
+versus how it was when it was brand new
+but this mouse looked like crap and it
+was horribly yellowed when I got it I'd
+say this looks great I also cleaned up
+the cord just made it look nice in
+general but yeah
+can you retro bright under blue LED
+light the answer at least in this case
+was yes people are saying you need a
+zone or you need heat or you need UV
+well 457 nanometers which is the royal
+blue LEDs used in this is not UV and yet
+it happily retro Brea this smells
+perfectly but anyhow I will do further
+experiments and probably create another
+video to update you guys but if you
+found this interesting or have any
+questions or comments you know you know
+what to do put them in the comment
+section below you can subscribe for more
+videos
+thanks for watching bye

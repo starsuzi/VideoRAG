@@ -1,0 +1,192 @@
+what's up everybody my name is cap and
+welcome back to another Minecraft
+tutorial today I'm going to show you how
+to make a hopper clock or engine I guess
+if you want to refer to it that way it
+can be used for both of them kind of as
+a timer device or as a powering device
+as you can see here it's running all by
+itself here there's really not much to
+it it's pretty simple setup and it goes
+through and works on a specific time now
+one thing that's really great about how
+this Clock Works is that you can kind of
+configure it to the work to the time
+that you want so unlike doing a uh a
+specific kind of redstone clock which is
+like you know one tick eight clicks four
+ticks or something like that you can
+really kind of dial it into specifically
+how much you want it to run for how long
+and you know big delays and stuff so
+it's really simple to actually make um
+I'm going to say I did not invent this I
+saw a version of it on another video
+somewhere that was non-related and so I
+kind of broke it down disassembled it
+put it back together and came up with
+what you have here and I want to show
+you guys how to make it so here we
+go all right first off all you're going
+to need is pretty much the stuff that
+you see down in my item toolbar here
+minus redstone torch this was for
+something else just some Redstone you're
+going to need two comparators two
+Hoppers a block of redstone um I'm just
+using wool just for design purposes and
+two sticky pistons so if you're doing
+this in survival mode you got a little
+bit of work to do to get it ahead of
+time e easy way to set this up here is
+use two rows of six
+blocks like this side by
+side and then you're going to want to
+decide on the back side here just one of
+these two we're going to call this the
+back so it's really easy to figure out
+which direction you're going okay now at
+the very first part here what you want
+to do is you want to drop a hopper right
+on top of it there now right next to it
+you want to do is hold control and click
+it so that this Hopper goes into that
+one break this one I know it's crazy
+right and put this one back on here so
+that they go back into each other it's
+important that they connect to each
+other like this if they don't it won't
+work okay now what you need to do is
+take your comparators and put them on
+opposite sides of the Hoppers facing
+away from each other like that okay
+you're put another block here at the
+very end of
+it and to the sides of it what you're
+going to do is you're going to put a
+sticky piston facing each other like
+this so you can kind of see what's going
+on here I just want you to be able to
+see what's going on okay then you're
+going to take your block of redstone and
+attach it to either one it really
+doesn't matter and then right here is
+going to be where you want to run some
+Redstone out so you can kind of see the
+direction that's going if you're going
+to have this run off to your automated
+Farm or your mob's grinder or whatever
+else you want to actually have there and
+then all you need to do is put a
+redstone in this corner and a redstone
+in this corner and that's it that's all
+there is to it now comes the slightly
+slightly complicated part this really
+isn't that hard but it takes a little
+bit of thought process to go into here
+okay a standard Hopper sucks out two .5
+items every second I know it's it's an
+odd number so it makes doing the math on
+it a little bit hard but just think of
+this for
+every item you have in there it's going
+to go pretty much instantly so for one
+second it's going to take out two and a
+half items that means if you want to do
+five items it'll give you two seconds if
+you want to do 10 items it'll give you 4
+seconds if you're going to put 20 items
+in there give you 8 seconds
+Etc so if you're W to try and figure out
+exactly how long you want it to go let's
+say you're like okay well I need to get
+uh every 10 seconds I want it to go off
+here so you basically just do the math
+of 10 seconds * 2.5 gives you 25 items
+here so you would take
+out 25 sorry I can't count put it in
+here and you'll see it starts sucking it
+out and putting it back into here and
+once it gets completely full on the
+opposite side it'll trigger the
+comparator over here and it'll push the
+Piston back over here triggering the
+Redstone Block powering out and coming
+over here so you can sit here and time
+it if you want to and I tested it out
+it's pretty much dead on exactly every
+10 seconds so if you're trying to figure
+out exactly how much you want to be able
+to put in there that's the math that you
+do um if you put in a full stack of
+something 64 items in there it doesn't
+come out even it comes out to like 25.6
+seconds which it more or less just kind
+of rounds up and down at the same time I
+know it's really crazy but it's like
+every other time it seems like a little
+bit faster than the last one here so if
+you fill a hopper completely full which
+is 320 items it'll take it 128 seconds
+you know a little over 2 minutes for it
+to go through and click it here I don't
+know any practical applications as to
+why you would need that much of a delay
+in it but I guess maybe if you have some
+sort of automated farm and you want to
+give everything time to actually run
+then you actually can so that's pretty
+much it is just you take however much
+time you want this thing to run multiply
+it by 2.5 and that'll tell you how many
+items you actually need to put in there
+so like I needed to go every 30 seconds
+multiply that by 2.5 you need to fill
+this up with 75 items which you can use
+these other slots here for like I said
+once it gets completely over then it'll
+recognize the comparator will recognize
+hey I have slightly more power than this
+one over here so I'm going to light up
+my piston and force it the other
+direction now as you can see they're
+both lit up here and as you watch it
+shift see it one goes off for just a
+second because it's just long enough for
+all the items to get over and then it
+starts going right back again so it
+works as a pretty reliable clock and I
+haven't found that if this causes any
+kind of lag in like multiplayer servers
+so I mean cuz it's only going Hopper is
+the only thing that's really going until
+you start having it you know really work
+on it here so let's say if I was going
+to take
+out I'm not even sure how many blocks I
+have in there anymore here we'll take
+out this many just to see how many is
+actually there cuz I can't can't
+remember how I put in you can see I took
+out some of the blocks and so it'll
+start going a little bit
+faster let me see I took out five of
+them
+now so it's going pretty quick you're
+not going to get a whole lot faster than
+that because it's two items so you got
+two items in here that's right about 1
+second 1 1,000 2 1,000 1 1,000 2 1
+that's about it that's about as fast as
+it's going to get if you took out one of
+the items there it wouldn't go any
+faster so anyway that's pretty much all
+there is to it um I hope you guys
+enjoyed this maybe learn something from
+it uh if you have any questions you know
+don't hesitate to ask leave them in the
+comments below and I'll try and answer
+them um the meantime just use this be
+creative and see what you can come up
+with you guys have a good one and I'll
+catch you later

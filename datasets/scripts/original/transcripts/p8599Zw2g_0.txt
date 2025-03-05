@@ -1,0 +1,199 @@
+hello sue the nation dr. PlayStation
+nation here tacky is over a little bit
+of a pre-release style minecraft 1.5 of
+date type video guess this is going to
+be one video in a series of videos where
+I talk about all the new stuff in the
+Minecraft 1.58 things like the hopper
+which will this is what this video is
+about the redstone block dispenser or
+dropper the daylight sensor the
+comparator the light and heavy pressure
+plate and quartz guys these are the main
+new things that have been added in
+Minecraft 1.5 update along with other
+things that I will be talking about I
+conveniently put the playlist for these
+videos on screen so you guys can click
+the annotation to see any of my other
+redstone type videos guys as well as the
+Minecraft Show for that so say you guys
+just want to be updated when I make
+redstone stuff or minecraft 1.5 stuff
+you guys can subscribe to that show in
+specific but anyway this video is going
+to be or this series is going to be kind
+of a shorter series so remember to keep
+back and keep checking for new videos
+also guys remember to check out my
+minecraft server it will be on screen
+right now or in the description down
+below you guys can check that out but
+with all that stuff said let's kind of
+get right into the hopper guys so pretty
+much the hopper is this thing right here
+it's pretty cool piece of redstone II
+type stuff pretty new cool item or
+pretty cool new item in Minecraft and
+this is how you're gonna craft it you
+guys will just need a 5 iron and it
+chests
+arranged it like that in a crafting
+table and you will get a dropper or
+hopper like this and this doesn't
+actually have to do with anything there
+but what I can actually do with this is
+if I show you guys right here so I throw
+a hopper right there I grab a chest and
+put the chest right there what I can
+actually do is I can actually throw this
+stone in here and as you guys can see
+the stones getting pulled through it's
+going into this hopper and then again
+going into this chest down here now the
+cool thing about that is that it gives
+me the ability to move things from one
+chest to another or in the case over
+here from a minecart inside of a chest
+into something else so this could be a
+dispenser it could be a brewer it could
+be anything like that so cool things
+like automatic brewing stations or
+automatic chests sorting or anything
+like that is possible
+so keep remember to keep checking out
+these videos because I will be doing
+automatic brewing as well as automatic
+chests sorting and yeah so pretty much
+in this case if I as you guys can see
+there's a bunch of stone in here what I
+can actually do is I can turn this on
+and this is actually a 5 second timer so
+in about two seconds it's going to say
+hi in the chat and basically how did
+this was just using command blocks and
+you know using comparators to count how
+many things are in the dispenser which
+pretty basic I guess this guy over here
+and just turn this off this could
+actually be used to make you know a
+10-minute timer and do it with you know
+very little redstone required I think
+this is actually a pretty cool thing
+that you can do with hoppers but what
+I'm actually going to show you guys over
+here is a new thing that you guys can
+actually use in your single-player world
+and this is actually pretty cool so say
+for instance you know you have you're on
+a server and you have a faction and you
+want to send stuff between you and your
+friend what you can actually do with
+this is that order this could be used
+for you know so you have a mine or
+something like that that you want to not
+have to go all the way back up to the
+front every time you want to display
+some tracks and send a cart back and
+forth or something like that this is
+what this could be used for pretty much
+if I open this up I throw you know
+whatever I want in it stays of this I
+want chest I want some sandstone push it
+on its way what's going to do is it's
+going to stop over there on that
+redstone or powered rail and then it's
+going to unload all of this stuff so
+it's about you know 75% of the way
+through or whatever and it's going to
+stay there until it unloads everything
+and then when it's done it's going to
+leave it's going to come back over here
+and as you guys can see we have an empty
+minecart and if we go over here to see
+this chest you guys can see that we have
+all the stuff that we sent over there so
+that's kind of one of the uses for this
+if you imagine this being the same at
+either side which you can actually do is
+you can actually send stuff
+automatically back and forth like you
+can have a chest sitting right up here
+or have like a hopper sitting right here
+and then you can have I just grab chests
+over here and then you could have a
+chest up here so pretty much like you
+could just load stuff into this chest
+have the other there load stuff into
+there and what it'll automatically do is
+it'll automatically grab and bring the
+stuff over to the other sides which is
+kind of a cool concept I guess and
+automatically do that and be doing that
+24/7 so that's just something for you
+guys to think about this redstone and I
+will make a separate video talking about
+this redstone and
+this kind of contraption over here for
+automatic item sorting remember check
+that the playlist for that if the video
+is already up but yeah so this is pretty
+much what the hopper does the hoppers a
+pretty cool piece of redstone technology
+I guess you can say and yeah so another
+thing to note guys is there is priority
+when you're talking about a hopper and
+priority you basically set that by
+whatever surface you click on so say
+this block out with this say this was a
+chest I would click on that and as you
+guys can see that spout is pointing
+towards that block I were to click on
+the floor the spout at the bottom points
+towards the ground which means that gets
+priority there's some cool stuff like
+that as well guys another thing that it
+isn't actually interesting that is if I
+put a hopper on there I can actually
+throw stuff right in here so it kind of
+like basketball I guess you can say so I
+could just kind of you know keep on
+throwing stuff in here and it'll go
+automatically in there so that's
+something neat I guess you guys can do
+you can use water and you know collect
+them all up with an automatic farm or
+something of that nature but so anyway
+guys hopefully you enjoy this video if
+you guys didn't remove a like rating
+down below subscribe to join the nation
+if you already haven't
+and maybe you can check out the
+subscribers server that I have set up
+play dot squad craft net you guys can
+actually use my code and get five
+percent off any of the patches there so
+that would be dr. PSN but anyways
+hopefully you did enjoy this video I'm
+the doctor and I'm a piece and I am back
+guys so hopefully you guys did enjoy
+again I'm going stress to remember to
+leave a rating down below if you guys
+did like it as well as comment down
+below telling me you know if you liked
+this video if you want to see more stuff
+like this anyway um you guys can also
+click anything on screen right now you
+guys can click to see any of the videos
+I've linked some of them may not be up
+right now but you guys can you know up
+to subscribe to see them when they do
+come out you guys can see videos and
+stuff like the redstone block light
+heavy pressure plates the havi
+comparator nether quartz dispensers and
+droppers as well as the daylight sensor
+guys all those things are pretty cool
+and I definitely suggest you check them
+out anyway again hopefully you did enjoy
+and the doctor and I'm at peace

@@ -1,0 +1,89 @@
+In this video, we are going to look at how to create an APA-format annotated bibliography.  As you can see, I’m in Word right now 
+ and a couple of things I want to set up to be sure my document is just how I want it for APA formatting.
+First, I want to choose my margins which 
+ can found in Page Layout.  
+I want to be sure to select “Normal” which has 
+ 1” margins all the way around.  
+Next, from the Home tab, I can be sure that my font is a “sans serif” font, according to APA format.  Times New Roman works perfectly 
+ and I also want to set my font to size 12 point.  Lastly, I want to select the spacing for my document as double-spacing (
+Once we have these settings, we will start by typing the title of 
+ the work at the top center of the page.  
+Our next section does not need to be centered, so I 
+ will use this button to left-align my work.  
+Now let’s go to one of the papers I’ve read for my annotated bibliography.
+Here, you can see a couple of different things that are important to note.
+The first is the title of the journal which is here, Nature Neuroscience.
+The other thing you would see on this page is the title,
+and the authors.  But this is not all the 
+ information you will need for your APA formatted citation.
+You will also need the volume number and page numbers of the article.
+So where would we find that?  Down here at the bottom of the page we see volume 12, year of publication is 2009, 
+ and although the page numbers are not written explicitly, we can see pages 253 through 255 in the bottom right hand corner.
+The last thing you want to know is whether there is a DOI for the article - 
+ a Digital Object Identifier - which provides a place of permanent access for the article.
+Now that we have that information, we want to be sure 
+ we are formatting it properly for our APA citation.
+We will start by coping the author's names from the 
+ article and paste them in our Word document.
+But of course this is not in APA formatting.
+I will move this down so I can see it easily.
+What I want to do first is type out 
+ the last name of the first author.
+Type "Wang", "comma", "S", "period".  There are other authors 
+ so I will continue my list with a comma.
+Before the last author, type an ampersand (&amp;) and the final author.
+Before the last author, type an ampersand (&amp;) and the final author.
+You can see we've taken this information from the article and adpated it to 
+ APA format.  Be sure to use periods in between as shown here.
+Next we want to put the year of 
+ publication which you may recall is 2009.
+The next part of the citation comes from the title of the paper.
+Let's go back to the paper, copy the title, 
+and paste that here.  Paste as text to make sure you 
+ don't carry over any formatting and also arrange in one line.
+Now, APA formatting is particular in that the title has only the 
+ first word capitalized and none of the subsequent words are capitalized.
+You can see these are all lowercase letters.
+For the title of the journal, we want to use 
+ italics, which we select up here.  Nature Neuroscience,
+Now note that the title of the journal is in capital letters for 
+ all words.  Next comes the volume number.  Volume 12.
+And then the page numbers are not italicized, 253-255.
+with a period at the end.
+There is one last thing we need to do for APA format.  
+ We need a "hanging indent" at the front of the citation.
+So if you come back to the beginning of the line and 
+ hit "Tab", this is what will happen to your citation.
+Let's undo that.  We want to instead hit "enter" and 
+ then "Tab", which will move the bottom line over.
+This is called a hanging indent.  This is 
+ the finished citation for your first article.
+Next, after the citation, include the text about your annotation.  From here, 
+ I can copy over my annotation which is already written out.
+One other thing I wanted to mention.  For any article with a DOI, 
+ be sure to put the DOI at the end of your citation.
+We will copy the DOI from the article,
+add it to our citation, right at the end.
+Again, we want this line to have a hanging indent.
+Then you'll find the text of your annotation immediately following that particular citation.
+Then you'll start off with your next citation.
+Coming over here, something else about APA formatting is that your citations need to 
+ be in alphabetical order according to the last name of the first author.
+So here, our first author's last name is Wang
+In the 2nd citation, the author is Reidel.
+In the third citation, the author is Eldridge.
+So what we need to do is re-arrange our list so that it is in alphabetical 
+ order by the last name of the first author of each of our articles.
+So "E" comes before "R" and "W" in the 
+ alphabet, so this citation will go first.
+We will move our last citation and move it 
+ to the top of the annotated bibliography.
+We will move our last citation and move it 
+ to the top of the annotated bibliography.
+We will move Reidel to second on the annotated bibliography.
+So now you can see we have our three sources are listed 
+ in alphabetical order by the last name of the first author.
+Eldridge, Reidel, and Wang.
+That's basically all you need to know about APA formatting for your annotated bibliography.
+Pay close attention to the formatting of the citations themselves as this is the 
+ same formatting you will be expected to use in your literature review.

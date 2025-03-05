@@ -1,0 +1,85 @@
+hello everyone and welcome back to
+another Minecraft video I do believe
+this may be the first time I've ever
+made a video just dedicated to a bug
+something that need sticks in in
+Minecraft but I hoping by the end of
+this video you'll be heading over to the
+moyang bug tracker and up voting this
+bug so the developers there can see it
+and fix it because this has the
+potential to break a large amount of
+redstone contraptions now this change
+was made in 16
+w32a it was a change that was made to
+fix a bug with Hoppers and the change
+itself has introduced all sorts of
+problems so Hoppers used to run on game
+ticks which is what Redstone runs on
+that's why this is very precise over
+here now it runs on a global timer which
+means we will get in inconsistent output
+from Hoppers so wherever you've used
+Hoppers to create some sort of timing
+circuit like an EO Hopper clock for
+example that will now be broken and we
+can see this in action uh with this
+little demonstration right here now what
+we should see is that the Piston at
+either end activate at the same time as
+you just saw though that is not the case
+due to this random timing uh this will
+now be inconsistent and so each time you
+know it's out of sync which is not how
+it used to work so you can see the same
+thing here with them side by side it
+goes out of syn somewhere just around
+the third or second one and that's
+because of this inconsistent Hopper
+timing so if we go over here and use an
+EO Hopper clock what's interesting
+is that you can see that output is
+inconsistent and different however if we
+put some Pistons over here on this side
+they're the same although this time
+actually they slightly off I think
+they're ever so slightly off earlier
+they were identical to one another and
+yes basically the timing of these things
+will now be inconsistent due to this
+bug and I know what some of you are
+going to say the game changes Redstone
+changes you should let moyang do what
+they want and I would partially agree
+however this doesn't add anything is my
+concern you're going to break a lot of
+things and then you're going to remove
+the ability to use hoppers for timing in
+Redstone Circuits and there's nothing
+really to be gained from this change so
+I don't think um that this is something
+that should really be in the game and
+I'd urge you to go over to the bug
+tracker if you agree with me and give it
+an up vote and let the guys at moyang um
+see that this issue is perhaps something
+that should be resolved obviously it's
+going to be in their hands it's their
+decision and I also want to say a big
+thank you to mango for bringing this to
+my attention um he was very kind to do
+so and of course this is something that
+is going to benefit the Redstone
+Community if we get to keep it rather
+than have it changed and that is it for
+me this video by the way it's the first
+one I've recorded in my new place my
+sound might be a little bit echoey you
+can probably hear that now that I've
+mentioned it and that'll get fixed soon
+I hope but anyway that's it if you've
+enjoyed the video leave a like as always
+thank you for your support go over to
+the bug tracker do the up voting and I
+will see you later today when we live
+stream CIA for now bye-bye

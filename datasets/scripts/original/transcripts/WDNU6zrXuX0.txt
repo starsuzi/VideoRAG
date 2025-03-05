@@ -1,0 +1,79 @@
+hi I'm Jimmy welcome back to another on
+the road video with Appliance video.com
+[Music]
+stop before beginning any repair always
+be sure to disconnect the power to the
+Appliance it is also recommended to test
+the outlet for proper
+voltage tools needed for this repair is
+a putty knife a tack puller or flat
+blade screwdriver and a/ Quin nut
+driver okay what we're on is a Whirlpool
+topload washer what it's not doing is
+it's not uh finishing Cycles so what
+we're going to do is start with in
+diagnostic mode the way you achieve that
+is you go clockwise or counterclockwise
+once and then clockwise three clicks
+counterclockwise one click back to uh
+counterclockwise one click and then to
+put it in um to see what the fault codes
+are you're going to uh rotate it until
+it says done and then you hit the start
+button and then you rotate another click
+to see if there's any fault
+codes and right now there is no fault
+codes in this machine what we did is we
+reference a service pointer on this
+particular model and uh what that
+indicates is that the board uh
+programming is bad so what we're going
+to do is uh replace the board today
+first I'm going to remove a screw in the
+back it's a/ Quin screw then I'm going
+to take the knob
+off I'm going to take a putty knife and
+I'm going to there's two clips I got to
+release those clips so I
+can the
+console tip it back and then here's the
+board so I can replace
+it okay to replace this board first what
+I'm going to do is I'm going to take all
+the the connectors off
+I'm going to remove the two screws from
+the side
+to remove the
+board now with the new board we're going
+to install it you put your clip in
+there put the two screws back in and
+then you start hooking up all your
+connections they only go one way so
+there you can't mess them up
+okay what we're going to do is put the
+console back on what we do is rotate it
+put the Clips in the holes and then push
+down and now it's attached all we need
+to do now is put the knob back
+on and the screw that we took out from
+the
+back now we're going to put it back into
+diagnostic mode and we're going to
+recalibrate after doing the board it's
+very important that you do this so again
+you rotate it counterclockwise once
+clockwise three times counterclockwise
+once and clockwise one
+more and to put it in calibration mode
+what you're going to do is you're going
+to rotate the knob until only the rinse
+light is displayed you hit start it's
+going to take 3 to 5 minutes for the
+calibration mode to uh complete
+[Music]
+and with that calibration is completed
+and this will finish your
+repair thank you for watching another
+quality video brought to you by
+appliancevideo.com
+[Music]

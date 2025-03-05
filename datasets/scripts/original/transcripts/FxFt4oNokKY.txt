@@ -1,0 +1,245 @@
+hey everyone my name is Ola and today
+I'm going to show you how to make an
+animated sail in blender and this is not
+a b tutorial so I'm just going to make
+the Mast and the sale and I'm going to
+show you how to uh control it so let's
+get started I want to start off by going
+to the top view npad 7 and then left
+click to add a 3D cursor and the 3D
+cursor is the place where the object is
+going to spawn so I'm going to add a
+cylinder and I'm going to scale it down
+with
+s let click s to
+scale and scale it down to the size you
+want and I'm going to go to uh y frame
+to see through it and I'm going to grab
+it upwards so G set to grab it on the
+set axis and you can scale it down a
+little bit more with
+s
+and let's go to solid
+mode and now I'm going to start editing
+the cylinder itself so we're going going
+to go to edit mode and that way we can
+extrude on the set axis to make it uh
+taller so select top face go to face
+select and to make it taller you can
+both click G set to grab it on the set
+axis but you can also make a new
+face and click e set to extrude it on
+the set axis so there are two different
+ways to do
+it now have the
+Mast and if you want to make the whole
+Mast thicker or
+thinner you can
+always click a to select everything and
+click s shift set so that you only scale
+it on the X and the y axis so that you
+make it
+thinner now you can click g y to grab it
+on the y- axis to move it forward and
+backwards on the
+boats
+and now I'm going to left click to add a
+3D
+cursor to add a new cylinder which is
+going to hold the
+flag so add a new
+cylinder and I'm going to rotate the
+cylinder so click R y90 to rotate at 90°
+on the y axis and click s to scale it
+down now I'm going to scale it on the
+x-axis to click
+SX to scale it on the
+xaxis to make it
+longer just make sure that the middle is
+uh on the other
+cylinder okay so now that the very basic
+M we just made is done we're going to
+start adding the sail itself and we're
+going to use a plane to make saale and
+click rx90 to rotated 90° on xaxis
+and grab it on set axis G
+set and we're going to start scaling it
+to fit it on the uh M itself so click SX
+scale it on the
+x-axis and I'm also going to make it
+longer downwards I'm going to go to edit
+mode select the lower Edge and grab it
+on the set axis so G set to grab it on
+the set
+axis okay okay the next thing we are
+going to do is to click controlr to add
+a loop cuts that way we can make the uh
+sail a little bit more baggy click G
+then
+y to grab it on the y-
+axis and you might as well grab it on
+the set axis as well if you want
+to just to give it a baggy
+effect because if it's completely flat
+it's not going to be very baggy because
+it's not big
+enough when we make the sale
+simulator Okay click a to select
+everything and click W to
+subdivide and bum pump the number of
+cuts to
+about
+20 and now that we have all the
+subdivisions we're going to select the
+um
+pinning points that we're going to add
+to the sale simulator and these points
+while holding in shift to select are
+going to be the points that are going to
+stick when we have a class
+simulator so that when we add wind those
+points are not going to
+move you can also select uh these verses
+by clicking
+C and select them that way instead of
+right
+clicking
+okay now I have all the points we needed
+selected so now we're going to add a
+vertx group so go up here in the
+settings and add a new verx group and
+click
+assign and now we're going to add a CLA
+simulator go to the
+top and maybe you should go to the
+object mode first and then click
+cloth and now we're going to add a
+pinning and the pinning are the verx
+groups so the points that are going to
+stick when we add a
+simulator
+so before we start baking we should add
+in Wind as
+well and to add wind you click shift a
+and then click
+wind okay so after you added wind just
+make sure that the wind turns towards
+the sail
+and then grab it a little bit away from
+it and rotate it towards the sail again
+and bump upm the strength
+to
+about
+400 and that should be
+enough okay so now we have the sale we
+have the wind so now we going to
+start calculating the simulation and the
+way to do that is to go to the sale
+itself select
+it so right click to select and go to
+solid mode to see how it
+looks and now we are going to go down in
+the
+settings and click
+bake now it's calculating and after it's
+done you go to the first frame and then
+click play
+as you can see now we have a uh moving
+sale and after you have calculated you
+can always go back and free the bake and
+change the
+settings so if you're not happy about
+something in the
+simulator you can always for example
+change the noise change the strength
+change the weight of the
+sail and just make it look different
+give it a different look so go back to
+the sale
+now now to make it better looking you
+can always click smooth to make it
+smoother
+and give it a nicer
+look and now I'm going to add a new
+simulator with a new settings we just
+added so go down to the
+settings and free the
+bake
+so if you just scroll down free bake and
+bake
+again and after I've speed it up I go to
+the first
+frame and
+again we have the
+sale and now what I'm going to do is to
+start animating the boat itself so that
+the sail is following the
+boat and the way to do that is to start
+parenting the s to the Mast and the Mast
+to the
+boat so first select the sail and then
+select the uh M and click control p and
+set parent
+two and I'll click that one select the
+main m contrl p set parent to
+object and do the same with the main
+M select the
+boats
+afterwards and and click contrl
+P now the m and the sail is following
+the boats when we animate
+it so I'm going to select the
+boats and Click N to get up the
+coordinates and click I to key frame so
+I I and I move forward in the
+timeline let's say the frame
+250 and click G
+then y to grab it on y-
+axis and then click I I I and I
+again and if you go to the graph editor
+click T and click linear the animation
+will have the same speed at all times
+instead of speeding up and slowing down
+which looks often a lot
+better okay so free bake
+again and click
+bake now it's going to calculate the
+animation with a boat moving and as you
+can see it works now I didn't add any um
+ropes in this
+tutorial but I think you can make that
+yourself you can make if you can make a
+good boat you can obviously make some
+ropes there a lot of tutorials out there
+on ropes so you should be
+okay okay so now I'm going to show you
+one more thing before the tutorial is
+over and that is how to rotate the
+m so that the sail rotates while the
+boat is moving so I'm going to select
+the M go to frame one and I'm going to
+start key framing the rotation of the
+MS so go up here click I I I and
+I move forward a few frames I'm not
+going to move it or rotate in the first
+frames so I'm just going to have the
+same
+values and now now if I go to the one of
+the last frames I'm going to rotate it R
+set on the set
+axis like this so I rotate it and click
+I I I and I again the key frame the
+coordinates and the
+rotation and now we have a rotation the
+m so now I'm going to select the sale
+again click free bake and bake again
+and after the calculation is done we can
+see how it
+looks as you see the sale follows the
+rotation of the masks so the animation
+is
+working and that's it for this tutorial
+if you want to see more tutorials in
+this format just go to my channel I have
+a lot of tutorials so thanks for
+watching

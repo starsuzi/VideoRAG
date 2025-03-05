@@ -1,0 +1,262 @@
+hey what's up guys in this video i'm
+going to show you how to cite a tweet
+in mla and apa style
+for this example i'm going to get a
+tweet from president obama's twitter
+page
+you can get all the information you need
+to
+cite a tweet from the tweet detail page
+which you can get to by hovering over
+tweet
+i'm going to use this one right here and
+clicking on expand
+you might not see the the expand option
+if
+the tweet has media in it like an image
+or video
+like these two tweets here but if you
+don't see expand just click on the tweet
+box to expand
+it and that'll expand the box and then
+you can click on details
+now that'll take you to the unique tweet
+page and from here you can copy the
+tweet which i'm gonna do now
+and note that you'll have to copy the
+entire tweet
+for both apa and mla style
+from here you can also copy the twitter
+handle which in this case
+is barack obama the name which in this
+case is barack obama the date and the
+time here at the bottom
+and you can also copy the unique tweet
+url
+which is different from the twitter feed
+page url
+and you'll need the unique tweet url for
+the apa references page what you don't
+have to worry about
+is including page numbers because tweets
+don't have page numbers
+so let's take a look at how to use all
+this information and let's start with
+in-text citation i'm going to go to my
+sample mla document here for in-text
+citation in mla you simply need to
+provide
+the author's last name either in the
+text
+as you introduce the quote or in
+parentheses
+after the quote so in my first example
+here
+i write in september president obama
+and then the tweet would go here where
+it says tweet goes here in my example
+i'm going to paste the tweet that i
+copied using paste special
+i'm going to select unformatted text and
+that pastes my tweet i don't have to do
+anything else
+but you do have to include quotes so the
+tweet has to be inside quotations
+and the period goes um after the quote
+and before the the closing quotation
+mark
+if i don't mention the author like i
+have in this second example here
+in september the president tweeted so i
+would
+put my quote right here my tweet i'm
+going to
+actually i'm going to go back and copy
+this tweet so
+i don't have to keep um using
+paste special i'm going to paste that
+here
+using ctrl v and for this example i do
+have to include
+um obama's last name in parentheses
+after the quote
+and before the period so the period
+comes after the parenthetical entry
+now let's take a look at how to do the
+same thing in
+apa style the american psychological
+association
+hasn't yet established strict guidelines
+for citing tweets
+but on the apa blog and let me go there
+actually
+to show you tweets
+it's like the first thing that shows up
+when you write apa site
+tweets in google um on this blog page
+um chelsea lee provides guidelines which
+i think are pretty good
+so for this tutorial i'm just going to
+follow her lead
+i'm going to go back to my document here
+according to lee
+instead of writing the author's last
+name in parentheses
+in apa style you write their twitter
+handle
+followed by the year the quote was made
+so if i do include the author's last
+name in the body of my text
+i only have to include the date in
+parentheses like i have
+in this first example i write in
+september president obama
+and i follow that by the year in
+parentheses tweeted
+and so my tweet would go here inside
+quotation marks
+i'm going to paste it with ctrl v and it
+gives me that little space at the end
+i'm not sure why
+um but the the year when you do mention
+the author's name in the body of your
+text
+goes after um
+the the author's name not after the
+tweet
+so just keep that in mind for apa style
+if you don't mention the author in the
+body of your text
+so you might have something like in
+september the president tweeted
+and again the tweet goes right here
+then you include the twitter handle
+which is barack obama in my example
+followed by a comma and the year inside
+parentheses
+and the period goes after the
+parentheses not after the quote
+and that's pretty much it now let's look
+at the
+mla works cited page and the apa
+references page
+so the format for mla is last name comma
+first name
+followed by the twitter handle in
+parentheses followed by a period
+and then the tweet inside quotation
+marks
+and then followed by the date in the day
+month year format
+followed by a comma followed by the time
+and then followed by the word tweet so
+this is the format right here
+what i have right here is the format so
+how would it look
+in a real entry so i'm gonna just paste
+my tweet where
+the tweet belongs so it would look like
+this
+obama comma barack and then the twitter
+handle in parentheses
+and then follow that by a period then
+the tweet inside quotation marks
+and then the date today is actually the
+fifth so uh
+let me change that up and then the time
+let me actually go get the real time
+here it's actually 307 pm
+so i'm going to change that to 307 and
+then the word tweet
+followed by a period and that's pretty
+much it for the
+for an entry in a works cited page for
+an entry
+in an apa references page the format is
+a little bit different
+it goes twitter handle followed by a
+period
+followed by the year in parentheses and
+it goes year
+comma month and day and then follow that
+by a period
+and then the tweet without quotation
+marks
+followed by the words twitter post
+inside brackets
+and then followed by a period and then
+you write retrieved
+from and you include the tweet url
+so an example would look like this
+barack obama
+which is his twitter handle followed by
+a period
+followed by the date inside parentheses
+just like you see here today's actually
+the fifth so i'm going to change that
+so it's a year comma month day
+and again by a period followed by a
+period and then the tweet goes here
+so i'm going to paste my tweet and
+that's followed by the words twitter
+post
+inside brackets and followed by a period
+and then you write retrieved from and
+here i would include
+the tweet url so i'm going to go back
+and get that
+and remember that the tweet url is
+different from
+the twitter feed page url so i'm going
+to
+just control v this url here that gives
+me a space i'm not really sure why
+so the last thing i want to point out is
+that for both mla
+and apa style you would have to include
+these
+entries with a hanging indent and that
+means that the first line is flush left
+and subsequent lines are indented half
+an inch and you can do that in writer
+i'm going to bring up the styles and
+formatting window by pressing f11
+i'm going to select both of these
+entries
+i'm going to hold the ctrl key to select
+both these entries
+and i'm going to use the hanging indent
+style the hanging indent paragraph style
+and i'm going to modify this style real
+quick to include a hanging indent
+so the first for in the indent and
+spacing tab
+i'm going to set the b4 text to 0.5
+inches
+and that's going to force the entire
+block of text to be indented to half an
+inch
+and i'm going to make sure the first
+line is flush left by
+negating that indent with a negative 0.5
+inch
+indent and the last thing i want to
+point out is that if you're writing
+these papers for school you would
+probably have the line spacing set to
+double
+i'm going to leave it alone at single
+because this is just an example
+anyways now i'm going to click ok and
+that doesn't do anything because i
+haven't applied my hanging indent to
+these
+two um pieces of text yet so i'm going
+to double click on hanging indent to
+apply it
+and that's it and you know make sure
+that the first line is flush left and
+subsequent lines
+are indented half an inch and that's
+really all there is to
+setting tweets in mla and apa style

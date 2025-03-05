@@ -1,0 +1,213 @@
+this is Scott The Fixer guy we have a direct-drive 
+washer series 80 this one is made by whirlpool and  
+it is not going to spin this is a very common 
+problem with this type of machine with many  
+front-loading in top-loading washing machines 
+their failure to go to spin with this machine  
+it could be due to three possible causes one 
+is that the drain pump is clogged the machines  
+clogged it's not able to get all the water out 
+of the spin basket that's the case so yeah we're  
+looking in here this one does have some water 
+remaining the machine can't get all the water  
+out it's just too heavy and the machine will 
+have trouble reaching full spin to get a drain  
+problem most common problem with this type of 
+machine is the lid switch ends up breaking or  
+not functioning you should be able to lift the 
+lid up and down and hear really loud audible  
+click that's a sign that your lid switch most 
+likely is working and is functioning properly  
+so in this case we probably have a functioning lid 
+switch by the way it sounds the other possibility  
+is a broken rubber coupling which we'll get 
+into here and another repair soon that's a  
+result of the machine being loaded too heavily 
+so we assume that we have a broken coupling we  
+need to take the cabinet off to do that it's 
+pretty easy what we'll do first is just remove  
+this upper console with a couple of Phillips head 
+screws one here in the corner one over in this  
+corner and the more modern direct drive units 
+those same Phillips head screws are actually  
+going to be back here in the corner behind the 
+console on both sides both times pretty easy to  
+remove it's going to make sure we unplug this 
+unit first always safety is our primary concern
+got that plug now we're going to use screwdriver 
+to take out the screws for the speed we'll be  
+using that driver which is a little bit quicker 
+so this again is one of the easiest machines to  
+work on because whirlpool designed it to be very 
+simple and modular everything comes apart a quick  
+and easy way these both clip screws come out pull 
+those out set those off to the side it's very  
+important to keep all the fasteners that you take 
+out put them off to the side where you know where  
+they are trying to keep a mental note of how they 
+came out which ones came out first next thing we  
+do on this machine is to pull the console toward 
+us slightly and then lift up that releases some  
+little dogs ears underneath we can see here's 
+one here's one they fit into these holes right  
+over here so clever way to put this all together 
+looking now at the console lifted we can see the  
+backside of the timer which is the brains of the 
+operation tells the Machine when when to do its  
+different functions this is the motor controls 
+the timer here we have the water level sensor  
+this tube right here brings the column of air up 
+as the water fills into the unit presses it on a  
+diaphragm which closes a switch and tells the 
+Machine that it's time to go to the agitation  
+cycle this is a very important part of the washer 
+is its ability to tell the proper water level we  
+also have the water temperature switch over here 
+very simple parts we also have a schematic built  
+in which is really nice for technical people 
+to be able to see how the electrical circuit  
+works now the next thing we'll do to remove the 
+cabinet is we're going to remove the lid switch  
+modular connection here by just pulling this 
+tab towards you and then you can wiggle it up  
+comes right off that was this connection next 
+thing you can take a standard head screwdriver  
+and remove these ingenious clips that whirlpool 
+came up with which helped us to quickly remove  
+the cabinet we're just going to push standard 
+head screwdriver down in and then use this as  
+a lever pull back that clip comes up then you can 
+just slip it out of this little slot here put that  
+off to the side we have another one over on this 
+side put that screwdriver in position I'm going  
+to push back clip comes up you got that clip out 
+now pretty easy to take off the cabinet at this  
+point everything has been disconnected and what 
+we'll do is open up the lid and then we're going  
+to pull the cabinet toward us at a diagonal once 
+you have it up at a diagonal lift the cabinet up  
+and out of the way to remove the lift switch once 
+we've removed this cabinet from the main chassis  
+what we'll do next is remove two Phillips head 
+screws that are holding it in position they are  
+right here and right here by the way if you ever 
+have to get your machine just to work until you  
+can get the part you just want to work for a 
+while if you press in on this panel to hear it  
+click a broken lid switch won't click but pressing 
+a little further down often will allow it to go to  
+spin just until you can get the popular part the 
+reason they have this lid switch is they trying  
+to prevent a young person from opening this lid 
+during high speed spin and reaching in and trying  
+to grab something because the machine is powerful 
+enough work really hurt the hand even rip the arm  
+off so it's a safety device never good to bypass 
+this switch so now we're going to remove these two  
+screws which are the ones holding the lips lips 
+inflate and a long one we have one over here same  
+thing there we go and then the next thing we'll do 
+to get better access to the lid switch itself is  
+we'll join the cabinet upside here one other piece 
+we want to remove here since we've already got the  
+Phillips head screws removed from this part of the 
+lid switch is we also want to remove this modular  
+connection exists here at the top this is done by 
+pressing in on the sides we have one here and one  
+here that we can press in on we should be able 
+to wiggle this out of the sheet metal connector  
+I want to get a standard head screwdriver 
+to give you a little help so you can see
+pushing it on that tab pushing it on the other 
+tab and then that allowed us to push it down  
+through now we can turn it upside down okay 
+here we have our cabinet turned upside down  
+we can see this is the modular piece that used 
+to fit through this hole here that we pulled out  
+and here's the lid switch itself which is now 
+pretty much ready to come out we just have to  
+remove this little ground strap here with which 
+is a that's a 3/8 3/8 inch drive I'm going to  
+put our drive on there change to different size 
+okay so we're just removing this screw which is  
+on that ground strap and that will allow us 
+now to remove the lid switch we've got that  
+out wires free switch is still connected by a 
+little spring clip there that holds a plastic  
+tube in place and there's another spring clip 
+here at the top it's pretty easy to get those out
+you should just snap free under a little bit 
+of pressure okay so we have the lid switch  
+now removed from the cabinet pull that out 
+we have the switch itself here and it has a  
+paddle on it and this paddle push down should 
+have a clicking sound sometimes what happens  
+though is that the seam here on the side 
+breaks glue fails and then it won't click  
+properly anymore won't allow this machine to go 
+to spin so that's happened we just need to put  
+in a new lid switch and pretty much the reverse 
+of how we took it out three straightforward so  
+we are going to put our switch back in this 
+one seems to be working well another option  
+is to do a continuity test if you have a multi 
+tester you just take this modular piece here  
+on the lid switch you put one of your leads on 
+this one here on the side and the other one on  
+the other side nothing little though one on the 
+side one on this side and then press down on the  
+lid switch and you should see a change in the 
+reading on your meter or if you have it set to  
+audible you should be able to hear a beep meaning 
+the electrons are able to flow through the lid  
+switch we've done that with this switch already 
+we've been able to determine that it is working  
+so you need to put in your new switch or in this 
+case this one's functioning we'll put this back in
+oK we've got this lid switch back into position 
+I'm just going to connect this ground strap just  
+putting the bolt back in through the washer 
+and then back into the hole tightening that  
+down and also we're going to put this modular 
+connector back through that hole it is modular  
+so it's going to be pretty easy we'll just put 
+it in proper side you should be able to kind  
+of wiggle it in wiggle it into position until it 
+locks there we go so that one's done tighten this  
+up put the cabinet back on and we'll be done okay 
+we've got our cabinet back in position and hook  
+up our modular connection for the lid switch 
+which is pretty easy just put it in position  
+press till it clicks our clips let's go put one 
+line here and push that in top clicks this one  
+same thing hooks in behind that in position push 
+down until that one clicks okay we got that next  
+thing is to put the console back into position 
+and to do that to bring this down and we're just  
+going to try to line up these low dog ears again 
+one over here just two guys put it on the other  
+side all right and then we're just going to push 
+in so we know that's locked shouldn't we lift up  
+console shouldn't be able to lift we know that's 
+in we're going to put in our Phillips head screw  
+each corner this corner okay and we'll tighten 
+those up careful not to go too tight on this  
+part because it can break and here's the other 
+this one had been broken before we got 50 buddy  
+there we go all right we're going to make sure 
+this guy go to spin just got to plug it back in
+we know we have a healthy lid switch in 
+there now powers on set it for spin pull back
+you're a draining system working open the 
+door should the lid should stop right away  
+we can see that it was spinning and if 
+you ever want to inspect it you can use  
+a screwdriver just to push down on the lid 
+switch itself see they're taking it to be  
+pretty quick sign of a healthy motor 
+public pledge help these fences down  
+the water and very important never reach in 
+here at this high speed spin very powerful
+and we have a fully functioning washer again  
+it's just gotten the fix-it guy and 
+that's our repair for today thank you

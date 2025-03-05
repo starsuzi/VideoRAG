@@ -1,0 +1,142 @@
+hi guys my name is sumair and welcome to
+matt's workshop today i'm going to make
+a 30x incubator
+manual incubator so that's starting from
+the sizes this is a door which is like
+13.5 inches to
+one feet 12 inches and this one is
+16 inches by 5 inches of two pieces
+and this one is 5 inches by
+12 inches of two pieces and this one
+is for the panel and it is one uh
+12 inches by four inches
+and for the back side i'm going to use
+this hard board
+i'm going to make holes for
+this one this part small part of the
+side so let's make it only
+sides are ready now i'm going to put the
+panel over here first of all
+now it's time to put the bag on it
+alright so our body is ready now i'm
+going to put
+the door so i'm using this
+hinge
+all right i'm using this cover line for
+the edges of the
+this box
+so the box is ready fully ready and
+we need a milk holder bulb
+and a 220 filling
+and this is w1209
+thermostat temperature controller
+so let's start this
+first of all
+[Music]
+from this measurement
+which was one wire i operated it from
+the center and it come to two
+i haven't touched that wire
+and it is going to be in
+this folder right here
+all right so i have
+started it inside of it
+this edge of the wire will be attached
+to
+this one plug
+and this wire is going to be
+those two wires are going to in the k 0
+and k
+1 of it folder inside of the panel
+there it is
+from which the relay wire will be come
+out from the first one
+[Music]
+and this thing i am going to power up
+this
+circuit it works on 12 part so
+obviously i have to make another wire
+and put it right back
+for the 12 part uh i'm using this coil
+for
+one or two amperes adapter
+and i'm going to connect this edge from
+here
+and i'm going to power this
+and this fan both from this adapter
+so i have to make two of the wires
+to be attached like this
+all right so the 12 volt power is ready
+i'm going to connect this to this one
+and it will be outside and it will this
+one will be
+power this and this one will power the
+[Music]
+fan
+i have put this fan on the stick and i
+have
+kind enough with the zip ties and the
+bulb is over here
+it's not touching any surface so
+i have cut it out these parts by
+measuring inside of the
+and it will be inside of this it will be
+a tray where the eggs will be
+put it up
+it will be sitting on it like that so i
+am going to put it over here
+two of them like this way and it will
+[Music]
+turn
+is ready i'm using this aluminum
+metal tape for putting up the water so
+you have to put the water in here so
+there's the
+heat source and this is the fan is going
+to suck up
+all the heat being uh make here and it
+will
+throw it over here as soon as it will
+hit this
+it will create a worm and it will create
+a humidity and it will turn on over here
+and there will be a x over here
+and the sensor will be over here with
+the x
+and one last thing we have to do is to
+make some holes for
+the fresh air to get in
+so the
+spot where i have to make the hole is
+over here because
+this part we have a fan and we'll suck
+a fresh air and gather the heat
+and it will grow over the eggs so this
+is the part where i have to make some
+holes
+one time it is 50
+always 38
+and press the set button until you get
+p0
+and you get the p0 and press the set
+again it is cooling
+i have we don't want cooling your part
+it's
+hot right now and again we are going to
+p1
+i am going to put it p
+over here let's see what's from here
+bulb is on it have
+forced the bulb to be on
+when it reaches 38 it will turn on the
+heat source
+when it reach 37 it will turn on the
+bulk
+again so let's see it is working
+perfectly
+[Music]
+thank you
+the very best included if you want to
+make so if you like the video please
+like share and subscribe
+have a nice day bye

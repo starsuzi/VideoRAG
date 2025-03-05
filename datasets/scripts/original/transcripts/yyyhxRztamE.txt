@@ -1,0 +1,212 @@
+there's quite a large quantity of people
+watching this video right now who do
+their smelting a little bit like this
+they've just got some furnaces that kind
+of dotted around inside their base and
+then they they open it up they chuck in
+some coal and they're like oh i need
+some smooth stones so i'll place that in
+there and i need i need a little bit of
+glass so maybe just a tiny bit of coal
+and a tiny bit of sand you guys get the
+idea nothing is automated everything is
+done manually now for those of you who
+are a little bit more advanced you might
+have something that looks a tiny bit
+like this we've got our furnaces once
+again exactly the same situation but now
+you can place in all of your items up at
+the top and you can place tons of items
+in and they all flow into the two
+furnaces and then we can also place in
+boatloads of coal in this area right
+here and they will also flow into the
+furnaces and then any items that are
+smelted will flow out through these
+hoppers and down into this bottom chest
+it's a tiny bit more advanced but things
+can definitely improve so this rather
+boring looking line of furnaces right
+here is going to be transformed into a
+super fast super smelter which will
+allow us to smelt six different items at
+exactly the same time and i have to say
+there were far too many s's in that
+sentence right there we're going to
+start things off by placing the hoppers
+that go into the top they're going to be
+dropping in all of the items then we're
+going to have a line of hoppers running
+across like this which is going to
+transport the items down the line so it
+actually drops into each one of our
+furnaces now this right here is going to
+be the input chest for the items you
+want to be smelting and out the back
+we're going to have a comparator output
+from this hopper right here which is
+going to go into this block with a
+redstone torch on the side and then a
+repeater facing across like this with a
+line of blocks
+and then some redstone on top which is
+going to be locking all of those hoppers
+underneath and then we pretty much want
+to repeat exactly the same thing on the
+other side so we're going to have a
+bunch of hoppers running into the sides
+of all of those furnaces right there
+then up at the top we're going to have a
+block and then a line of hoppers once
+again and we're going to take a
+comparator output running out from this
+hopper which is going to go out into our
+block with a redstone torch right there
+and then a block with a repeater and
+then redstone dust running all the way
+across like this so that is all of the
+coal circuitry and you can place in a
+chest for all of your coal and then at
+the bottom we're just going to add in
+another chest right here and we're going
+to place in a line of hoppers and that
+will do it
+there is your super smelter all done and
+dusted we now have six furnaces that can
+work in unison now i know that this
+design is incredibly simple but i
+promise you it actually works really
+quite well if we place in all of the
+items up in the top chest and then we
+place in all of our coal in this chest
+right here you will see that the
+redstone occasionally switches off so
+the redstone switches off there and then
+flicks off there and it does it every
+now and again and that is because the
+way that this system actually functions
+is the items travel across in all of
+these hoppers so you can see the items
+will make their way across and then once
+they do when the final item hits this
+hopper right here it powers the
+comparator which actually unlocks all of
+these hoppers allowing all of the items
+which there will be one in each one of
+the hoppers to drop down into these
+hoppers and then they'll drop down into
+the furnaces so you can see we've got 11
+and 11 we've got 12 and 12 12 and 12 12
+and 12 12 and 12 and so on and so forth
+you have a completely even distribution
+between all of the furnace which means
+that this thing is really really
+efficient but just because it's
+efficient doesn't mean that we can't
+make it more efficient by adding more
+and more furnaces so let's try working
+that one out so i guess the most obvious
+place to start was to extend out our
+entire system to the maximum length of
+this redstone line right here so no
+circuitry changes have happened i
+haven't changed the way that the system
+works or anything like that i've just
+extended it so now we have 15 furnaces
+as opposed to six furnaces now
+everything seems to be working quite
+smoothly everything is still being
+separated out perfectly and all of the
+items are flowing in incredibly quickly
+into the chest as you can see right here
+but i have spotted one slightly strange
+issue which is this furnace
+it just it never fills up that being
+said the system is working very nicely
+14 furnaces working all at once leads to
+a very efficient and quick smelting
+system
+but i i feel like we can do much better
+than this
+yeah let's let's increase the size a
+little bit well that was a fairly simple
+improvement i mean we've just got twice
+as many modules we have this chest in
+the center we chuck in the items and it
+will get sorted out between these two
+hoppers right here and it will
+eventually make its way down into the
+system i mean
+it's pretty good isn't it
+like that is a really really simple way
+to get how many is that 28 furnaces all
+working at once
+28 furnaces all working at once
+i'm interested to see how fast this
+thing actually is
+because it's got to be rapid when they
+start flying in you look they're coming
+in two at a time
+that's pretty good
+that's pretty good i think
+i kind of want to experiment with
+something and here it is this little
+system right here will separate items
+from a double chest into four separate
+hopper strings you can see we've got one
+line of hoppers running off like this
+one line of hoppers running down there
+one running down there and one running
+off in this direction and that's all
+thanks to these hopper minecarts so if i
+dump in a bunch of coal into this large
+chest first off you'll see how fast the
+items actually get removed but also you
+can see that we have coal there coal
+going through there we've got coal going
+through there and coal going through
+there as well feeding into all of our
+different systems so if this thing works
+correctly which by the look of things it
+does
+we should have
+14 14 14 14 that's 28 times 2 which
+means we've got 56
+furnaces active all at once
+56
+it looks like it's about as fast as
+hoppers can manage
+it's constant we've managed to make a
+constant furnacing system
+look at this thing
+oh i so need to get one of these on the
+hermitcraft server
+it doesn't stop
+there's a backlog there is a backlog of
+items running in
+how insane is that
+that is completely bonkers it's actually
+too fast for hoppers to handle and with
+that ladies and gentlemen i think we're
+going to call it a day i mean this is
+this is fantastic and not actually
+that expensive you could easily build
+this in survival mode i personally could
+build this in one episode of hermitcraft
+for sure and that is definitely
+something that i'm going to be doing in
+the future because it is spectacular and
+well i kind of want to set up like a
+glass shop or something i mean imagine
+how imagine how easy that would be it'll
+be like three freaking diamonds anyway
+ladies and gentlemen i hope you have
+enjoyed this little video right here if
+you did please rule to that like button
+and if you really loved it then make
+sure to subscribe but thanks for
+watching guys this has been mumbo and
+i'm out i'll see you later
+[Music]
+[Music]
+you

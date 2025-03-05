@@ -1,0 +1,216 @@
+hi welcome to how to repair this video
+is on washing machines that start and
+then stop either mid cycle or at the
+beginning of the program when you press
+the start button the lights may go out
+or it may be going through the actual
+program and then it cuts out now this
+can be a fault with a door lock you can
+see all about this in our other videos
+or it may be a problem with the actual
+printed circuit board now we're going to
+show you how to take this printed
+circuit board out inspect for connection
+faults which is one problem you may also
+have a dry joint on a circuit board that
+could be the other problem or thirdly
+you may have a component failure it is
+possible that either resistors have gone
+uh capacitors are a common fault on
+these circuit boards and there are some
+other chips that we'll show you in the
+video which may have
+failed I'll just simulate the fault for
+you here uh we turn the machine on the
+dial takes couple of seconds to come on
+and we'll change it to display a 30
+minute
+wash now we'll shut the
+door Press Start you will hear the
+machine actually start pumping out but
+when it comes to turn the motor the
+actual loading on the circuit board is
+kicking
+out as you can see here in a
+second and the display actually goes off
+now if I turn the on off uh off and then
+put it back on it will light up again uh
+but it keeps cutting out now this is a
+good sign that it's a possible fault
+with the circuit board so before doing
+any work on the machine always unplug
+the appliance from the electricity
+Supply as I said earlier there could be
+a fault with the door lock it's worth
+checking first uh also there's a
+suppressor usually at the back of the
+machine uh sometimes this can be damaged
+but predominantly it's the circuit board
+fault now there are many chips that can
+actually go wrong on a circuit board uh
+you've got capacitors resistors
+transistors you've also got some relays
+on the board triacs and some other chips
+which go wrong but before disconnecting
+the electrics it's always worth taking a
+photograph of where all plugs go
+although on most circuit boards they can
+only go in one position but it's worth
+taking a picture to make sure you do it
+right and don't wire it up wrongly
+after now the circuit boards can either
+be mounted behind the facial panel and
+on this model it's on the side of the
+machine it does vary from manufacturer
+to
+manufacturer but we've got the circuit
+board out and the first thing I spot on
+the circuit board here is one of the
+capacitors is bulging if you compare
+that to this one
+you can actually see that the capacitor
+is got a domed head on it this is a good
+sign that the capacitor has gone there
+are many chips that can actually go on
+the circuit board dodes resistors
+transistors it's worth checking all the
+small capacitors on the board you will
+normally get visual signs that they're
+gone you may have to use a magnifying
+glass we can physically see that the
+capacitor on this one is gone this is a
+link switch which is very common to go
+you have to look closely around with
+magnifying glass and these are the
+switch relays that control things like
+the heater at the top of the board here
+you can see some other resistors and
+dodes it's worth going around visually
+inspecting all these but once you've
+done that you really have to uh take the
+board apart and sometimes you will need
+to
+desolder uh chips to actually test
+them we test them with a capacitance
+resistance meter which I'll show you in
+a second these can be bought quite
+cheaply I put some links on the website
+uh to the Pacific testing tools you need
+we're using a desoldering station here
+I'll also put a link onto that as well
+uh on the web page you can find the link
+above but you need to desolder the Capac
+capacitor first now we can physically
+see that it's got a domed head the new
+one is exactly the same uh microf faren
+and voltage but it is slightly smaller
+technology has moved along and things
+get
+smaller now with the tester we connect
+up the good one and as you can see we've
+got
+1,2 and this capacitor anyway had I
+think it's 5% uh tolerance rating so
+that within the parameters but we'll
+just test the old one
+here and as you can see in a second
+we've only got half its power showing
+we've got
+506 uh microf faren showing so that
+capacitor is definitely down and when
+you're fitting a new capacitor on the
+circuit board you should see a plus and
+a minus the minus is normally showing on
+the side of the
+capacitor the longer leg egg on the
+capacitor as well is normally the
+positive and just fit it into the board
+turn it
+over and now you need to solder it
+on with these test meters for checking
+uh dodes resistors and
+capacitors um they're very useful for
+checking all the chips on the circuit
+board to make sure that they're correct
+readings sometimes you will need to
+desolder the old chips uh to take take
+them off to test them because you won't
+be able to test them in line but the
+effort is worth it when you consider how
+much a new circuit board will cost you
+and you've you stand a good chance of
+being able to repair the board
+yourself and the desoldering Machine is
+absolutely brilliant for uh getting the
+chips off the uh circuit board
+themselves although you can use
+desoldering wire um these desolder
+stations aren't that expensive and as I
+said I'm just replacing these two
+capacitors as well while I'm doing the
+job um just out of caution more than
+anything uh they can go uh
+so I've seen a lot of these different
+capacitors fail over the years and it's
+well worth you know for the few pound it
+costs to uh change
+them now at the website you will find
+lots of videos on checking things like
+relay switches
+uh also dodes resistors and also every
+other type of washing machine repair so
+if this is not your fault there are
+hundreds of videos on the website to
+guide you in the right direction for
+finding the fault on your
+Appliance when reconnecting the circuit
+board it's well worth going back to the
+photograph you took at the beginning to
+make sure that you double check all your
+plugs are put in the correct Place make
+sure all the connections are good
+and there we go we'll have this fitted
+in a
+second now that we've put the machine
+back together we'll just try the machine
+same again on the 30 minute cycle Press
+Start still takes a couple of seconds
+for the LED to come on we've got it set
+to the 30 minutes we'll just press
+start the door lock should engage you'll
+hear a slight
+click that was the click on the door
+lock the machine's now
+in and in a few seconds or so we should
+have some motor action and this is where
+it was kicking out before and the
+display was going
+dead so we'll just wait for the machine
+to fill with
+water and there you go the machine now
+is turning so for the cost of a few
+pound in components and the effort it
+actually takes to strip the board down
+and have a look it's well worth having a
+go especially when you consider
+manufacturers are charging in excess
+of100 for a circuit board so it's well
+worth going to the effort uh if you
+found this video helpful please remember
+you can always support the website uh by
+buying us a beer and remember to visit
+the website for all your parts and all
+the tools that we used in this video uh
+I've put on the page above which you can
+click on and there's a list of the full
+tools that we use to actually diagnose
+The Faults and replace repl the
+components thanks very much indeed for
+watching Remember at the website we have
+videos on washing machine repairs tumble
+dryers dishwashers ovens cookers Hobs
+extractors and we have some new solar
+energy videos coming out in the series
+as well I hope you found this helpful
+and again thanks for watching
+[Music]

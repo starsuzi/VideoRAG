@@ -1,0 +1,124 @@
+this video where I'm going to show you
+how you can use Photoshop to make your
+whites whiter and to makes you to make
+your colorist pop you're probably
+wondering if this is a Photoshop
+tutorial then why am I in Lightroom
+that's because personally from my
+workflow I usually start in Lightroom to
+filter and flag my photos and select
+them and then edit them in Photoshop and
+come back to Lightroom so that I can
+save and export in this video I want to
+show you how you can turn this beautiful
+blue photo into a proper white how many
+of you have had this issue of shooting
+and getting a photo that's supposed to
+be white into blue or maybe sometimes
+you get a warmer called warmer color
+like yellow I have a very simple trick
+that I like in Photoshop I'll show you
+how you can do that so I right click and
+choose edit and in Photoshop you can
+open the file directly in Photoshop i
+will choose edit original because i
+haven't done any changes to like to the
+photo on my trim and but if you have if
+you if you start with lightroom and you
+do some changes and some edits you can
+do edit a copy you can select as a copy
+with Lightroom adjustments so I'm press
+edit and it would open the file and
+Photoshop I like to create a new layer
+so I'm gonna drag the background layer
+onto the new which basically copies this
+layer and creates a new one just in case
+I want to do some more edits and I don't
+want to mess up my original photo for
+this tutorial I'm going to show you how
+you can create an add an adjustment
+using your not just
+Claire and we're going to work with
+levels if you don't see this window here
+this means that you can view it from you
+can click on window from the menu tool
+and then you can go to adjustments and
+sort of like it hides it or it shows
+that I wanna I want it to be here
+because I used these adjustments a lot
+and I like to have easy access in case
+you don't and you want to access it from
+the menu then you can go to layer new
+adjustment layer and you can choose any
+of these adjustment layers so again we
+want to create a new adjustment layer
+and we're looking at levels once you
+click up levels it opens up this window
+I want you to look at the eyedropper
+this the bottom one is the one that sets
+the white in your image and then if
+you're working with a black photo or a
+dark photo you can set use the
+eyedropper that's on top which is
+basically for the black point or if you
+want to set your grey point into the
+photo that's the middle one so looking
+at the bottom one click on that and then
+select somewhere in your photo where you
+want to set the entire white of your
+photo to that point
+I mean basically if I click here look at
+what's happened just like that ready
+from here to here I really like what it
+has done to my photo you can double
+click again on the adjustment and it
+opens up and then if you think that you
+want to choose some other point in your
+photo you can do that you can just kind
+of like stay around and find somewhere
+where you are comfortable with
+one thing that I've also noticed with
+this photo that is that I had a smudge
+here and it kind of disappeared when I
+applied the levels which is really
+awesome if you still want to
+clean it up you can use your because
+this is a white photo you can use your
+dodge tool or we can use the cloning
+tool which also works I mean this
+specific technique works for white
+photos doesn't work on every other photo
+if you still feel like this is pretty
+blue you can apply another adjustment
+layer like a photo filter and you can
+warm it up a little bit which kind of
+gives that really more balance white
+color it treat depends on your
+preference the client the creative brief
+that you have from the agency and maybe
+your style your personal style if you're
+posting this on Instagram and you can
+see what this basically applies I mean
+it takes it away from being blue to a
+bit of a balanced white you can always
+change the opacity if you don't want it
+to be 100% you can play along with the
+opacity the reading I think it's nice
+thing about creating masks is that when
+you can see when you see it all in white
+it means that this mask is applied all
+over your image if you just want to be
+selective you can color the areas that
+you don't want the mask to apply maybe I
+don't want the truffles to be to get the
+photo filter so I can basically use the
+brush tool with a color black and use
+the brackets to get your brush bigger or
+smaller and once I click on it I mean it
+sort of like creates that it cancels the
+effect of the photo filter onto the
+truffles
+that's like one of my favorite ways of
+getting the whites to be white I've used
+it so many times and it has saved me
+time and effort during my work

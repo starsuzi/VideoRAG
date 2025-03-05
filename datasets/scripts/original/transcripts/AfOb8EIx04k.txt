@@ -1,0 +1,727 @@
+foreign
+hello and welcome my name's Lee Height
+thanks for stopping by this video is
+about how to make wind chimes and the
+decisions that will be useful in adding
+your creativity and Ingenuity to the
+design a set of wind chimes is really
+very simple you can add to it your
+creativity for how you support the chime
+the type of tubing you use the size the
+line you use to support it the striker
+and the elements in designing that along
+with the windsail so before we get
+started with the construction techniques
+we need to make some decisions about the
+type of metal
+and the notes and the link and now we'll
+go to the computer and figure out the
+links for the tubing well while we're
+there we'll also figure out the proper
+diameter for the striker in addition to
+that we'll determine the proper layout
+for the Chimes on the support plate the
+distance between them and the sequence
+of chimes in the circle
+so before we can go to the calculator
+one of the questions most often asked
+from the website is what metal sounds
+best and the answer is they all sound
+good as long as we properly support them
+and properly strike them all metals
+sound good and I've got a little
+demonstration set up here where we've
+got five different tubes four different
+Metals I've got an aluminum tube a
+titanium tube a steel EMT referred to as
+conduit electrical conduit tubing this
+is galvanized steel pipe and this is
+just copper or water pipe and what I'm
+going to do is go down and strike each
+one they've all been cut for the musical
+note C4
+so just notice that they all sound very
+similar I'll point out some differences
+after we do this so here we go we're
+going to start with aluminum which is
+the least dense and I'm working from
+least density to the most density
+with copper being the most dense and
+then we work on down from there so as we
+strike these you'll notice that they all
+sound pretty much the same they're all
+cut for C4
+[Music]
+do it and we'll do it again
+[Music]
+foreign
+so they all have pretty much the same
+sound
+they're all precisely cut and tuned for
+exactly C4 there's slight differences
+between them and the differences has to
+do with the thickness of the wall I want
+to point out the differences between
+these two tubes this is electrical steel
+conduit and this is Galvanized Steel
+different wall thicknesses this is a
+normal thickness of EMT conduit 5 8 inch
+and this is half inch galvanized steel
+pipe and and listen for the sustained
+time
+foreign
+[Applause]
+you'll notice the galvanized steel pipe
+has a much longer sustain time it has
+more mass can hold and release the
+energy much longer so in a quick look
+see at the type of metals some of the
+concerns would be the economics what
+does it cost titanium of course cost
+more aluminum is lighter weight and so
+the weight of the chime set might be an
+important factor if it's not a
+galvanized steel pipe would be the
+heaviest but might be the better choice
+because and in some case you may want it
+you may have some scrap copper or you
+want to use copper Chimes for the
+aesthetic appeal so properly tuned and
+properly supported they're all going to
+sound quite good
+so to begin collecting your resources
+that you'll need for design and
+construction go to the website and
+scroll down you can download pretty much
+the entire website in this handbook here
+here you can download plans for a chime
+set that uses Chrome plated shower rod
+curtains very economical and very good
+sounding set of chimes in four different
+sizes and all of the measurements are
+included in these plans if you're
+designing your own you'll need a support
+disc and a striker and you may need some
+cutouts for the wind catcher so scroll
+on down to the chime length calculators
+and in our case we're going to use the
+musical notes from the C9 chord so
+download this calculator here the C9
+chime tube calculator and also download
+the support disk calculator if you're
+not going to use a predetermined pattern
+on the other hand scroll down a little
+bit more and we have a set of
+pre-calculated chime tube Dimensions
+click on that and it will take you to
+this chart where you can select the type
+of battle aluminum up here at the top or
+copper or brass or Steel in various
+different sizes here so say for example
+you want to do one inch aluminum with a
+wall thickness of 0.05 you would select
+here download that chart and you have a
+set of predetermined links
+to use the calculators very simple you
+need either Microsoft Excel or the Excel
+reader accelerator will work just fine
+we're going to enter three parameters
+the inside and outside diameter and the
+type of metal so in the case of these
+titanium Chimes we'll click here on the
+outside diameter and enter 0.625
+and the inside diameter is 0.555
+and click on the metal tab that now says
+aluminum pull down this arrow and we'll
+select titanium and as soon as we do
+that the calculator is done we're going
+to select the C5 chord for our chime set
+and I'm going to I'll highlight it here
+you can either copy this and paste it
+into a Word document or print out the
+entire sheet but what we have are the
+five notes listed here the length of
+each chime in this column and the point
+at which you drill the Hang point in
+this column in inches the Orange is in
+inches yellow is in millimeters also at
+the very bottom of the chart is a handy
+calculator to convert between English
+and Metric you enter the English value
+here
+it'll give you the millimeters or the
+metric value here and it'll give you the
+inches also in case you didn't happen to
+notice that the bottom are nine other
+tabs one tab is for ratio calculator
+that you do not have to know the
+specific Insight or outside diameter but
+if you know the outside diameter and the
+note that it chimes at you can ratio
+that to other chime links in addition
+there's a tab for the engineering data
+that's used to make the calculations
+also a tab for the musical notes with
+their Associated overtones one through
+four and a series of tabs with the
+standard dimensions for the various
+metals also you may want to use your own
+design for top support plate rather than
+using a predetermined pattern for that
+we have a support disk layout calculator
+the steps are listed here that you need
+to complete in order to use the
+calculator calculator will give you the
+outside diameter of this disk it will
+give you the diameter of the striker
+this blue circle here also will give you
+the location of the chime centers here
+in in this example it's a five chime set
+give you the center to Center distance
+and you mark those out and they will be
+equally spaced Five Points around that
+Circle we're going to use the calculator
+using inches so we'll use the orange
+area in this column we're going to ask
+for five Chimes so the pull down menu
+you can select the number of Chimes you
+can select the outside diameter of the
+chime which in our case is 5 8 of an
+inch we're going to ask for three inch
+diameter Striker which is an inch and a
+half radius
+and we're going to ask the Chimes be
+separated from the striker by a half
+inch once you enter those parameters
+then the answers in inches are in orange
+down here three parameters that you
+selected are in blue and the four
+calculated values are here in red and
+when we get to the shop we'll explain
+how you use these
+now that we're done with computer work
+we can begin construction and we've got
+the printout all the dimensions and
+layout patterns that we'll need we've
+got the length for each of the chime
+along with Where to drill the Hang Point
+we've also got all the dimensions for
+the sport plate and the striker and how
+to lay that out of course we'll need to
+cut the tubing if you have thick walled
+pipe like steel pipe hexall blade or
+chop saw works good thinner wall tubing
+a tubing cutter of course works good if
+you have a metal cutting blade for the
+chop saw of course use that a few files
+will be handy I have a round file that
+we'll be using to deburr the inside of
+the chime along with a half round file
+for the inside of the chime and a flat
+file for the edge of the ends it's handy
+to have a lighter handy for our set of
+titanium Chimes we're going to be using
+braided 50-pound fishing line and it's a
+much cleaner cut if we use a flame to
+cut it rather than side Cutters we get a
+very nice clean trimmed Edge that way of
+course we'll need some method of
+drilling either a hand drill or a drill
+press with the appropriate size drill
+for the hang Point hole in addition
+we're going to need a section of coat
+hanger wire with a 45 degree bend on the
+end and I'll show you later how to use
+that to debur the inside of the tubing
+and we've got the diagram for the layout
+of the support plate in addition to the
+strikers we've got two choices for
+Strikers a circular Striker or a Star
+Striker like this
+and we've got the location the center
+point for each of the Chimes and the two
+support holes right here for the lines
+that support the side of the chime if
+you choose that method of support for
+measurement I use a tape measure that
+has both English and Metric that comes
+in very handy we'll need a set of
+Hardware you can either buy kits of
+hooks like this or individual hooks
+based on your choice for how you're
+going to support the chime maybe an eye
+hook of some sort it's important to hold
+the striker Plumbing level so the wind
+does not blow at a skew and for that I
+like to use a turnbuckle you can thread
+it through the striker like this it
+provides a hook on the bottom to connect
+the string for the windsail and a hook
+on the top to connect to the top support
+plate if for some reason you're not
+going to use the pattern for the layout
+of the Chimes and the striker it's handy
+to have a compass handy because we have
+the dimensions on the location between
+each of these chime centers and the
+location for the holes on each side of
+where you'll drill the support line
+also you need a little strip of paper
+we'll show you how to use that later and
+for the most part this is the complement
+of tools that we'll be using
+whether we're using a hacksaw blade to
+cut it right here
+or if we're using a tubing cutter we
+want to position it just about an eighth
+of an inch Beyond The Mark put the knife
+edge right there and tighten it up if
+you've never used a tubing cutter before
+you tighten it up thumb tight and then
+rotate it and then on every rotation
+give the knob about a quarter turn
+and keep doing that
+and after a few turns it'll cut right
+off now we need to dress up this Edge
+and now we'll make an exact Mark where
+25 and 7 16 is which is right there
+and now we'll go to the bench grinder
+and grind this to the final value
+whenever we use a power tool we need to
+take caution to protect the surface of
+the chime tube in this case here we put
+a couple layers of tape on the surfaces
+for the bench grinder to keep from
+scratching the tubing in the case of the
+bench grinder there's two ways to dress
+up the edge of the chime tube here we
+can go straight on and rotate the tube
+like this as the wheel rotates or we can
+come around here to the side
+[Music]
+I happen to like to use the side of a
+grinding wheel it's a good idea not to
+put a lot of pressure on the side of the
+wheel but light pressure is okay to
+protect the edges I've taken some
+quarter inch aquarium tubing and
+cemented it around this metal Edge so
+that when we lay the tubing on here
+we're protecting its Edge
+and that way we will end up with a nice
+Plum and square Edge and if you don't
+happen to own a bench grinder a flat
+file will work just fine lay the chime
+on a towel on a surface and then just
+rotate the chime back and forth as you
+as you file the edge of the chime
+then we want to round over the south
+side edge and we'll do the same thing
+just rotate the chime and
+file it away and now we need to Smooth
+Up The Inside Edge and we can use a
+round file or a half round file and just
+clean up the edge on the inside or you
+can use a half round file and again
+rotate the chime back and forth and
+clean up that edge in there so when
+we're all done we have a very smooth
+outside edge and a very smooth Inside
+Edge so that any support line is not
+abraded by coming in contact with it
+just a quick reminder that anytime we're
+using power tools make sure we wear the
+appropriate eye protection and hearing
+protection
+okay we're ready to Mark the Hang point
+which is right here because the tube is
+shiny and hard to see I'm going to wrap
+some masking tape about where that Mark
+goes so that I can accurately Mark the
+location we'll put an exact Mark for 5
+and 11 16 is which is right there I'm
+going to take a metal punch and mark a
+the exact spot where one of these holes
+will be driven
+and it's important that that hole go
+directly through the center of the chime
+an easy way to accomplish that is if you
+happen to own a drill press and a B
+Block you just position the drill on the
+B and then when you drill through the
+chime the drill will automatically come
+out the other side exactly opposite the
+entrance if you do not own a B Block how
+do you get this exact same mark on the
+other side of the tubing and I'll show
+you a little trick here that works very
+well in this situation now we want to
+move this Mark to the exact opposite
+side of the tube and we will use our
+cigar band marking technique here which
+is to wrap this paper around here and
+then put a mark right here on the paper
+where we punch the hole and then slide
+it off then take that Mark and put a
+crease at that Mark and then squish the
+paper so the crease at the other side is
+that and after we have that crease in
+there in case you can't see the crease
+you put a little pencil mark on the
+crease okay we're slipping the cigar
+band mark back on the tube and we'll
+position the pencil Mark right over that
+little hole that we previously punched
+which is right there holding the paper
+tight and the tube tight you just turn
+it over and mark the exact same spot on
+the other side and now you have a Plumb
+and perpendicular mark on both sides of
+the tubing in order to drill a hole
+holding the tubing very steady with one
+hand we're using a 1 8 inch diameter
+drill bit and we're going to drill the
+support hole
+okay there's one hole we'll flip it over
+the other side
+foreign
+exactly opposite each other but now that
+we're done drilling these support holes
+we have to clean up those holes and
+deburr them otherwise it will cut the
+support line as the wind moves it back
+and forth here you can see a fairly
+serious Burr at this hole and there's an
+equal Burr on the inside of the hole
+also so how do we get rid of that the
+easiest solution is just to take a
+larger diameter drill bit and by hand
+put enough pressure on there and rotate
+it slowly and you can remove that Burr
+just like that and now it's nice and
+smooth on the outside and now we have to
+do the inside and the first thing we
+want to do is take a long file and reach
+down into the chime we position the hole
+very close to the end for the purposes
+of demonstration but on real chime it
+will be way down on in the chime you
+want to take a long round file and just
+file off the inside Burr like that even
+though we've removed most of the Burr
+we're still left with a sharp edge on
+that inside hole how do we get rid of
+that the easy solution is to use this
+coat hanger wire with a 45 degree Bend
+about a quarter inch long at the end it
+looks like this and you place that
+inside
+the chime like this
+so it looks like that and then as you
+rotate the drill and pull backwards it
+will smooth out that edge and and bend
+it over
+now it's very smooth in there and it has
+bend over any sharp edge and so any line
+going through there will not abrade
+now that we have all of our tubing cut
+the length and the ends of Bendy bird
+and the support holes have been drilled
+and deburred at the proper Point 22.4
+percent down from the end it's time to
+begin threading the chime there's a few
+techniques you can use here for this set
+of titanium Chimes I'm going to use 50
+pound braided fishing line it doesn't
+show up real well on camera so I'm going
+to use a heavier line just for purposes
+of demonstration with a little bit of
+practice you can thread the line
+straight through the hole and pull it
+out the other side and you have the
+chime strung the way you would like it
+when you're doing a two-point support
+like this if for some reason you cannot
+thread it all the way through there's
+another technique you can use here and
+that is take your line and cut it into
+two sections like this and then take one
+line and push it down and out the other
+end like this
+and take the second line and push it
+down like that then tie a knot in this
+end and pull it back inside and now you
+have the chime supported the way you
+normally do it if you threaded it
+straight through if on the other hand
+you want to bring the line out the
+center of the chime it works good for
+large diameter Chimes I would not
+recommend it for small diameter times
+but you can put a pin through that
+support hole after you have your PIN
+installed depending on the kind of
+tubing you're using if it's copper you
+could solder it and final it off and
+make it very smooth and other times you
+may have to epoxy it in and then file it
+down and make it very smooth and not Mar
+the rest of the chime but once the pin
+is installed then you can thread the
+line down on the bottom side of the pin
+bring it out the other end flip it over
+and thread it down the back side and it
+will catch and pull on that PIN so
+that's using so that's using a center
+pin for support another technique is to
+take this length of line that you want
+to use and thread one end just until it
+comes out the end turn it over
+and push this and so it comes out the
+other end this is what I call a half
+wrap and the line will wrap Halfway
+Around the chime tube that's what I'm
+going to use for this 50 pound braided
+fishing line when you bring the line out
+the center of a chime it's important
+that you tie these lines together tie a
+knot right at the top of where it comes
+out that's to keep the line centered so
+it does not touch the sides of the chime
+which has a tendency to diminish the
+sustain time sometimes it will
+completely kill a chime then you can use
+this as a single support
+we're now ready to lay out the striker
+we have two choices we can do a circular
+Striker or a Star Striker in my case I'm
+going to select a Star Striker for this
+particular chime set to get the correct
+pattern you can download a whole package
+of patterns from the website that will
+give you the shape of the center Striker
+or the Star Striker in relation to the
+Chimes it will give you the center point
+for the Chimes based on the chime
+diameter and if you're going to support
+it at the center of the chime here's the
+support point if you're going to support
+it with lines on both sides here are the
+dots for the support on either side of
+the chime in this case today we're going
+to use the support plate calculator
+we've inputted that we've had 5 8 inch
+diameter Chimes we want a three inch
+diameter Striker and we want a
+separation between the chime and the
+striker at a half inch it comes back and
+tells us that we need to make a circle
+this outside Circle 2 and 5 8 inches in
+radius
+and then the Chimes are going to be
+located on a different circle called the
+chime location Circle and that turns out
+to be 2 and 5 16. so we'll draw that
+Circle
+now at this point we're going to just
+select an arbitrary Mark right there and
+the distance between chime Center to
+chime Center is 2 and 11 16. and we set
+a compass to that distance and we'll
+walk a mark around we'll put a mark
+there and a mark there and then continue
+that Mark on around
+until we have five equally spaced points
+and you'll see they all came out equally
+spaced and so these will become the
+Chimes the center for our chime those
+marks right there you might want to put
+a punch Mark at each of those locations
+in our case where we're going to Center
+support to chime we're all done if on
+the other hand you were mounting the
+chime with lines coming out both sides
+of the chime you need two support points
+for that the calculator gives you that
+distance which in this case is an inch
+and eleven thirty seconds so we'd set
+the compass and then just put a mark
+either side of the center and that
+becomes the points where we drill a hole
+for the support line this and just keep
+doing that the same all the way around
+at that point we're done we have the
+cutout pattern we'll cut this out and
+mount the screw eyes at each of these
+and start assembly
+and now that we've got all the
+components done for the chime let's talk
+about some of the options you have for
+assembly we've taken the support plate
+with all the properly laid out five
+support points and attached it to the
+bottom of this little birdhouse we've
+done what's called a top alignment and
+because the camera angle doesn't exactly
+look that way but I have a pencil here
+to show that they're all evenly aligned
+at the top and I removed the pencil and
+I think you can see this little knot
+that are tied up in here we've used the
+half wrap method and brought the line up
+the center of the chime and we tied a
+little knot right here at the top to
+force that line to be centered in the
+chime before it comes up and connects to
+the support point so now we want to look
+at where we position the striker we've
+selected a star-shaped Striker so that
+it more equally strikes all five Chimes
+together and we've positioned it so the
+shortest chime is just below the level
+of the strike it's got about another
+half inch to go here
+and striking in this manner assures that
+we are not striking the dead center of a
+chime dead center on a chime is is a
+quiet Zone the good news is it's a very
+narrow area so it's pretty easy to avoid
+coming down here is the ideal strike
+zone is either end of a chime and we're
+selecting to strike at the lower end of
+the chime down here we've used the
+turnbuckle for the axle of the chime and
+you could just as equally put a circular
+striker in here
+we've chosen a teardrop and we want to
+position it just below the longest chime
+so that the distance between the sail
+and the striker is as short as possible
+we want to maximize the amount of energy
+transferred from the sail to the striker
+and we do that by a short distance
+so here's our finished up chime set
+hanging out in the backyard and very
+light Breeze today but one of the things
+you'll notice is that windsail is not
+moving very much we're getting a slight
+movement in the Star Striker in a very
+light Breeze and which is another reason
+to use a Star Striker is it will
+maximize the amount of energy
+transferred into the Striker from the
+windsail and I particularly want to
+thank the company up in Canada called
+titanium Joe for graciously providing
+these titanium Chimes I think they
+worked out very very well
+I just wanted to quickly show that chime
+set that you can download and build for
+yourself made out of Chrome plated
+shower curtain again we're using
+top-of-a-line chimes with the striker
+down just above the shortest chime at
+the bottom in this case we have
+stretched a rubber band around the
+striker in order to mute the sounds
+occasionally from high wind activity
+here I want to quickly show this next
+set of Chimes which is made from three
+quarter inch copper pipe available in
+home improvement stores and the longest
+chime is cut for C3 it's a pipe chime
+set using the C9 cord with C being cut
+at C3 I wanted to point out this special
+Striker that we're using in a long set
+of chimes like this and on high winds
+they tend to bang and clang against each
+other and become really quite annoying
+there's an easy way to quiet those down
+and still have a very pleasant sound
+something I call the keeper Striker it's
+a mirror image of a Star Striker where
+we capture the chime and prevent it from
+going to the outside diameter and the
+striker has a tendency to rotate back
+and forth even in a heavy wind this will
+be a fairly Pleasant sound also we have
+a much better probability of striking
+all the Chimes in the court at about the
+same time
+[Music]
+also I want to point out one quick tip
+whenever you're putting end caps on
+copper tubing or any other tubing it's
+important that you attach them all the
+way around in this case we sweated
+solder down the inside and made sure it
+flowed the entire circumference in other
+cases you may be using epoxy and make
+sure it covers all the surfaces if it
+only covers a couple of the surfaces and
+there's air gaps in here there's chime
+absolutely will not resonate so if you
+wind up with a dead chime from an end
+cap take it off and reconnect it and
+make make sure it's coated all the way
+around on the inside it's a very
+convenient and easy way to support a
+copper chime
+I want to take just a moment here to
+answer one of the consistent questions
+off the website and that is I've
+calculated and cut a tube for C2 however
+it doesn't sound like C2 why is that and
+the reason is I refer to a chime as
+naked in that it has no amplification
+help compared to a string instrument
+that has a sounding board like a piano
+or a guitar or a reed instrument a brass
+instrument that uses a reed for the
+sound generation it has a Transformer
+that transforms the impedance of that
+Reed out to the atmosphere it's called a
+horn and that will provide the
+amplification a chime on the other hand
+is is naked it has nothing it has the
+circumference of the tube is the largest
+radiating surface so when I strike this
+tube we're not going to hear C2 even
+though it's a three-quarter inch copper
+tube cut for C2 it's going to sound like
+this
+very good sustain time makes a very good
+chime
+but we're not hearing C2 however C2
+really is there if you touch the chime
+to kill it you'll feel that low
+frequency vibration C2 is around 60
+hertz also we can show that it's really
+there by putting the microphone very
+very close to it and you'll hear this
+hum it sounds like home on a microphone
+around 60 hertz
+[Music]
+but if I hold the microphone out here
+you do not hear that hum so the summary
+is if you want very low sounding Chimes
+go ahead and make them long and also
+make them large in diameter If This Were
+a three inch or a six inch diameter
+chime it would begin to radiate more of
+the lower overtones it would start to
+radiate the first overtone do a better
+much better job at the second overtone
+and it'll radiate a little bit of the
+actual fundamental 60 hertz you'll start
+to hear that a little bit so it takes a
+very large radiating surface to transmit
+these little sounds be very similar to a
+woofer a large speaker and a sound
+system you need to move a lot of air in
+order to transform those low frequencies
+out to the air and you can do that with
+large diameter Chimes so on small
+diameter Chimes we're just not going to
+hear the fundamental but it will be very
+melodious and sound very good

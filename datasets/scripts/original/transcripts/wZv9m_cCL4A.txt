@@ -1,0 +1,578 @@
+what's going on
+tribe its site I am back and a lot of
+you have requested a siren build video
+an in-depth siren build video and what
+I'm bringing you today is a support
+build that I love to use with the siren
+I haven't used her too much I will admit
+but I do enjoy using her as a support
+class really being an integral part of
+the team with this particular build and
+the very first thing that I tested and
+believe me I did a lot of testing with
+his ability is flicker three very
+important things I learned about
+elemental effect chances while fiddling
+with this ability flicker and this is
+this is unanimous across the board for
+all characters this has nothing to do
+with just the siren
+slag damage will increase the damage of
+your elemental effect over time that's
+very important always be using slag
+whenever you can especially on the
+harder mom's critical hit damage does
+not affect your damage over time when
+you score critical hit so your initial
+damage yes will crit but your damage
+over time will stay the same as though
+you didn't create elemental effect
+chances do stack on top of each other
+now I don't know because I don't know
+the programming specifically how many
+stacks you can stack on top of each
+other but I do know that you can get it
+to a pretty high rate to the point where
+you can't even see what numbers or what
+when it's spewing out of the mob that
+you're attacking as you can see
+demonstrated in the very first part of
+the video all right now with flicker now
+that I've gotten through the basics of
+what happens with elemental effect
+chances I want to explain the
+percentages and how they work it might
+seem like a really good idea to max this
+out but to be perfectly honest with you
+the difference is very minimal depending
+on what kind of weapons you use so I'm
+going to give you an example I use a
+submachine gun that has a 12% base
+percentage to activate an element
+affect chance now you might be thinking
+well if you get the plus 36 from the one
+point then why don't you go all the way
+up to plus 60% so that you gain a real
+crap ton of Elemental effect chance well
+this is how it actually works
+it's 36% more of 12 so instead of simply
+adding 36 on top of 12 making it some
+around 40 it's actually only adding 4.3
+2% so that will make your base elemental
+effect chance 16.3 2% now again the same
+is said with a level 10 I believe rank
+of this ability making the bonus up to
+60% it'll be 60 percent of 12% in this
+particular case for a 7.2 percent
+increase and an overall base increase of
+19.2% so around a 2 more points I
+believe roughly speaking without the the
+decimal so it's not a huge increase to
+add all 5 points into the ability but it
+would really benefit against a weapon
+like a sniper rifle because 50% is
+usually around the general area where a
+sniper rifle will be for the base chance
+he had 60% of that that's a 30% increase
+in total and for your base to go all the
+way up to 80% chance so that for that
+particular situation is very good but
+then there's also the drawback of a
+submachine gun shoots a lot faster than
+a sniper rifle so there's all those
+checks and balances to kind of keep it
+in place and keep it very balanced and
+the only thing I do not know which would
+completely change everything would be
+how many stacks this can possibly go up
+to without that information I do not
+know if it would be more prudent to put
+it into Flickr and put 4 points there
+and put one point into for site or the
+other way around until I have that
+information I do not know but this is
+the build that I would go for now I go
+into foresight and foresight is the main
+thing for this is again I'm just making
+use of that legendary class mod and I'm
+getting to the next tier of abilities
+but magazine size and reload speed
+reload speed is always I feel one of the
+biggest key differences in DPS for any
+class so being able to reload faster
+being able to switch weapons faster
+being able to have a bigger clip size so
+you don't have to reload as often all
+very key things for maximum DPS in any
+class build alright so here we have the
+comparison of the two one with the
+ability and one without so on the left
+hand side we have the without which your
+clip size is 13 with this particular
+weapon damage per clip is 6.1 million
+you end up shooting seven clips over the
+span of that one minute period equaling
+43 million 225 damage per minute so
+that's what the DPM stands for now on
+the right hand side here you can see
+that the clip size now with this ability
+at four stacks has been increased to 17
+the damage now per clip is 8 million you
+end up with 6 clips over a 1 minute
+period which ends up giving you 48
+million 450,000 damage per minute so
+overall that gives you an increase of 5
+million
+225,000 damage per minute so if you
+think about it every minute that you're
+holding that trigger down that's an
+extra 5 million damage that you're doing
+over that time so it's definitely a
+pretty significant increase alright now
+that we've finished off our last two
+abilities for site and Flickr I'm going
+to be showing you Helios Helios is the
+ability that you would use to really
+buff up your phase lock with 5 points
+and it does a ridiculous amount of
+damage at level 61 it's not a huge
+difference but I mean when you look at
+that 345 K for your regular phase lock
+versus the amount of fire damage that
+comes out of Helios it is a significant
+boost now when you have that linked with
+converge from the motion tree it does
+stupid damage because not only does it
+affect the single target that you hit it
+affects all the targets around it and
+with converge pulling everything in
+towards it it's just a [ __ ] of
+damage
+as you can see here the fire just you
+know 5k is not a heck of a lot for a
+single target but when you got lots of
+it going on it is crazy
+now if you're going for a straight DPS
+build you will be spamming the crap out
+of this ability the second it's off
+cooldown but since this is a support
+build it's going to be basically used to
+revive your friends whenever they get
+into trouble and you can stay afar
+relatively safe distance away so it's
+good to not use it off cooldown
+constantly but try and be versatile with
+it and use it for offensive as well as
+defensive cloud kill is a very
+interesting little ability it does it's
+basically one point for added elemental
+damage and it procs very very often um
+as you can see previously when I was
+shooting nothing was really happening
+aside from my base elemental attacks but
+now with this one no matter what you're
+using you will get an acid burn damage
+for 2,075 damage every time now I
+believe that damage is all scaled upon
+your level so every time you level it
+will go up depending on where you are in
+the game but I mean look at how often
+it'll go off I mean that's pretty
+ridiculous to me I believe it's a
+five-second cooldown so basically the
+five seconds it takes to go off that is
+a signal for you to say okay it'll go
+off again once you shoot something else
+so unfortunately you can't go around
+tagging multiple enemies with it that
+kind of sucks but that extra base damage
+just for shits and giggles is definitely
+worth picking up for one point all right
+guys so the next town that I'm working
+on is immolate and I only put four so
+that again this is it's not like the
+most important talent in the world but
+it's definitely a good talent for if you
+go down because it gives you a serious
+damage boost for when you need to kill
+something to revive and it allows you to
+get to your next ability which is Reaper
+but as you can see a change of slow whoa
+whoa whoa easy steam easy easy don't
+don't be like that as you can see
+there's a little bit of a change of
+atmosphere because I wanted to show you
+disability in action and I could not do
+that attacking a target of somebody
+punch ass alright give me now give it
+out yeah yeah that's it God you bad so
+as you can see there's a quite a ton of
+you know damage numbers coming up off
+him probably be best for me you slag to
+kill him there we go
+cuz that you know until you tell I was
+almost dead just from that alone but
+there's some serious damage like as you
+can see I'm not doing a heck of a lot of
+damage with this gun like that once I go
+into a fight for your life mode I do a
+crap-ton of damage so it's definitely a
+very useful ability to use for when you
+really really need to get yourself a
+revival and you don't have another siren
+around who can revive you from across
+the map so let's head on to the next
+talent alright so our next talent is
+Reaper and it's pretty straightforward
+you deal increased gun damage to any
+enemy who has more than 50% of their
+health so I'll give you a good example
+right now I'm doing four 75k damage with
+this explosive pistol and of course are
+a little lasting cloud gotta love our
+asset Club I'm trippin man I'm trippin
+so let's see putting five points
+obviously so we can get into our next
+tier which will be the blight Phoenix
+but let's see what it does for increased
+damage so that's a pretty significant
+increase going from 475 to 570 Kay
+damage so that's that's huge but it does
+kind of suck that once the person gets
+down to below 50% health you should be
+doing a lot less damage so you'll be
+going back to 475 so my suggestion in a
+team atmosphere is you be the first one
+who attack a target and once you see
+it's hitting around 50% if there's
+multiple targets move on to the next one
+and let like the command or the gun zerk
+or work on those so that way you're
+doing the most to your possible
+potential alright so I'm going to show
+you the blight Phoenix as it can only be
+used on stuff that you can kill so I
+can't show you on the target dummy but
+basically is a kill skill where whenever
+you kill something you gain an aura
+around you a fire and corrosive damage
+and well let's just put it this way you
+look like a frickin badass with fire
+wings when you
+as well so I mean who wants to turn down
+an ability like that let's let's show
+you what the word is here so it's 8
+there we go so he's dead let's see what
+damage it does does 3000 damage a we see
+a month I'm not actually doing much I'm
+gonna go straight to ruin the action
+skill augmentation phase lock now slags
+electrocutes and corrodes all nearby
+enemies so this is much like the cloud
+kill in a way but it's based off your
+phase lock and like I said phase lock
+being up so quickly you can do a fair
+amount of damage with it
+I might forgot to put the point into it
+so right now you only see about this
+much damage the the fire damage from
+which ability wasn't here believe it was
+Helios so you get the fire damage from
+Helius but now you're also going to be
+getting the all the other damages from
+ruin which is you know slag electricity
+fire acid so this guy's generally going
+to be having a bad day and just like
+that is your damage is still going for
+the most part and your abilities still
+up so you can just boom right again and
+you see that's the other cool thing too
+if you slagged before you use your phase
+lock all of your damage gets increased
+not just your dot damage even like the
+initial as you can see 100 so it was it
+was a million damage basically for your
+phase lock damage alone so this
+especially in duels if you want to easy
+win duels just spam this ability until
+you hit them that pretty simple pretty
+simple so now that we're into the new
+tree we are looking at mind's eye and it
+increases your critical hit damage which
+is always good to take advantage of now
+while it's good to take advantage of I
+also say don't put yourself out of place
+just to get critical hits when you're in
+a boss fight take advantage of them 1
+there's an opportunity but try not to
+get yourself into a position where
+you're going to be taking unnecessary
+damage or possibly dying just to get
+critical hits always play smart rather
+than being lucky it also increases your
+melee damage by a set amount I can't
+remember exactly where it is once I got
+all my points into it but utilising a
+little glitch I'm going to show you how
+melee actually works before and after
+disability and a difference in critical
+hit damage before and after so let's do
+the before which I as you can see I'm on
+the inside of the training arena and
+that's the glitch I was talking about
+there is a way to get in here and if you
+guys really want to see it I will make a
+baby tutorial video I mean it's pretty
+short but melee doing thirty four
+thousand five hundred and eighty damage
+and that's before the talents are in it
+sorry I'm losing my voice here and now
+my critical hit damage is stop dodging
+my [ __ ] about a million damage right now
+so nine hundred K about 100 K off from
+doing a million damage and with that
+talent point now being maxed out
+buh-buh-buh-buh you will do 50% more
+critically damage which will basically
+raise you to about a million two hundred
+and fifty thousand and then melee damage
+increased by 60% which I'm not even sure
+how much that will be because I haven't
+actually tested that until I've made
+this video so melee damage increases to
+fifty-five thousand so about 20-ish
+or so thousand more and so the critical
+hit damage like I said it should be
+about a million 250 million 236 I'm
+going to move over here a little bit so
+I got a little more range slag a mofo
+and see what the damage is with slack
+and I'm sucking it rolling through my
+weapons here
+so with slag 1.7 million on the body and
+then 3.7 million on all right well as
+you can see we've got a little change of
+scenery and I'm moving on to the ability
+wreck while you have the enemy phase
+locked you gain an increased fire rate
+and damage with all gun types so it
+increases your damage and fire rate as
+it says pretty plain and simple now the
+problem is this is not a very effective
+ability for bosses unless you happen a
+phase lock say like ads or something on
+the side and you pretty much ignore them
+to keep that buff up for as long as
+possible
+again this is mainly a support thing and
+really good on trash any mob that is
+immune to phase lock being like actually
+physically locked up will make it so
+that your cooldown
+really starts while it's up so that you
+will never technically get this buff so
+that's one of those things to just be
+aware of while you're using this
+particular build that I'm showing you
+and a good example was I could not show
+you using the target dummy so now I have
+to show you kind of like a live action
+what's going on and it's kind of
+difficult in ultimate vault hunter mode
+when I'm using half my talents so I'll
+show you the fire rate and the damage
+here so remember the damage you were
+doing with a slagged enemy was about 1.7
+million the critical I believe was 3.6
+or 3.7 around there so keep those
+numbers in mind when I slag something
+and use the phase lock to gain the extra
+damage buff and you'll you'll see the
+speed difference simply while I'm
+shooting and have something phase lock
+so as you can see right now that's
+that's the increase in damage and speed
+and right now you can even see it slowed
+right down as soon as that phase lock
+ended so that was a good example for
+that I'm just waiting for it to come
+back up wait for someone to sneak around
+the corner try and take these suckers on
+one by one
+rather than rushing in there you know
+death streak like phase lock him and
+I'll just attack this guy instead so I
+can't see the damage I did 1 million
+damage so it seems a little lower than
+it was before
+but I might have hit him right at the
+end of him being slagged I'm not quite
+sure oh oh that was sneaky that was
+sneaky but even even with this really
+crappy pistol you can see I'm doing a
+Farrow I got a switch-up better damage
+Oh last second kill to survive alright
+let's try and get these suckers away
+from each other
+yes chase me down chase me down alright
+stop so again let's show you some of the
+damage I did 1.9 million and that was a
+non crit so basically one point nine
+million nine crits that's about a 200k
+increase not huge but again I just
+wanted to take that one particular
+ability to level up to get the game
+changer in the healing tree which is
+what makes this my hybrid
+because you can instantly revive a
+friend using phase lock which really is
+such a powerful ability when you're on
+raid bosses all right guys just a quick
+demonstration of the near limitless
+range that you can get on the revival
+skill as long as you're in line of sight
+if you're not - Ida can't hit you what
+should be a lion sight there yeah let me
+know when you're ready I'm ready
+pre recording I'm recording grades down
+blows himself up oh my god I can't find
+a button IIIi can't find a button [ __ ]
+gotcha okay so what's the special up
+this well though what that I can revive
+you from super mad long distances away
+oh yeah I revive me while it's still
+exploding it's okay it's up again now
+alright guys we are back in sanctuary as
+you can see and the next ability I'm
+going to talk about is ward improves
+your shield capacity and recharge delay
+and as you can see there it's a pretty
+hefty delay just from one point with the
+legendary class mod and a pretty
+significant increase now I will show you
+what my shield is doing right now I've
+got 61 K basically on this shield and
+the only way I can show you the delay I
+don't have a weapon that will actually
+cause me damage I'll throw the
+Roughrider on and as you can see I am at
+0 now and then I'll switch back to the B
+which has the longest delay on it which
+is a 6 point 16 second so we'll put that
+on and let's see how long she takes that
+there we go so the first thing we will
+check out is the difference
+in the shield sighs so 91k and that was
+what was the increase what was what do
+we have here we had an increase of 50%
+so basically 30k was added on top of
+that 61k or so so that's about how much
+that was increased and 80% recharged
+delay that's that's crazy so let's see
+if it actually statistically tells you
+no so it doesn't change the number
+statistically that is a pretty
+significant boost just for the shield
+adjustment alone for the increase in
+capacity the delay is just honestly a
+huge bonus especially when you're
+running with something like the bee that
+has a long delay and you need to get
+that be up there to have the whole
+function of it so we'll go on to the
+next ability which heals gun damage and
+bullet speed now the bullet speed I
+don't really have anything that I can
+show you but I'll show you the damage
+before I use it let's use this crappy
+pistol again so right now I'm sitting at
+570 K damage non crit and 1.2 or
+1,200,000 crit
+so now we'll throw that ability on there
+again we'll max this the sexy sexy
+ability out for a 30% increase gun
+damage and 40% increased speed so
+hopefully you'll be able to see the
+speed difference a little bit so we did
+600 moles at 630 K Oh 603 K so not a
+huge increase but you'll probably see a
+bigger increase with the crit so about
+100k increase on the crit not too bad
+not the greatest thing in the world but
+guns like this when speed is very much
+an issue it's definitely a good thing to
+have all right so we're down to the last
+few abilities and I'm not going to show
+you converge just yet because I have to
+actually show you the footage out in the
+field actually mangling face so first of
+all we've got fleet which basically
+increases your movement speed when your
+shields are depleted and
+I'm going to show you a side-by-side
+view of both going on at the same time
+and that way you'll see a different
+we're gonna run so as you can see normal
+speed on the big screen the little
+screen someone that's faster alright so
+I'm going to show you convergence well I
+totally forgot I have to actually put
+the point in first that usually helps if
+you want to you know have that ability
+and as you can see now that a lot unlock
+our last ability which I will cover in
+the next next part of the video here but
+first of all convergence gather up some
+stuffs now you see you got all these
+little bugs all these little buggers
+let's say oh oh easy get up [ __ ] didn't
+you do that there you go
+see as you can see everything gets
+pulled into it with the convergence
+which is pretty awesome I love it so it
+makes it very good if you want to gather
+oh god I've got lots of adults it's very
+good if you want to gather everything up
+and use a grenade to kill it all right
+so our phase log cool down I will have
+to go down quickly to the target dummy
+and show you the difference but I'll
+show you the difference with and without
+this cool then as you can see here the
+cooldown for the siren is extremely fast
+and it's only about a two-second
+difference with this talent in it but
+two seconds when reviving can be the
+difference between life and death I'd
+say the best thing about this particular
+build and the fact that its support and
+it still offers a great deal of damage
+is just how you build your character if
+you're using the right gear like I was
+lucky enough to find this butcher
+unfortunately it's a level 59 so I
+really want to try and get a level 61
+variant of this butcher but a fire
+butcher + the fire relic + the B plus
+slag + like all the immense damage you
+can do like check this stuff
+like the amount of numbers that you see
+like I'm doing four million five million
+three million seven million with this
+shotgun this shotgun especially if you
+were against a fleshy target like this
+you're doing ridiculous damage easily
+doing ridiculous damage so I really
+although it still supports Peck and you
+can easily push out more DPS with this
+class I really enjoy building it in a
+way where I can support my team so if
+you guys want to really be downing raid
+bosses this is the spec to pick because
+then you're gonna be able to help your
+team as well as do a significant amount
+of damage even if it's not the maximum
+you could possibly do hope you've
+enjoyed this build guys don't forget to
+subscribe and like the video or dislike
+but I'll catch you on the flipside

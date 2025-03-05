@@ -1,0 +1,122 @@
+sometimes with older photos
+they become discolored depending on the
+environment there in
+this photo was hanging on a wall had
+direct sunlight
+for a couple hours a day for many years
+were going to try to do a couple
+techniques to bring the color back into
+this photo and get rid of some of this red
+be warned tho this is only
+basic techniques and no matter what you
+do it's never gonna go back to its
+original state
+and these are just quick and easy
+techniques
+you can get a little bit more
+complicated and get better results and
+better color
+but its going to take a lot longer than the
+two or three minutes
+it's gonna take us for this photo so the
+first thing we're going to do is try out
+Photoshops auto tone color and
+and contrast commands to do that will go
+up to the Image menu
+and choose auto tone and then choose
+auto contrast and auto color
+and it did a fairly good job it still
+has a little bit of a purple tint
+but now we can see the purple velvet of the
+dress and yes
+it was a very cool dress and then we see
+the white ruffles
+and we're starting to see some green and pink from the background however what this did
+was it
+damage the original photo now your probably
+saying well that's okay because we don't
+like the original photos that had too
+much red
+but if you were to save this and then
+decide later
+no I wanted adjust that again or try it again
+well now you've just permanently change
+this original photo
+we never want to do that in Photoshop so
+in the history
+I'll go back to my first state with the
+red
+in the photo and we're going to do
+something called adjustment layers
+in these allow us to change the color
+without harming the original picture
+so in the adjustments layer panel which
+if you can see that panel got to window 
+and choose
+adjustments from here we're gonna choose
+the color balance adjustment
+and it adds it as a layer on top of the
+original photo
+and it's not harming that original photo
+but it will still change its color
+we have a definite problem with the red
+color in this photo
+so looking at these sliders if we have too
+much red
+we need to balance that color out by
+adding its opposite
+cyan and as you move that down to make
+a judgment on what looks good and what
+doesn't
+be aware that people are usually going to
+look at the face first
+and so use a baby skin tone as a good
+judge
+on whether or not you're going too far
+or not far enough
+and if this one has a little bit to
+magenta
+too much magenta we can add a little
+bit a green and then you can look if it
+has little bit
+too much yellow you can slide it in towards blue
+and be aware that you can also change
+the shadows
+and the highlights as well but mid tones
+is going to work for us for this picture
+now if you want to refine in the color even
+more
+you can do a color balance that's gonna
+make the background look really good
+but when you do the color balance that
+makes that back on the good
+its gonna a effect the face and the skin
+tone
+and the dress of the baby here and it's
+not gonna look good in those areas
+so we can always do is fine a mask
+technique tutorial and learn how to do
+mask
+on this color balance so that it only
+affects the foliage
+then add another adjustment so that you
+can get the skin tone of her hand and her face
+just right
+add a mask to that and do the same
+thing for the dress
+if you look at my YouTube channel there
+are mask tutorials up there
+now what we can do is we can add other
+adjustment layers if we need to add some
+brightness and contrast
+and then we can turn the visibility
+on an offer each of those layers to see
+if were liking whats happening
+with our changes if we don't like him we
+can throw these adjustment layers away
+and try again
+and if we do like em make sure to say
+this is a Photoshop file so it keeps
+those layers intact
+which again it doesn't harm the original
+photo
