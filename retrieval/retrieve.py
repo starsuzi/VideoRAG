@@ -8,9 +8,9 @@ import argparse
 
 def parse_arguments():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--feat_dir", type=str, default=".", help="Directory containing preprocessed features")
-    parser.add_argument("--ann_path", type=str, default="/home/kangsan/VideoRAG/overlapped_with_vids.json", help="Path to annotation file")
-    parser.add_argument("--output_dir", type=str, default=".", help="Directory to save retrieval results")
+    parser.add_argument("--feat_dir", type=str, help="Directory containing preprocessed features")
+    parser.add_argument("--ann_path", type=str, help="Path to annotation file")
+    parser.add_argument("--output_dir", type=str, help="Directory to save retrieval results")
     return parser.parse_args()
 
 
