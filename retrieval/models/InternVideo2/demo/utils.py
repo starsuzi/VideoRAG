@@ -255,7 +255,7 @@ class InternVideo2_Stage2(nn.Module):
         encoder_name = self.config.model.text_encoder.name
 
         if "bert" in encoder_name:
-            self.config.model.text_encoder.config = os.path.join('models/InternVideo2', self.config.model.text_encoder.config)
+            self.config.model.text_encoder.config = os.path.join('retrieval/models/InternVideo2', self.config.model.text_encoder.config)
             text_encoder = build_bert(
                 self.config.model,
                 self.is_pretrain,
