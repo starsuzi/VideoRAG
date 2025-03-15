@@ -20,7 +20,7 @@ def load_model(config_path, model_path, device='cuda'):
     return model
 
 
-def extract_visual_features(video_dir, model, device='cuda', fn=4, size_t=224):
+def extract_video_features(video_dir, model, device='cuda', fn=4, size_t=224):
     results = {}
 
     for video_id in tqdm(os.listdir(video_dir)):
@@ -51,11 +51,12 @@ def extract_visual_features(video_dir, model, device='cuda', fn=4, size_t=224):
     return results
 
 
-def extract_text_features(data, model):
+def extract_query_features(data, model):
     query2qid = {item['howto100m_query_text']: item['qid'] for item in data}
     queries = [item['howto100m_query_text'] for item in data]
 
-    text_features = get_text_feat_dict(queries, model)
-    results = {query2qid[query]: feature.cpu().numpy() for query, feature in text_features.items()}
-
-    return results
+    return {
+        query2qid[query]: feature.cpu().numpy() 
+        for query, feature 
+        in get_text_feat_dict(queries, model).items()
+    }

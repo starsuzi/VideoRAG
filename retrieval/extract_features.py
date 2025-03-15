@@ -22,17 +22,17 @@ def load_model(config_path: str, model_path: str) -> InternVideo2_Stage2:
     return interface.load_model(config_path, model_path)
 
 
-def extract_text_and_visual_features(
+def extract_query_and_video_features(
     base_dataset: list,
     model: InternVideo2_Stage2,
     video_dir: str = './datasets/videos'
 ) -> (dict, dict):
     return (
-        interface.extract_text_features(
+        interface.extract_query_features(
             base_dataset, 
             model
         ), 
-        interface.extract_visual_features(
+        interface.extract_video_features(
             video_dir,
             model
         )
@@ -48,18 +48,18 @@ def main() -> None:
         model_path=args.model_path
     )
 
-    text_features, visual_features = extract_text_and_visual_features(
+    query_features, video_features = extract_query_and_video_features(
         base_dataset=base_dataset,
         model=model
     )
 
     data_io.save_features(
-        features=text_features,
-        save_path=f'./datasets/retrieval/{"synthetic" if args.is_synthetic else "wikihow"}/text_features.pkl'
+        features=query_features,
+        save_path=f'./datasets/retrieval/{"synthetic" if args.is_synthetic else "wikihow"}/query_features.pkl'
     )
     data_io.save_features(
-        features=visual_features,
-        save_path=f'./datasets/retrieval/{"synthetic" if args.is_synthetic else "wikihow"}/visual_features.pkl'
+        features=video_features,
+        save_path=f'./datasets/retrieval/{"synthetic" if args.is_synthetic else "wikihow"}/video_features.pkl'
     )
 
 
