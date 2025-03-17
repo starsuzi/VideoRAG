@@ -14,7 +14,6 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument("--config_path", type=str, default="retrieval/models/InternVideo2/demo/internvideo2_stage2_config.py", help="Path to model configuration file")
     parser.add_argument("--model_path", type=str, help="Path to model checkpoint InternVideo2-stage2_1b-224p-f4.pt")
     parser.add_argument('--is_synthetic', action=argparse.BooleanOptionalAction, default=False)
-
     return parser.parse_args()
 
 

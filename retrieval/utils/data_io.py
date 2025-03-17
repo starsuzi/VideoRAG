@@ -13,7 +13,7 @@ def get_base_data(file_path: str = '', is_synthetic: bool = False):
 
 
 def load_features(file_path: str):
-    with open(load_path, 'rb') as f:
+    with open(file_path, 'rb') as f:
         features = pickle.load(f)
     return features
 
@@ -22,3 +22,15 @@ def save_features(features: dict, save_path: str):
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, 'wb') as f:
         pickle.dump(features, f)
+
+
+def load_results(file_path: str):
+    with open(file_path, 'r') as f:
+        results = json.load(f)
+    return results
+
+
+def save_results(results: dict, save_path: str):
+    os.makedirs(os.path.dirname(save_path), exist_ok=True)
+    with open(save_path, 'w') as f:
+        json.dump(results, f, indent=4)
