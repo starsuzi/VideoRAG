@@ -13,6 +13,7 @@ def load_model(config_path, model_path, device='cuda'):
     config = Config.from_file(config_path)
     config = eval_dict_leaf(config)
     config.model.vision_encoder.pretrained = model_path
+    config['pretrained_path'] = model_path
 
     model, _ = setup_internvideo2(config)
     model.to(device)
