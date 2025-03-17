@@ -13,7 +13,7 @@ def get_base_data(file_path: str = '', is_synthetic: bool = False):
 
 def get_retrieved_videos(file_path: str = '', is_synthetic: bool = False):
     file_path = file_path if file_path else (
-        f'./datasets/retrieval/{"synthetic" if is_synthetic else "wikihow"}_query2videos.json'
+        f'./datasets/retrieval/{"synthetic" if is_synthetic else "wikihow"}/query2videos.json'
     )
     with open(file_path, 'r') as f:
         raw_data = json.load(f)
